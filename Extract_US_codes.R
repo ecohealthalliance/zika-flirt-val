@@ -1,27 +1,27 @@
-
-uscodesraw <- read.csv("us_codes_raw.csv", header = TRUE, sep = ",")
+setwd("~/Repositories/zika-flirt-val")
+uscodesraw <- read.csv("~/Repositories/zika-flirt-val/data/us_codes_raw.csv", header = TRUE, sep = ",")
 
 #turn data frame to character data frame
 uscodes <- data.frame(lapply(uscodesraw, as.character), stringsAsFactors=FALSE)
 
 #import aggregated simulation data
-simsum <- read.csv("sim_sum.csv", header = TRUE, sep = ",")
+simsum <- read.csv("~/Repositories/zika-flirt-val/data/sim_sum.csv", header = TRUE, sep = ",")
 simsum <- data.frame(lapply(simsum, as.character), stringsAsFactors=FALSE)
 
 #subset data
-codessub<- uscodes[,c(1,4)]
-new<-data.frame(codessub)
+uscodessub<- uscodes[,c(1,4)]
+uscodessub<-data.frame(uscodessub)
 
-#add a new column0 NOT NECESSARY
+#add a new column NOT NECESSARY
 #new$newcolumn<-NA
 
-#rename new
+#rename columns of uscodes sub
 library(plyr)
-colnames(new)[1]<- "Code"
+colnames(uscodessub)[1]<- "Code"
 
 #inner join (can also use semi?? not sure) by code to compare US aiports list and extract US simulation results only
 require(dplyr)
-us_onlysim<- inner_join(simsum, new)
+usonlysim<- inner_join(simsum, uscodessub)
 
 #write to csv
-write.csv(us_onlysim, file="US_Only_Sim_inner.csv")
+write.csv(usonlysim, file="~/Repositories/zika-flirt-val/data/us_only_sim.csv")

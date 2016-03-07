@@ -1,23 +1,22 @@
-source("Extract_US_codes.R")
+source("extract_us_codes.R")
 
 
-zikacasesraw <- read.csv("Zika U.S. Cases 3-3-2016.csv", header = TRUE, sep = ",")
+zikacasesraw <- read.csv("~/Repositories/zika-flirt-val/data/current_zika_cases.csv", header = TRUE, sep = ",")
 
-zikacase<-zikacasesraw[,c(8,9)]
-
-zikacase<- data.frame(lapply(zikacase, as.character), stringsAsFactors=FALSE)
+zikacases<-zikacasesraw[,c(8,9)]
+zikacases<- data.frame(lapply(zikacases, as.character), stringsAsFactors=FALSE)
 
 #rename column
-colnames(zikacase)[1]<- "Code"
+colnames(zikacases)[1]<- "Code"
 
 #create row of 1's
-zikacase$Count<- 1
+zikacases$Count<- 1
 
 #make new row of 1's numeric class
-zikacase$Count<-as.numeric(zikacase$Count)
+zikacases$Count<-as.numeric(zikacases$Count)
 
 #aggregate 1's ... should be count of cases by airport
-z_case_code<-aggregate(Count ~ Code + State, data=zikacase, sum)
+z_case_code<-aggregate(Count ~ Code + State, data=zikacases, sum)
 
 #omit blanks
 z_case_code[z_case_code==""]<-NA
