@@ -1,11 +1,15 @@
-source("join_case_data.R")
+source("SIM_join_case_data.R")
 
-#fit function to sum_occur and case_count relationship
+#fit function to sum_occur and case_count relationship- code
 fit<- glm(case_count ~ sum_occur, data = merge2, family=poisson())
 summary(fit)
 
+fitstate<- glm(case_count ~ sum_occur, data=mergestate, family = poisson())
+summary(fitstate)
+
 #turn fit function into linear model
 fit<- lm(fit, data=merge2)
+#fitstate< lm(fitstate, data=mergestate)-- NO PLOT YET FOR STATE DATA
 
 #create values of sum_occur for plot
 range(merge2$sum_occur)
