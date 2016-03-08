@@ -30,7 +30,7 @@ usonlysim$Code <- recode(usonlysim$Code, " 'IAD'='IAD/DCA'")
 usonlysim$Code <- recode(usonlysim$Code, " 'DCA'='IAD/DCA'")
 
 usonlysim$Code <- recode(usonlysim$Code, " 'FLL'='MIA/FLL'")
-usonlysim$Code <- recode(usonlysim$Code, " 'FLL'='MIA/FLL'")
+usonlysim$Code <- recode(usonlysim$Code, " 'MIA'='MIA/FLL'")
 
 usonlysim$sum_occur<- as.numeric(usonlysim$sum_occur)
 
@@ -38,6 +38,8 @@ usonlysim$sum_occur<- as.numeric(usonlysim$sum_occur)
 usonlysim_agg_state<- aggregate(sum_occur ~ State, data=usonlysim, sum)
 
 #airport agg
+#ONLY USE RECODE COMMAND FOR AIRPORTS
+#usonlysim$State <-recode(usonlysim$State, " 'NJ'= 'NY'")
 usonlysim_agg<-aggregate(sum_occur ~ Code + State, data=usonlysim, sum)
 
 #write metro area agg to csv
