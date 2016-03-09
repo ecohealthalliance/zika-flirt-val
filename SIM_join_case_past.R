@@ -1,4 +1,4 @@
-source("SIM_extract_us_data.R")
+source("SIM_extract_us_past.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
 zikacasesraw <- read.csv("~/Repositories/zika-flirt-val/data/current_zika_cases.csv", header = TRUE, sep = ",")
@@ -20,16 +20,17 @@ z_case_state<- aggregate(Count ~ State, data=zikacases, sum)
 
 #omit blanks -state and code
 z_case_code[z_case_code==""]<-NA
-z_case_code2<-na.omit(z_case_code)
+z_case_code<-na.omit(z_case_code)
 
 z_case_state[z_case_state==""]<-NA
-z_case_state2<-na.omit(z_case_state)
+z_case_state<-na.omit(z_case_state)
 
+#recode
 
 #full join (i think) by code and state to compare US sim results and case spreadsheet
 require(dplyr)
-merge2<- full_join(usonlysim_agg, z_case_code2)
-mergestate<-full_join(usonlysim_agg_state, z_case_state2)
+merge2<- full_join(usonlysimpast_agg, z_case_code)
+mergestate<-full_join(usonlysimpast_agg_state, z_case_state)
 
 
 #rename columns -state and code
