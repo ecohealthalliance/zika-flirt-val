@@ -1,4 +1,4 @@
-source("SIM_join_case_data.R")
+source("SIM_join_case_past.R")
 
 #fit function to sum_occur and case_count relationship- code
 fit<- glm(case_count ~ sum_occur, data = merge2, family=poisson())
