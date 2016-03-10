@@ -1,6 +1,4 @@
-#####YOU HAVE TO RUN THIS IN CHUNKS FRO SOME REASON. UNARY OPERATOR ERROR WHEN SOURCES ALL AT ONCE?
 
-setwd("~/Repositories/zika-flirt-val")
 library(dplyr)
 library(car)
 uscodes <- read.csv("~/Repositories/zika-flirt-val/data/us_codes_raw.csv", header = TRUE, sep = ",")
@@ -36,15 +34,25 @@ usonlysimpast_agg_state<- aggregate(sum_occur ~ State, data=usonlysimpast, sum)
 
 usonlysimpast_met<-usonlysimpast[,c(1,2)]  
   
-usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'JFK'='JFK/EWR/LGA'")
-usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'EWR'='JFK/EWR/LGA'")
-usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'LGA'='JFK/EWR/LGA'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'JFK'='JFK/EWR/LGA/SWF/HPN'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'EWR'='JFK/EWR/LGA/SWF/HPN'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'LGA'='JFK/EWR/LGA/SWF/HPN'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'SWF'='JFK/EWR/LGA/SWF/HPN'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'HPN'='JFK/EWR/LGA/SWF/HPN'")
 
-usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'IAD'='IAD/DCA'")
-usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'DCA'='IAD/DCA'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'IAD'='IAD/DCA/BWI'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'DCA'='IAD/DCA/BWI'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'BWI'='IAD/DCA/BWI'")
 
 usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'FLL'='MIA/FLL'")
 usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'MIA'='MIA/FLL'")
+
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'ATL'='ATL/BHM'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'BHM'='ATL/BHM'")
+
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'SJC'='SJC/OAK/SFO'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'OAK'='SJC/OAK/SFO'")
+usonlysimpast_met$Code <- recode(usonlysimpast_met$Code, " 'SFO'='SJC/OAK/SFO'")
 
 #airport agg
 usonlysimpast_met$sum_occur<- as.numeric(usonlysimpast_met$sum_occur)

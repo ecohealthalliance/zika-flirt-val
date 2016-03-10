@@ -1,8 +1,8 @@
-source("SIM_extract_us_past.R")
+source("Sim_extract_us_past.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
-zikacasesraw <- read.csv("~/Repositories/zika-flirt-val/data/current_zika_cases.csv", header = TRUE, sep = ",")
-zikacases<-zikacasesraw[,c(8,9)]
+zikacasesraw <- read.csv("data/current_zika_cases.csv", header = TRUE, sep = ",")
+zikacases<-zikacasesraw[,c(9,10)]
 zikacases<- data.frame(lapply(zikacases, as.character), stringsAsFactors=FALSE)
 
 #rename column
