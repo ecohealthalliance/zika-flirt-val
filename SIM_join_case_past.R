@@ -1,4 +1,4 @@
-source("SIM_extract_us_past.R")
+#source("SIM_extract_us_past.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
 zikacasesraw <- read.csv("~/Repositories/zika-flirt-val/data/current_zika_cases.csv", header = TRUE, sep = ",")
