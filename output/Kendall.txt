@@ -1,0 +1,17 @@
+Tests run in the following order:
+
+[1] "data/regions_curr.csv" "data/regions_past.csv" "data/state_curr.csv"  
+[4] "data/state_past.csv"  
+
+[[1]]
+tau = 0.257, 2-sided pvalue =6.6757e-06
+
+[[2]]
+tau = 0.27, 2-sided pvalue =2.861e-06
+
+[[3]]
+tau = 0.535, 2-sided pvalue =2.3842e-07
+
+[[4]]
+tau = 0.464, 2-sided pvalue =7.2718e-06
+
