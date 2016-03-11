@@ -4,6 +4,9 @@ source("SIM_join_case_curr.R")
 fit<- glm(case_count ~ sum_occur, data = merge2, family=poisson())
 summary(fit)
 
+fit<- glm(case_count ~ sum_occur, data = mergestate, family=poisson())
+summary(fit)
+
 fitstate<- glm(case_count ~ sum_occur, data=mergestate, family = poisson())
 summary(fitstate)
 
