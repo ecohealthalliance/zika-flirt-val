@@ -1,7 +1,7 @@
 source("Sim_extract_us_past.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
-zikacasesraw <- read.csv("data/current_zika_cases.csv", header = TRUE, sep = ",")
+zikacasesraw <- read.csv("data/zika_cases_past_fut.csv", header = TRUE, sep = ",")
 zikacases<-zikacasesraw[,c(9,10)]
 zikacases<- data.frame(lapply(zikacases, as.character), stringsAsFactors=FALSE)
 
@@ -50,7 +50,9 @@ mergestate[ is.na(mergestate) ]<- 0
 #change class to numeric -state and code
 merge2$sum_occur<-as.numeric(merge2$sum_occur)
 class(merge2$sum_occur)
+write.csv(merge2, file="data/regions_past.csv")
 
 mergestate$sum_occur<-as.numeric(mergestate$sum_occur)
 class(mergestate$sum_occur)
+write.csv(mergestate, file="data/state_past.csv")
 
