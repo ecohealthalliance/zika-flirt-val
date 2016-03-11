@@ -1,13 +1,13 @@
 
 library(dplyr)
 library(car)
-uscodes <- read.csv("~/Repositories/zika-flirt-val/data/us_codes_raw.csv", header = TRUE, sep = ",")
+uscodes <- read.csv("data/us_codes_raw.csv", header = TRUE, sep = ",")
 
 #turn data frame to character data frame
 uscodes <- data.frame(lapply(uscodes, as.character), stringsAsFactors=FALSE)
 
 #import aggregated simulation data
-simsumfut <- read.csv("~/Repositories/zika-flirt-val/data/sim_all_sum_past.csv", header = TRUE, sep = ",")
+simsumfut <- read.csv("data/sim_all_sum_past.csv", header = TRUE, sep = ",")
 simsumfut <- data.frame(lapply(simsumfut, as.character), stringsAsFactors=FALSE)
 
 #subset Us airport code data

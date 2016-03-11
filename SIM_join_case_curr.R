@@ -50,9 +50,9 @@ mergestate[ is.na(mergestate) ]<- 0
 #change class to numeric -state and code
 merge2$sum_occur<-as.numeric(merge2$sum_occur)
 class(merge2$sum_occur)
-write.csv(merge2, file="data/regions_curr.csv")
+write.csv(merge2, file = "data/regions_curr.csv", row.names = FALSE)
 
 mergestate$sum_occur<-as.numeric(mergestate$sum_occur)
 class(mergestate$sum_occur)
-write.csv(mergestate, file="data/state_curr.csv")
+write.csv(mergestate, file = "data/state_curr.csv", row.names = FALSE)
 
