@@ -47,8 +47,8 @@ usonlysimcurr_met$Code <- recode(usonlysimcurr_met$Code, " 'SJC'='SJC/OAK/SFO'")
 usonlysimcurr_met$Code <- recode(usonlysimcurr_met$Code, " 'OAK'='SJC/OAK/SFO'")
 usonlysimcurr_met$Code <- recode(usonlysimcurr_met$Code, " 'SFO'='SJC/OAK/SFO'")
 
-
 #airport agg
 usonlysimcurr_met$sum_occur<- as.numeric(usonlysimcurr_met$sum_occur)
 usonlysimcurr_met_agg<-aggregate(sum_occur ~ Code, data=usonlysimcurr_met, sum)
+
 
