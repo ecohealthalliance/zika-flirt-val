@@ -100,11 +100,4 @@ write.csv(mergestate, file = "data/TP_state_curr.csv", row.names = FALSE)
 
 #-------GLM
 
-#fit function TP Regional
-fit<- glm(case_count ~ seats, data = mergeTP, family=poisson())
-summary(fit)
-
-fitstate<- glm(case_count ~ seats, data=mergestate, family = poisson())
-summary(fitstate)
-
 
