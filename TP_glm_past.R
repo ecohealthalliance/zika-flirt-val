@@ -93,7 +93,7 @@ class(mergeTP$seats)
 mergeTP$seats<- 8.72*mergeTP$seats
 
 #write csv of airport
-write.csv(mergeTP, file = "data/regions_past_TP.csv", row.names = FALSE)
+write.csv(mergeTP, file = "data/TP_regions_past.csv", row.names = FALSE)
 
 #multiply by 8.72 weeks for state
 mergestate$seats<-as.numeric(mergestate$seats)
@@ -101,7 +101,7 @@ class(mergestate$seats)
 mergestate$seats<- 8.72*mergestate$seats
 
 #write csv of state
-write.csv(mergestate, file = "data/state_past_TP.csv", row.names = FALSE)
+write.csv(mergestate, file = "data/TP_state_past.csv", row.names = FALSE)
 
 #-------GLM
 
