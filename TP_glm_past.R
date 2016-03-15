@@ -8,6 +8,10 @@ TP_past <- read.csv("data/TP_all_global_past.csv", header = TRUE, sep = ",", str
 TP_past <- filter(TP_past, Destination.Country == "United States")
 TP_past_met<- TP_past[,c(6,12)]
 
+#Do it with a pipe!
+#TP_past_met <- filter(Destination.Country == "United States") %>%
+  #select(6, 12)
+
 #state aggregate. must turnt o numeric first
 TP_past_state<- TP_past[,c(9,12)]
 TP_past_state_agg<- aggregate(Total.Seats ~ Destination.State, data=TP_past_state, sum)
@@ -84,10 +88,19 @@ mergestate[ is.na(mergestate) ]<- 0
 #change class to numeric -state and code
 mergeTP$seats<-as.numeric(mergeTP$seats)
 class(mergeTP$seats)
+ 
+#multiply by 8.72 weeks for airport region
+mergeTP$seats<- 8.72*mergeTP$seats
+
+#write csv of airport
 write.csv(mergeTP, file = "data/TP_regions_past.csv", row.names = FALSE)
 
+#multiply by 8.72 weeks for state
 mergestate$seats<-as.numeric(mergestate$seats)
 class(mergestate$seats)
+mergestate$seats<- 8.72*mergestate$seats
+
+#write csv of state
 write.csv(mergestate, file = "data/TP_state_past.csv", row.names = FALSE)
 
 #-------GLM

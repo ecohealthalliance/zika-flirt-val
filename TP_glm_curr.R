@@ -83,10 +83,19 @@ mergestate[ is.na(mergestate) ]<- 0
 #change class to numeric -state and code
 mergeTP$seats<-as.numeric(mergeTP$seats)
 class(mergeTP$seats)
+
+#multiply by 8.57 weeks for airport region
+mergeTP$seats<- 8.57*mergeTP$seats
+
+#write csv of airport
 write.csv(mergeTP, file = "data/TP_regions_curr.csv", row.names = FALSE)
 
+#multiply by 8.57 weeks for state
 mergestate$seats<-as.numeric(mergestate$seats)
 class(mergestate$seats)
+mergestate$seats<- 8.57*mergestate$seats
+
+#write csv of state
 write.csv(mergestate, file = "data/TP_state_curr.csv", row.names = FALSE)
 
 #-------GLM
