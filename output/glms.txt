@@ -1,0 +1,208 @@
+Tests run in the following order:
+
+[1] "data/SIM_region_curr.csv" "data/SIM_region_past.csv"
+[3] "data/SIM_state_curr.csv"  "data/SIM_state_past.csv" 
+[5] "data/TP_regions_curr.csv" "data/TP_regions_past.csv"
+[7] "data/TP_state_curr.csv"   "data/TP_state_past.csv"  
+
+
+[[1]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.5603  -1.0744  -1.0729   0.4924   5.4296  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.55302    0.09216   -6.00 1.97e-09 ***
+seats        0.62646    0.03702   16.92  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 488.39  on 202  degrees of freedom
+Residual deviance: 349.77  on 201  degrees of freedom
+AIC: 501.93
+
+Number of Fisher Scoring iterations: 6
+
+
+[[2]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.1406  -0.9844  -0.9833   0.6138   5.6904  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -0.72803    0.10107  -7.203 5.87e-13 ***
+seats        0.63465    0.04016  15.805  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 424.68  on 200  degrees of freedom
+Residual deviance: 303.69  on 199  degrees of freedom
+AIC: 440.36
+
+Number of Fisher Scoring iterations: 6
+
+
+[[3]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.9409  -1.8724  -0.6229   0.1704   3.8495  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.56080    0.10389   5.398 6.73e-08 ***
+seats        1.01447    0.06075  16.699  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 285.70  on 52  degrees of freedom
+Residual deviance: 108.71  on 51  degrees of freedom
+AIC: 218.94
+
+Number of Fisher Scoring iterations: 5
+
+
+[[4]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.7437  -1.6807  -0.3820   0.4534   2.9251  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.34383    0.11554   2.976  0.00292 ** 
+seats        1.05251    0.06519  16.146  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 262.487  on 52  degrees of freedom
+Residual deviance:  95.813  on 51  degrees of freedom
+AIC: 193.87
+
+Number of Fisher Scoring iterations: 5
+
+
+[[5]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.1251  -0.9381  -0.9381  -0.1710   3.9335  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.81171    0.09734   8.339   <2e-16 ***
+seats        0.82705    0.08087  10.227   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 146.098  on 48  degrees of freedom
+Residual deviance:  75.231  on 47  degrees of freedom
+AIC: 205.86
+
+Number of Fisher Scoring iterations: 5
+
+
+[[6]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.0397  -0.8312  -0.8312   0.0272   4.0272  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.73032    0.10715   6.816 9.38e-12 ***
+seats        0.83612    0.09003   9.287  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 113.284  on 43  degrees of freedom
+Residual deviance:  54.483  on 42  degrees of freedom
+AIC: 170.88
+
+Number of Fisher Scoring iterations: 5
+
+
+[[7]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.1257  -0.9384  -0.3798   0.4739   3.9449  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   0.8119     0.1073   7.565 3.89e-14 ***
+seats         1.1301     0.0784  14.415  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 201.835  on 39  degrees of freedom
+Residual deviance:  53.903  on 38  degrees of freedom
+AIC: 164.13
+
+Number of Fisher Scoring iterations: 5
+
+
+[[8]]
+
+Call:
+glm(formula = case_count ~ seats, family = poisson(), data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.5061  -0.7539  -0.2816   0.3052   2.3173  
+
+Coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   0.6699     0.1194    5.61 2.02e-08 ***
+seats         1.1693     0.0855   13.68  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for poisson family taken to be 1)
+
+    Null deviance: 172.643  on 36  degrees of freedom
+Residual deviance:  38.994  on 35  degrees of freedom
+AIC: 137.05
+
+Number of Fisher Scoring iterations: 5
+
+
