@@ -4,7 +4,7 @@ library(dplyr)
 
 options(stringsAsFactors = FALSE)
 
-sink("output/Kendall.txt")
+sink("output/kendall.txt")
 cat("Tests run in the following order:\n\n")
 list.files("data", pattern = "state|region", full.names = TRUE)
 cat("\n")
