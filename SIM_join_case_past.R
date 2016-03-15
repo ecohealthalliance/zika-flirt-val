@@ -33,26 +33,15 @@ merge2<- full_join(usonlysimpast_met_agg, z_case_code)
 mergestate<-full_join(usonlysimpast_agg_state, z_case_state)
 
 
+
 #rename columns -state and code
-names(merge2)[3]<-"case_count"
-names(merge2)[2]<-"sum_occur"
-names(merge2)[1]<-"code"
-
-
-names(mergestate)[3]<-"case_count"
-names(mergestate)[2]<-"sum_occur"
-names(mergestate)[1]<-"state"
+names(merge2) <- c("code", "seats", "case_count")
+names(mergestate) <- c("code", "seats", "case_count")
 
 #turn all na's to 0 - state and code
 merge2[ is.na(merge2) ] <- 0
 mergestate[ is.na(mergestate) ]<- 0
 
-#change class to numeric -state and code
-merge2$sum_occur<-as.numeric(merge2$sum_occur)
-class(merge2$sum_occur)
-write.csv(merge2, file = "data/regions_past_sim.csv", row.names = FALSE)
-
-mergestate$sum_occur<-as.numeric(mergestate$sum_occur)
-class(mergestate$sum_occur)
-write.csv(mergestate, file = "data/state_past_sim.csv", row.names = FALSE)
+write.csv(merge2, file = "data/SIM_region_past.csv", row.names = FALSE)
+write.csv(mergestate, file = "data/SIM_state_past.csv", row.names = FALSE)
 
