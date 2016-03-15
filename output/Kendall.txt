@@ -1,7 +1,9 @@
 Tests run in the following order:
 
-[1] "data/regions_curr.csv" "data/regions_past.csv" "data/state_curr.csv"  
-[4] "data/state_past.csv"  
+[1] "data/SIM_region_curr.csv" "data/SIM_region_past.csv"
+[3] "data/SIM_state_curr.csv"  "data/SIM_state_past.csv" 
+[5] "data/TP_regions_curr.csv" "data/TP_regions_past.csv"
+[7] "data/TP_state_curr.csv"   "data/TP_state_past.csv"  
 
 [[1]]
 tau = 0.257, 2-sided pvalue =6.6757e-06
@@ -14,4 +16,16 @@ tau = 0.535, 2-sided pvalue =2.3842e-07
 
 [[4]]
 tau = 0.464, 2-sided pvalue =7.2718e-06
+
+[[5]]
+tau = 0.508, 2-sided pvalue =4.2558e-05
+
+[[6]]
+tau = 0.497, 2-sided pvalue =0.00014138
+
+[[7]]
+tau = 0.349, 2-sided pvalue =0.010846
+
+[[8]]
+tau = 0.265, 2-sided pvalue =0.061985
 
