@@ -1,8 +1,8 @@
-source("Sim_extract_us_fut.R")
+source("SIM_extract_us_data.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
-zikacasesraw <- read.csv("data/zika_cases_past_fut.csv", header = TRUE, sep = ",")
-zikacases<-zikacasesraw[,c(9,10)]
+zikacasesraw <- read.csv("~/Repositories/zika-flirt-val/data/current_zika_cases.csv", header = TRUE, sep = ",")
+zikacases<-zikacasesraw[,c(8,9)]
 zikacases<- data.frame(lapply(zikacases, as.character), stringsAsFactors=FALSE)
 
 #rename column
@@ -13,29 +13,28 @@ zikacases$Count<- 1
 zikacases$Count<-as.numeric(zikacases$Count)
 
 #aggregate 1's ... should be count of cases by airport 
-z_case_code<-zikacases[,c(1,3)]
-z_case_code<-aggregate(Count ~ Code, data=z_case_code, sum)
+z_case_code<-aggregate(Count ~ Code + State, data=zikacases, sum)
 
 #aggregate 1's by state
 z_case_state<- aggregate(Count ~ State, data=zikacases, sum)
 
 #omit blanks -state and code
 z_case_code[z_case_code==""]<-NA
-z_case_code<-na.omit(z_case_code)
+z_case_code2<-na.omit(z_case_code)
 
 z_case_state[z_case_state==""]<-NA
-z_case_state<-na.omit(z_case_state)
+z_case_state2<-na.omit(z_case_state)
 
 
 #full join (i think) by code and state to compare US sim results and case spreadsheet
 require(dplyr)
-merge2<- full_join(usonlysimfut_met_agg, z_case_code)
-mergestate<-full_join(usonlysimfut_agg_state, z_case_state)
+merge2<- full_join(usonlysim_agg, z_case_code2)
+mergestate<-full_join(usonlysim_agg_state, z_case_state2)
 
 
 #rename columns -state and code
-names(merge2)[3]<-"case_count"
-names(merge2)[2]<-"sum_occur"
+names(merge2)[4]<-"case_count"
+names(merge2)[3]<-"sum_occur"
 names(merge2)[1]<-"code"
 
 
@@ -44,15 +43,13 @@ names(mergestate)[2]<-"sum_occur"
 names(mergestate)[1]<-"state"
 
 #turn all na's to 0 - state and code
-merge2[ is.na(merge2) ] <- 0
+merge2[ is.na(merge2) ] <- 0)
 mergestate[ is.na(mergestate) ]<- 0
 
 #change class to numeric -state and code
 merge2$sum_occur<-as.numeric(merge2$sum_occur)
 class(merge2$sum_occur)
-write.csv(merge2, file = "data/regions_fut_sim.csv", row.names = FALSE)
 
 mergestate$sum_occur<-as.numeric(mergestate$sum_occur)
 class(mergestate$sum_occur)
-write.csv(mergestate, file = "data/state_fut_sim.csv", row.names = FALSE)
 
