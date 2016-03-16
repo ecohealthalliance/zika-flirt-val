@@ -36,30 +36,23 @@ usonlytpfut<- inner_join(TP_global, uscodessub)
 usonlytpfut$seats<- as.numeric(usonlytpfut$seats)
 usonlytpfut_agg_state<- aggregate(seats~ State, data=usonlytpfut, sum)
 
-write.csv(usonlytpfut_agg_state, file = "data/TP_state_rank_fut.csv", row.names = FALSE)
+write.csv(usonlytpfut_agg_state, file = "data/TP_state_fut.csv", row.names = FALSE)
 
 #----Metro Area ranking
 usonlytpfut_met<-usonlytpfut[,c(1,2)]  
 
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'JFK'='JFK/EWR/LGA/HPN'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'EWR'='JFK/EWR/LGA/HPN'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'LGA'='JFK/EWR/LGA/HPN'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'HPN'='JFK/EWR/LGA/HPN'")
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("HSV", "BHM")] <- "HSV/BHM"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'IAD'='IAD/DCA/BWI'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'DCA'='IAD/DCA/BWI'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'BWI'='IAD/DCA/BWI'")
-
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'FLL'='MIA/FLL'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'MIA'='MIA/FLL'")
-
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'SJC'='SJC/OAK/SFO'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'OAK'='SJC/OAK/SFO'")
-usonlytpfut_met$code <- recode(usonlytpfut_met$code, " 'SFO'='SJC/OAK/SFO'")
 
 #airport agg
 usonlytpfut_met$seats<- as.numeric(usonlytpfut_met$seats)
 usonlytpfut_met_agg<-aggregate(seats ~ code, data=usonlytpfut_met, sum)
 
-write.csv(usonlytpfut_met_agg, file = "data/TP_region_rank_fut.csv", row.names = FALSE)
+write.csv(usonlytpfut_met_agg, file = "data/TP_region_fut.csv", row.names = FALSE)
 

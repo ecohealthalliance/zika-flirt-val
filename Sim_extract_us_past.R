@@ -31,21 +31,14 @@ usonlysimpast_agg_state<- aggregate(seats ~ State, data=usonlysimpast, sum)
 
 usonlysimpast_met<-usonlysimpast[,c(1,2)]  
   
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'JFK'='JFK/EWR/LGA/HPN'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'EWR'='JFK/EWR/LGA/HPN'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'LGA'='JFK/EWR/LGA/HPN'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'HPN'='JFK/EWR/LGA/HPN'")
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("HSV", "BHM")] <- "HSV/BHM"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'IAD'='IAD/DCA/BWI'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'DCA'='IAD/DCA/BWI'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'BWI'='IAD/DCA/BWI'")
-
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'FLL'='MIA/FLL'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'MIA'='MIA/FLL'")
-
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'SJC'='SJC/OAK/SFO'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'OAK'='SJC/OAK/SFO'")
-usonlysimpast_met$code <- recode(usonlysimpast_met$code, " 'SFO'='SJC/OAK/SFO'")
 
 #airport agg
 usonlysimpast_met$seats<- as.numeric(usonlysimpast_met$seats)

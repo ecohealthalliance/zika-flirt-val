@@ -31,21 +31,13 @@ usonlysimcurr_agg_state<- aggregate(seats ~ State, data=usonlysimcurr, sum)
 
 usonlysimcurr_met<-usonlysimcurr[,c(1,2)]  
 
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'JFK'='JFK/EWR/LGA/HPN'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'EWR'='JFK/EWR/LGA/HPN'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'LGA'='JFK/EWR/LGA/HPN'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'HPN'='JFK/EWR/LGA/HPN'")
-
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'IAD'='IAD/DCA/BWI'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'DCA'='IAD/DCA/BWI'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'BWI'='IAD/DCA/BWI'")
-
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'FLL'='MIA/FLL'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'MIA'='MIA/FLL'")
-
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'SJC'='SJC/OAK/SFO'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'OAK'='SJC/OAK/SFO'")
-usonlysimcurr_met$code <- recode(usonlysimcurr_met$code, " 'SFO'='SJC/OAK/SFO'")
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("HSV", "BHM")] <- "HSV/BHM"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
 #airport agg
 usonlysimcurr_met$seats<- as.numeric(usonlysimcurr_met$seats)
