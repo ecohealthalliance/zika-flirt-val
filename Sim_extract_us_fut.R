@@ -32,7 +32,7 @@ usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] 
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("HSV", "BHM")] <- "HSV/BHM"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("ATL", "BHM")] <- "HSV/BHM"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 

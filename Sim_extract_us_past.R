@@ -7,7 +7,7 @@ uscodes <- read.csv("rawdata/us_codes_raw.csv", header = TRUE, sep = ",")
 uscodes <- data.frame(lapply(uscodes, as.character), stringsAsFactors=FALSE)
 
 #import aggregated simulation data
-simsumpast <- read.csv("rawdata/sim_all_sum_past_scale.csv", header = TRUE, sep = ",")
+simsumpast <- read.csv("rawdata/flirt_output/sim_all_sum_past_scale.csv", header = TRUE, sep = ",")
 simsumpast <- data.frame(lapply(simsumpast, as.character), stringsAsFactors=FALSE)
 
 #subset Us airport code data
@@ -31,13 +31,13 @@ usonlysimpast_agg_state<- aggregate(seats ~ State, data=usonlysimpast, sum)
 
 usonlysimpast_met<-usonlysimpast[,c(1,2)]  
   
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("HSV", "BHM")] <- "HSV/BHM"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("ATL", "BHM")] <- "HSV/BHM"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
 
 #airport agg
