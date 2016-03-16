@@ -1,0 +1,85 @@
+Origin,Origin Name,Origin City,Origin State,Origin Country,Destination,Destination Name,Destination City,Destination State,Destination Country,Occurrences,Total Seats
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,LAD,4 De Fevereiro,Luanda,,Angola,2,1325
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,AEP,Jorge Newbery,Buenos Aires-Newbery,BA,Argentina,66,22731
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,EZE,Ministro Pistarini,Buenos Aires,BA,Argentina,23,17093
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,COR,Pajas Blancas,Cordoba,CD,Argentina,6,2640
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MDZ,El Plumerillo,Mendoza,MD,Argentina,2,414
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,AUA,Reina Beatrix,Aruba,,Aruba,2,354
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BGI,Grantley Adams International,Bridgetown,,Barbados,1,177
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,VVI,Viru Viru Intl,Santa Cruz-Viru Viru,,Bolivia,5,3330
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CWB,Afonso Pena International,Curitiba,PR,Brazil,68,36227
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CNF,Tancredo Never International,Belo Horizonte,MG,Brazil,52,30170
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,POA,Salgado Filho Intl,Porto Alegre,RS,Brazil,41,29968
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BSB,J. Kubitschek Intl,Brasilia,DF,Brazil,41,29602
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,SDU,Santos Dumont,Rio de Janeiro-Santos,RJ,Brazil,51,27150
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,SSA,Luis E. Magalhaes Intl,Salvador,BA,Brazil,26,23352
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,FOR,Pinto Martins International,Fortaleza,CE,Brazil,23,20334
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,REC,Guararapes International,Recife,PE,Brazil,24,17109
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,FLN,Hercilio Luz International,Florianopolis,SC,Brazil,26,16610
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CGB,Marechal Rondon Intl,Cuiaba,MT,Brazil,27,16559
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,GIG,Galeao-A.C.Jobim Intl,Rio De Janeiro,RJ,Brazil,26,15567
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,VIX,E. de Aguiar Salles,Vitoria,ES,Brazil,30,13281
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,GYN,Santa Genoveva,Goiania,GO,Brazil,19,9336
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BPS,Porto Seguro,Porto Seguro,BA,Brazil,22,8803
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CGR,Campo Grande International,Campo Grande,MS,Brazil,15,8795
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,NVT,Victor Konder Intl,Navegantes,SC,Brazil,16,8278
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MCZ,Zumbi dos Palmares Int,Maceio,AL,Brazil,13,8046
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,NAT,Natal International,Natal,RN,Brazil,11,7540
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,RAO,Leite Lopes,Ribeirao Preto,SP,Brazil,20,5584
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,THE,Petronio Portella,Teresina,PI,Brazil,6,4209
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JPA,Castro Pinto International,Joao Pessoa,PB,Brazil,5,3381
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,IGU,Cataratas International,Foz do Iguacu,PR,Brazil,5,3090
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,PPB,Presidente Prudente,Presidente Prudente,SP,Brazil,4,2622
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MAO,Eduardo Gomes Intl,Manaus,AM,Brazil,3,2301
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,UDI,Cesar Bombonato,Uberlandia,MG,Brazil,6,2197
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BEL,Val de Cans Intl,Belem,PA,Brazil,6,2097
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CAC,A.Mendes da Silva,Cascavel,PR,Brazil,5,1675
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JOI,Lauro Carneiro Loyola,Joinville,SC,Brazil,6,1208
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JDO,O. Bezerra de Menezes,Juazeiro Do Norte,CE,Brazil,2,1104
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JTC,Moussa Nakhl Tobias,Bauru,SP,Brazil,4,1104
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,PFB,Lauro Kurtz,Passo Fundo,RS,Brazil,4,1080
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,PVH,J.T. de Oliveira Intl,Porto Velho,RO,Brazil,4,807
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,IZA,Presidente I. Franco,Juiz de Fora,MG,Brazil,5,700
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MGF,Silvio Name Jr.,Maringa,PR,Brazil,2,636
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,SJP,Eribelto Manoel Reino,Sao Jose do Rio Preto,SP,Brazil,2,536
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,VDC,P. Otacilio Figueiredo,Vitoria da Conquista,BA,Brazil,2,536
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CLV,Nelson R. Guimaraes,Caldas Novas,GO,Brazil,1,70
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,DOU,F. de Matos Pereira,Dourados,MS,Brazil,1,67
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,YYZ,Lester B. Pearson Intl,Toronto,ON,Canada,2,1688
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,SCL,Arturo M Benitez,Santiago,,Chile,9,8490
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BOG,El Dorado Intl,Bogota,,Colombia,20,11426
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,PUJ,Punta Cana International,Punta Cana,,Dominican Republic,2,354
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,UIO,Mariscal Sucre Intl,Quito,,Ecuador,2,435
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,ADD,Bole International,Addis Ababa,,Ethiopia,2,1080
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CDG,Charles De Gaulle,Paris-De Gaulle,,France,11,20030
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,FCO,Fiumicino,Rome-Da Vinci,,Italy,2,2344
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MEX,Benito Juarez Intl,Mexico City,,Mexico,25,22523
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CUN,Cancun International,Cancun,,Mexico,4,1124
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CMN,Mohammed V,Casablanca,,Morocco,4,1440
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,PTY,"Tocumen Intl, Panama R",Panama City,,Panama,13,12906
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,ASU,Silvio Pettirossi Intl,Asuncion,,Paraguay,20,9748
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,AGT,Guarani International Airport,Ciudad Del Este,,Paraguay,5,1536
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,LIM,Jorge Chavez Intl,Lima,,Peru,2,2016
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,LIS,Lisboa,Lisbon,,Portugal,11,7412
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,OPO,Porto,Porto,,Portugal,2,740
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,DOH,Hamad International Airport,Doha,,Qatar,2,2072
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JNB,O.R. Tambo International Airport,Johannesburg,,South Africa,24,16357
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MAD,Adolfo Suarez-Barajas,Madrid,,Spain,24,17477
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,BCN,Barcelona,Barcelona,,Spain,4,2405
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,IST,Ataturk,Istanbul,,Turkey,3,4919
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,AUH,Abu Dhabi Intl,Abu Dhabi,,United Arab Emirates,3,4355
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,DXB,Dubai International,Dubai,,United Arab Emirates,2,2986
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,LHR,Heathrow,London-Heathrow,EN,United Kingdom,10,11816
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MIA,Miami International,Miami,FL,United States,13,13821
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,ATL,Hartsfield-Jackson ATL,Atlanta,GA,United States,14,8497
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,IAD,Dulles International,Washington-Dulles,VA,United States,4,4513
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,EWR,Newark Intl,Newark,NJ,United States,3,3630
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,JFK,John F Kennedy Intl,New York-JFK,NY,United States,6,3552
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MCO,Orlando Intl,Orlando,FL,United States,3,2587
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,DFW,Dallas/Ft Worth Intl,Dallas/Fort Worth,TX,United States,2,2568
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,ORD,O'Hare International,Chicago-O'Hare,IL,United States,2,2279
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,LAX,Los Angeles Intl,Los Angeles,CA,United States,3,1808
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,IAH,George Bush Intercontinental,Houston-Intercontinental,TX,United States,2,1752
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,DTW,Metropolitan Wayne County,Detroit,MI,United States,1,216
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,MVD,Carrasco,Montevideo,,Uruguay,5,3186
+GRU,Guarulhos Intl,Sao Paulo-Guarulhos,SP,Brazil,CCS,Simon Bolivar International,Caracas,,Venezuela,3,522
