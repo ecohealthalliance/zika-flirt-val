@@ -9,9 +9,9 @@ tfut <-tfut[,c(6,12)]
 
 colnames(tfut)<- c("code", "seats")
 
-tfut$seats<- 8.72*tfut$seats
+tfut$seats<- 13.14*tfut$seats
 
-tppast_agg<-aggregate(seats ~ code, data = tfut, sum)
+tfut_agg<-aggregate(seats ~ code, data = tfut, sum)
 
 # Subset US airport code data
 uscodessub <- uscodes[,c(1,4)]
