@@ -3,7 +3,7 @@ library(dplyr)
 
 options(stringsAsFactors = FALSE)
 
-sink("output/glms-gaussian.txt")
+sink("output/glms-gaussian-standardized.txt")
 cat("Tests run in the following order:\n\n")
 list.files("data", pattern = "past|curr", full.names = TRUE)
 cat("\n")

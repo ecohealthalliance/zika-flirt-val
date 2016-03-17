@@ -1,0 +1,110 @@
+Tests run in the following order:
+
+[1] "data/SIM_region_curr.csv" "data/SIM_region_past.csv"
+[3] "data/SIM_state_curr.csv"  "data/SIM_state_past.csv" 
+
+
+[[1]]
+
+Call:
+glm(formula = case_count ~ real_100000, family = gaussian(), 
+    data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.7593  -0.6876  -0.6762   0.3238   6.8918  
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   0.6705     0.1036    6.47 1.27e-09 ***
+real_100000   7.2388     0.3852   18.80  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for gaussian family taken to be 1.594832)
+
+    Null deviance: 805.77  on 153  degrees of freedom
+Residual deviance: 242.41  on 152  degrees of freedom
+AIC: 512.9
+
+Number of Fisher Scoring iterations: 2
+
+
+[[2]]
+
+Call:
+glm(formula = case_count ~ real_100000, family = gaussian(), 
+    data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.8367  -0.5863  -0.5756   0.4191   7.5744  
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   0.5702     0.1015    5.62 8.94e-08 ***
+real_100000   6.7798     0.4087   16.59  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for gaussian family taken to be 1.518531)
+
+    Null deviance: 647.11  on 152  degrees of freedom
+Residual deviance: 229.30  on 151  degrees of freedom
+AIC: 502.1
+
+Number of Fisher Scoring iterations: 2
+
+
+[[3]]
+
+Call:
+glm(formula = case_count ~ real_100000, family = gaussian(), 
+    data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.3002  -1.4129  -0.4308   0.5290   6.7487  
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.3950     0.2788   5.004 7.63e-06 ***
+real_100000  11.3345     0.5373  21.095  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for gaussian family taken to be 3.615552)
+
+    Null deviance: 1786.04  on 50  degrees of freedom
+Residual deviance:  177.16  on 49  degrees of freedom
+AIC: 214.24
+
+Number of Fisher Scoring iterations: 2
+
+
+[[4]]
+
+Call:
+glm(formula = case_count ~ real_100000, family = gaussian(), 
+    data = .x)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-3.8982  -1.0648  -0.3539   0.3719   6.5511  
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.0443     0.2712    3.85 0.000331 ***
+real_100000  11.2159     0.5813   19.30  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for gaussian family taken to be 3.569564)
+
+    Null deviance: 1511.02  on 52  degrees of freedom
+Residual deviance:  182.05  on 51  degrees of freedom
+AIC: 221.81
+
+Number of Fisher Scoring iterations: 2
+
+
