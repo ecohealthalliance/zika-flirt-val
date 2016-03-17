@@ -46,3 +46,4 @@ usonlytpast_met$code[usonlytpast_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 usonlytpast_met$seats<- as.numeric(usonlytpast_met$seats)
 usonlytpast_met_agg<-aggregate(seats ~ code, data=usonlytpast_met, sum)
 
+
