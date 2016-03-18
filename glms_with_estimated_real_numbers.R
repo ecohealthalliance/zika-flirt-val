@@ -129,3 +129,20 @@ files %>%
   map(~ glm(case_count ~ real_100000, data = .x, family = gaussian())) %>%
   map(summary)
 sink()
+
+# Write coefficient summary CSVs
+
+glms <- files %>%
+  map(read.csv) %>%
+  map(~ mutate(.x, real_seats_est = seats * real_factor * (61 / 365),
+         real_100000 = real_seats_est / 100000)) %>%
+  map(~ glm(case_count ~ real_100000, data = .x, family = gaussian()))
+
+outfiles <- files %>%
+  map(basename) %>%
+  map(~ file.path("output/glms", .x))
+
+glms %>%
+  map(summary) %>%
+  map(coef) %>%
+  map2(outfiles, ~ write.csv(.x, .y))
