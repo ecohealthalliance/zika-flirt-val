@@ -1,8 +1,8 @@
 source("Sim_extract_us_curr.R")
 
 #read in latest zika case info and subset. newest case data should be renamed current_zika_cases and injested 
-zikacasesraw <- read.csv("rawdata/zika_cases_curr.csv", header = TRUE, sep = ",")
-zikacases<-zikacasesraw[,c(9,10)]
+zikacasesraw <- read.csv("rawdata/zika_cases_curr_2.csv", header = TRUE, sep = ",")
+zikacases<-zikacasesraw[,c(9,12)]
 zikacases<- data.frame(lapply(zikacases, as.character), stringsAsFactors=FALSE)
 
 #rename column
@@ -41,6 +41,6 @@ names(mergestate) <- c("code", "seats", "case_count")
 merge2[ is.na(merge2) ] <- 0
 mergestate[ is.na(mergestate) ]<- 0
 
-write.csv(merge2, file = "data/SIM_region_curr.csv", row.names = FALSE)
-write.csv(mergestate, file = "data/SIM_state_curr.csv", row.names = FALSE)
+write.csv(merge2, file = "data/SIM_region_curr_2.csv", row.names = FALSE)
+write.csv(mergestate, file = "data/SIM_state_curr_2.csv", row.names = FALSE)
 

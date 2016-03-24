@@ -31,14 +31,10 @@ usonlysimpast_agg_state<- aggregate(seats ~ State, data=usonlysimpast, sum)
 
 usonlysimpast_met<-usonlysimpast[,c(1,2)]  
   
-usonlysimpast_met$code[usonlysimpast_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimpast_met$code[usonlysimpast_met$code %in% c("JFK", "EWR", "LGA")] <- "JFK/EWR/LGA"
 usonlysimpast_met$code[usonlysimpast_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
 usonlysimpast_met$code[usonlysimpast_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
 usonlysimpast_met$code[usonlysimpast_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlysimpast_met$code[usonlysimpast_met$code %in% c("ATL", "BHM")] <- "HSV/BHM"
-usonlysimpast_met$code[usonlysimpast_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
-usonlysimpast_met$code[usonlysimpast_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
-
 
 #airport agg
 usonlysimpast_met$seats<- as.numeric(usonlysimpast_met$seats)

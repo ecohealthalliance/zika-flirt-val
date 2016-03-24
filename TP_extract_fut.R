@@ -4,12 +4,10 @@ library(car)
 uscodes <- read.csv("rawdata/us_codes_raw.csv", as.is = TRUE)
 
 # Import and subset aggregated simulation data
-tfut <- read.csv("rawdata/flirt_output/TP_all_global_fut.csv", as.is = TRUE)
+tfut <- read.csv("rawdata/flirt_output/TP_all_global_fut_2.csv", as.is = TRUE)
 tfut <-tfut[,c(6,12)]
 
 colnames(tfut)<- c("code", "seats")
-
-tfut$seats<- 13.14*tfut$seats
 
 tfut_agg<-aggregate(seats ~ code, data = tfut, sum)
 
@@ -34,18 +32,15 @@ usonlytfut_agg_state <- aggregate(seats ~ state, data = usonlytfut, sum)
 
 usonlytfut_met <- usonlytfut[,c(1,2)]
 
-usonlytfut_met$code[usonlytfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlytfut_met$code[usonlytfut_met$code %in% c("JFK", "EWR", "LGA")] <- "JFK/EWR/LGA"
 usonlytfut_met$code[usonlytfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
 usonlytfut_met$code[usonlytfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
 usonlytfut_met$code[usonlytfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlytfut_met$code[usonlytfut_met$code %in% c("ATL", "BHM")] <- "HSV/BHM"
-usonlytfut_met$code[usonlytfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
-usonlytfut_met$code[usonlytfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
 #airport agg
 usonlytfut_met$seats<- as.numeric(usonlytfut_met$seats)
 usonlytfut_met_agg<-aggregate(seats ~ code, data=usonlytfut_met, sum)
 
-write.csv(usonlytfut_met_agg, file = "data/TP_region_fut.csv", row.names = FALSE)
-write.csv(usonlytfut_agg_state, file = "data/TP_state_fut.csv", row.names = FALSE)
+write.csv(usonlytfut_met_agg, file = "data/TP_region_fut_2.csv", row.names = FALSE)
+write.csv(usonlytfut_agg_state, file = "data/TP_state_fut_2.csv", row.names = FALSE)
 

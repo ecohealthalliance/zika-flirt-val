@@ -31,13 +31,10 @@ usonlysimcurr_agg_state<- aggregate(seats ~ State, data=usonlysimcurr, sum)
 
 usonlysimcurr_met<-usonlysimcurr[,c(1,2)]  
 
-usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("JFK", "EWR", "LGA")] <- "JFK/EWR/LGA"
 usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
 usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
 usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("ATL", "BHM")] <- "ATL/BHM"
-usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
-usonlysimcurr_met$code[usonlysimcurr_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
 #airport agg
 usonlysimcurr_met$seats<- as.numeric(usonlysimcurr_met$seats)

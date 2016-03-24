@@ -31,18 +31,15 @@ usonlysimfut_agg_state<- aggregate(seats ~ State, data=usonlysimfut, sum)
 
 usonlysimfut_met<-usonlysimfut[,c(1,2)]  
 
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA", "HPN")] <- "JFK/EWR/LGA/HPN"
+usonlysimfut_met$code[usonlysimfut_met$code %in% c("JFK", "EWR", "LGA")] <- "JFK/EWR/LGA"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("IAD", "DCA", "BWI")] <- "IAD/DCA/BWI"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("MIA", "FLL")] <- "MIA/FLL"
 usonlysimfut_met$code[usonlysimfut_met$code %in% c("SJC", "OAK", "SFO")] <- "SJC/OAK/SFO"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("ATL", "BHM")] <- "ATL/BHM"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("MGM", "CSG")] <- "MGM/CSG"
-usonlysimfut_met$code[usonlysimfut_met$code %in% c("CMH", "LCK")] <- "CMH/LCK"
 
 #airport agg
 usonlysimfut_met$seats<- as.numeric(usonlysimfut_met$seats)
 usonlysimfut_met_agg<-aggregate(seats ~ code, data=usonlysimfut_met, sum)
 
-write.csv(usonlysimfut_met_agg, file = "data/SIM_region_fut.csv", row.names = FALSE)
-write.csv(usonlysimfut_agg_state, file = "data/SIM_state_fut.csv", row.names = FALSE)
+write.csv(usonlysimfut_met_agg, file = "data/SIM_region_fut_2.csv", row.names = FALSE)
+write.csv(usonlysimfut_agg_state, file = "data/SIM_state_fut_2.csv", row.names = FALSE)
 
