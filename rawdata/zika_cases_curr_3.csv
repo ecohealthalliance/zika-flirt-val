@@ -6,7 +6,7 @@ report_date,travel_year,travel_month,travel_day,departure_city,departure_country
 1/19/2016,,,,,Haiti,IL,ORD,ORD,,,IL,United States,confirmed,yes,imported,http://www.chicagotribune.com/news/local/breaking/ct-illinois-zika-virus-20160119-story.html,
 1/19/2016,,,,,Honduras,IL,ORD,ORD,,,IL,United States,confirmed,yes,imported,http://promedmail.org/direct.php?id=20160121.3953295,
 1/20/2016,2015,11,late,,Colombia,"NJ, Bergen County",JFK/EWR/LGA,JFK/EWR/LGA,,,NJ,United States,confirmed,,imported,http://www.nj.com/healthfit/index.ssf/2016/01/state_confirms_case_of_zika_virus_in_northern_nj.html,Added TEB
-1/26/2016,,,,,Central Americ-Caribbean,AR,LIT,LIT,,,AR,United States,confirmed,,imported,http://fox17online.com/2016/01/26/252702/,Switched from XNA (second most enplanements) to LIT (most enplanements)
+1/26/2016,,,,,Central America-Caribbean,AR,LIT,LIT,,,AR,United States,confirmed,,imported,http://fox17online.com/2016/01/26/252702/,Switched from XNA (second most enplanements) to LIT (most enplanements)
 1/26/2016,,,,,,"MT, Northwest",MSO,MSO,MSO,,MT,United States,confirmed,,imported,http://newstalkkgvo.com/listen-zika-virus-spreads-to-north-america-one-case-possibly-found-in-northwest-montana/,Switched from FCA (4th) to BZN (1st) and added MSO (3rd) as the closest int'l airport
 1/26/2016,2015,,,,Guatemala,"VA, Harrisonburg",CHO,SHD,,,VA,United States,confirmed,no,imported,http://www.13newsnow.com/story/features/healthlink/2016/01/27/zika-case-detected-virginia-traveler/79363776/,"Added SHD regional airport. 50 miles apart, but much closer to Harrisonburg"
 1/27/2016,2015,11,late,,El Salvador,"CA, Los Angeles",LAX,LAX,,VNY,CA,United States,confirmed,no,imported,http://www.latimes.com/local/lanow/la-me-ln-zika-case-confirmed-in-l-a-county-20160126-story.html,Added VNY. Only 432 enplanements/year
@@ -94,7 +94,7 @@ report_date,travel_year,travel_month,travel_day,departure_city,departure_country
 2/24/2016,,,,,,FL,MCO,MCO,,,FL,United States,confirmed,yes,imported,http://www.cnn.com/2016/02/24/health/zika-confirmed-in-pregnant-women-in-florida/,
 2/24/2016,,,,,,FL,MCO,MCO,,,FL,United States,confirmed,yes,imported,http://www.cnn.com/2016/02/24/health/zika-confirmed-in-pregnant-women-in-florida/,
 2/24/2016,,,,,Barbados,"MI, Ingham County",DTW,LAN,,,MI,United States,confirmed,no,imported,http://www.mlive.com/news/index.ssf/2016/02/michigans_first_zika_virus_cas.html,
-2/25/2016,,,,,Guatamala/El Salvador,GA,ATL,ATL,,,GA,United States,confirmed,no,imported,http://www.ajc.com/news/news/breaking-news/two-more-cases-of-zika-reported-in-georgia/nqYDX/,"Removed BHM from both entries. ATL is the largest airport in state, and BHM is 148 miles away."
+2/25/2016,,,,,Guatemala/El Salvador,GA,ATL,ATL,,,GA,United States,confirmed,no,imported,http://www.ajc.com/news/news/breaking-news/two-more-cases-of-zika-reported-in-georgia/nqYDX/,"Removed BHM from both entries. ATL is the largest airport in state, and BHM is 148 miles away."
 ,2014,,,,French Polynesia ,MN,MSP,MSP,,,MN,United States ,confirmed,,imported,,
 ,,,,,,"NY, Nassau ",JFK/EWR/LGA,JFK/EWR/LGA,,,NY,United States,confirmed,,imported,,Added TEB to regional airports
 2/25/2016,,,,,Colombia,GA,ATL,ATL,,,GA,United States,confirmed,no,imported,http://www.ajc.com/news/news/breaking-news/two-more-cases-of-zika-reported-in-georgia/nqYDX/,"Removed BHM from both entries. ATL is the largest airport in state, and BHM is 148 miles away."
@@ -162,3 +162,46 @@ report_date,travel_year,travel_month,travel_day,departure_city,departure_country
 3/15/2016,2016,,,,,"AL, Shelby County",BHM,BHM,,,AL,United States,confirmed,,imported,http://www.al.com/news/index.ssf/2016/03/2_more_alabama_residents_confi.html,Removed ATL and HSV as BHM is very close to Shelby County
 3/15/2016,2016,,,,,"FL, Miami-Dade County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.miamiherald.com/news/health-care/article66167012.html,
 3/15/2016,2016,,,,,"FL, Miami-Dade County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.miamiherald.com/news/health-care/article66167012.html,
+3/17/2016,2016,,,,,"FL, Brevard County",MLB,MLB,,,FL,United States,confirmed,,imported,http://www.orlandosentinel.com/health/vital-signs/os-zika-update-march-17-htmlstory.html,
+3/17/2016,2016,,,,,"FL, Alachua County",MCO,GNV,,,FL,United States,confirmed,,imported,http://www.orlandosentinel.com/health/vital-signs/os-zika-update-march-17-htmlstory.html,
+3/17/2016,2016,,,,,"FL, Alachua County",MCO,GNV,,,FL,United States,confirmed,,imported,http://www.orlandosentinel.com/health/vital-signs/os-zika-update-march-17-htmlstory.html,
+3/17/2016,2016,,,,,"FL, Alachua County",MCO,GNV,,,FL,United States,confirmed,,imported,http://www.orlandosentinel.com/health/vital-signs/os-zika-update-march-17-htmlstory.html,
+3/18/2016,2016,,,,El Salvador,"NM, Bernalillo County",ABQ,ABQ,,,NM,United States,confirmed,no,imported,http://www.abqjournal.com/742798/news/new-mexico-health-officials-confirm-first-case-of-zika-virus-2.html,
+3/18/2016,2016,,,,South America,CT,BDL,BDL,,,CT,United States,confirmed,no,imported,http://fox61.com/2016/03/18/first-case-of-zika-virus-reported-in-connecticut/,
+3/18/2016,2016,,,,,"FL, Broward County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/local/new-zika-virus-case-brings-florida-total-to-us-lea/nqn3F/,
+3/21/2016,2016,,,,,"FL, Miami-Dade County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/four-more-zika-cases-in-fla-total-up-to-71/nqp6J/,
+3/21/2016,2016,,,,,"FL, Miami-Dade County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/four-more-zika-cases-in-fla-total-up-to-71/nqp6J/,
+3/21/2016,2016,,,,,"FL, Osceola County",MCO,MCO,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/four-more-zika-cases-in-fla-total-up-to-71/nqp6J/,
+3/21/2016,2016,,,,,"FL, Broward County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/four-more-zika-cases-in-fla-total-up-to-71/nqp6J/,
+3/21/2016,2016,,,,,DE,ILG,ILG,,,DE,United States,confirmed,no,imported,http://www.fox29.com/news/111050391-storyv,
+3/21/2016,2016,,,,,DE,ILG,ILG,,,DE,United States,confirmed,no,imported,http://www.fox29.com/news/111050391-storyv,
+3/21/2016,2016,,,,Caribbean,"KY, Western",SDF,SDF,,,KY,United States,confirmed,no,imported,http://surfky.com/index.php/hopkins/hopkins-county-news/179-news/kentucky/107062-second-case-of-zika-reported-in-kentuckian-who-traveled-to-affected-country,
+3/22/2016,2016,,,,,"FL, Broward County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.orlandosentinel.com/health/vital-signs/os-zika-update-march-22-htmlstory.html,
+3/24/2016,2016,,,,Guatemala,"NV, Clark County",LAS,LAS,,,NV,United States,confirmed,,imported,http://www.southernnevadahealthdistrict.org/news16/20160324-southern-nevada-health-district-reports-first-zika-case.php,
+3/24/2016,2016,,,,,"FL, Orange County",MCO,MCO,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/zika-cases-in-florida-now-up-to-73/nqrmr/,
+3/24/2016,2016,,,,Haiti,"MS, Madison County",JAN,JAN,,,MS,United States,confirmed,no,imported,http://djournal.com/news/madison-county-resident-has-states-first-case-of-zika/,
+3/25/2016,2016,,,,Haiti,"MS, Noxubee County",JAN,JAN,,,MS,United States,confirmed,,imported,http://www.clarionledger.com/story/news/2016/03/25/second-zika-case-reported-ms/82249078/,
+3/25/2016,2016,,,,,"FL, Collier County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/local/zika-virus-cases-in-florida-now-at-us-leading-75/nqsL5/,
+3/25/2016,2016,,,,,"FL, Clay County",JAX,JAX,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/local/zika-virus-cases-in-florida-now-at-us-leading-75/nqsL5/,
+3/27/2016,2016,,,,Central America,"KY, Louisville",SDF,SDF,,,KY,United States,confirmed,yes,imported,http://outbreaknewstoday.com/pregnant-louisville-woman-is-kentuckys-3rd-zika-case-35156/,
+3/28/2016,,,,,,PA,PHL,PHL,,,PA,United States,confirmed,,imported,http://www.post-gazette.com/news/state/2016/03/28/Pennsylvania-reports-3-more-cases-of-Zika-virus/stories/201603280119,
+3/28/2016,,,,,,PA,PHL,PHL,,,PA,United States,confirmed,,imported,http://www.post-gazette.com/news/state/2016/03/28/Pennsylvania-reports-3-more-cases-of-Zika-virus/stories/201603280119,
+3/28/2016,,,,,,PA,PHL,PHL,,,PA,United States,confirmed,,imported,http://www.post-gazette.com/news/state/2016/03/28/Pennsylvania-reports-3-more-cases-of-Zika-virus/stories/201603280119,
+3/28/2016,2016,,,,,"AZ, Maricopa County",PHX,PHX,,,AZ,United States,confirmed,,imported,http://www.azcentral.com/story/news/local/arizona/2016/03/28/zika-virus-confirmed-arizona/82360994/,
+3/28/2016,,,,,,"CA, San Diego",SAN,SAN,,,CA,United States,confirmed,no,Local (STD),http://www.latintimes.com/zika-virus-us-california-confirms-first-case-sexually-transmitted-disease-377159,
+3/28/2016,2016,,,,Brazil,"NV, Clark County",LAS,LAS,,,NV,United States,confirmed,,imported,http://www.lasvegasnow.com/news/second-case-of-zika-virus-confirmed-in-clark-county,
+3/29/2016,2016,,,,,"PA, Allegheny County",PIT,PIT/LBE,,,PA,United States,confirmed,no,imported,http://www.bizjournals.com/pittsburgh/news/2016/03/29/allegheny-county-resident-tests-positive-for-zika.html,
+3/30/2016,2016,,,,,"FL, Palm Beach County",MIA/FLL,PBI,,,FL,United States,confirmed,no,imported,http://www.palmbeachpost.com/news/news/local/first-zika-virus-case-in-palm-beach-county-reporte/nqwP8/,
+3/30/2016,2016,,,,Honduras,MO,STL,STL,,,MO,United States,confirmed,yes,imported,http://www.columbiamissourian.com/news/state_news/state-missouri-has-second-case-of-zika-virus/article_ea483978-42ef-574a-9d86-ecf6ae026b66.html,
+4/1/2016,2016,,,,Colombia,"TX, Dallas County",DFW,DFW,,,TX,United States,confirmed,no,imported,http://thescoopblog.dallasnews.com/2016/04/5th-case-of-zika-virus-reported-in-dallas-county.html/,
+4/1/2016,2016,,,,,"FL, Broward County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,no,imported,http://www.palmbeachpost.com/news/news/local/three-more-zika-cases-in-florida-including-5th-pre/nqxfb/,
+4/1/2016,2016,,,,,"FL, Polk County",TPA/MCO,LAL,,,FL,United States,confirmed,no,imported,http://www.palmbeachpost.com/news/news/local/three-more-zika-cases-in-florida-including-5th-pre/nqxfb/,
+4/1/2016,,,,,,FL,,,,,FL,United States,confirmed,yes,imported,http://www.palmbeachpost.com/news/news/local/three-more-zika-cases-in-florida-including-5th-pre/nqxfb/,
+4/2/2016,,,,,,"CA, Santa Clara County",SJC/OAK/SFO,SJC/OAK/SFO,,,CA,United States,confirmed,,imported,http://www.mercurynews.com/health/ci_29715131/two-south-bay-counties-report-their-first-zika,
+4/2/2016,,,,,,"CA, San Mateo County",SJC/OAK/SFO,SJC/OAK/SFO,,,CA,United States,confirmed,,imported,http://www.mercurynews.com/health/ci_29715131/two-south-bay-counties-report-their-first-zika,
+4/5/2016,2016,,,,,"FL, Palm Beach County",MIA/FLL,PBI,,,FL,United States,confirmed,no,imported,http://www.mypalmbeachpost.com/news/news/local/second-zika-virus-case-in-palm-beach-county-state-/nqzCj/,
+4/6/2016,2016,,,,,"FL, Palm Beach County",MIA/FLL,PBI,,,FL,United States,confirmed,,imported,http://www.palmbeachpost.com/news/news/local/zika-virus-third-case-in-palm-beach-county-confirm/nqznn/,
+4/6/2016,2016,,,,Haiti,"MS, Oktibbeha County",JAN,GTR,,,MS,United States,confirmed,,imported,http://www.starkvilledailynews.com/content/first-zika-case-oktibbeha-county,
+4/6/2016,2016,,,,,"FL, Miami-Dade County",MIA/FLL,MIA/FLL,,,FL,United States,confirmed,,imported,http://www.wpbf.com/news/two-new-cases-of-zika-virus-reported-in-south-florida/38896066,
+4/6/2016,2016,,,,,LA,MSY,MSY,,,LA,United States,confirmed,,imported,http://www.nola.com/health/index.ssf/2016/04/louisiana_zika_virus_cases.html,
+4/6/2016,2016,,,,,LA,MSY,MSY,,,LA,United States,confirmed,,imported,http://www.nola.com/health/index.ssf/2016/04/louisiana_zika_virus_cases.html,
