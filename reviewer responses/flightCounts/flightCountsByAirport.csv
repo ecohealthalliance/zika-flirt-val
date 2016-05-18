@@ -1,0 +1,4052 @@
+"_id","departureCount","arrivalCount","airportCode","countryName","globalRegion","totalCount"
+"MXS",10,10,"MXS","Western Samoa","Australasia",20
+"SLD",36,36,"SLD","Slovakia","Europe",72
+"LBG",1,0,"LBG","France","Europe",1
+"RAD",2,2,"RAD","British Virgin Islands","Caribbean",4
+"EPL",4,4,"EPL","France","Europe",8
+"MYG",1,32,"MYG","Bahamas","Caribbean",33
+"ULY",1,1,"ULY","Russian Federation","Europe",2
+"YRC",7,0,"YRC","Canada","North America",7
+"YQJ",7,0,"YQJ","Canada","North America",7
+"YPT",7,0,"YPT","Canada","North America",7
+"YRR",7,0,"YRR","Canada","North America",7
+"YGG",21,18,"YGG","Canada","North America",39
+"YMP",1,2,"YMP","Canada","North America",3
+"YMF",21,19,"YMF","Canada","North America",40
+"YGE",6,0,"YGE","Canada","North America",6
+"YBW",21,18,"YBW","Canada","North America",39
+"YCF",7,0,"YCF","Canada","North America",7
+"YAV",21,19,"YAV","Canada","North America",40
+"DQM",5,5,"DQM","Oman","Middle East",10
+"TCP",6,6,"TCP","Egypt","Africa",12
+"NAK",2,2,"NAK","Thailand","Asia",4
+"RUJ",2,2,"RUJ","Saudi Arabia","Middle East",4
+"PTK",2,2,"PTK","United States","North America",4
+"RSJ",71,61,"RSJ","United States","North America",132
+"BSA",4,2,"BSA","Somalia","Africa",6
+"PNY",1,1,"PNY","India","Asia",2
+"SZY",4,4,"SZY","Poland","Europe",8
+"PMK",39,39,"PMK","Australia","Australasia",78
+"JJM",9,6,"JJM","Kenya","Africa",15
+"KAW",7,35,"KAW","Myanmar","Asia",42
+"MIU",2,2,"MIU","Nigeria","Africa",4
+"DCF",3,3,"DCF","Dominica","Caribbean",6
+"JCK",2,0,"JCK","Australia","Australasia",2
+"TDK",6,6,"TDK","Kazakhstan","Asia",12
+"QUV",3,47,"QUV","Greenland","North America",50
+"VPG",3,3,"VPG","Kenya","Africa",6
+"SIR",1,2,"SIR","Switzerland","Europe",3
+"YKH",6,1,"YKH","China","Asia",7
+"OSO",2,4,"OSO","Australia","Australasia",6
+"ITU",15,15,"ITU","Russian Federation","Asia",30
+"RIZ",32,13,"RIZ","China","Asia",45
+"RDP",4,0,"RDP","India","Asia",4
+"SHF",2,0,"SHF","China","Asia",2
+"KWB",1,0,"KWB","Indonesia","Asia",1
+"RLZ",1,1,"RLZ","China","Asia",2
+"ZNG",1,1,"ZNG","China","Asia",2
+"LBN",2,2,"LBN","Kenya","Africa",4
+"XYW",1,0,"XYW","China","Asia",1
+"MFQ",2,2,"MFQ","Niger","Africa",4
+"VAG",3,3,"VAG","Brazil","South America",6
+"ADJ",1,0,"ADJ","Jordan","Middle East",1
+"NSB",27,25,"NSB","Bahamas","Caribbean",52
+"MPB",6,6,"MPB","United States","North America",12
+"PVB",7,6,"PVB","Uruguay","South America",13
+"FMV",14,15,"FMV","Uruguay","South America",29
+"VBS",5,5,"VBS","Italy","Europe",10
+"QFN",4,2,"QFN","Greenland","North America",6
+"PSJ",1,12,"PSJ","Indonesia","Asia",13
+"CHR",5,5,"CHR","France","Europe",10
+"PVL",4,4,"PVL","United States","North America",8
+"QGQ",3,3,"QGQ","Greenland","North America",6
+"BBE",8,8,"BBE","Uruguay","South America",16
+"AEG",2,2,"AEG","Indonesia","Asia",4
+"NUU",3,3,"NUU","Kenya","Africa",6
+"VLG",1,1,"VLG","Argentina","South America",2
+"VME",11,0,"VME","Argentina","South America",11
+"SHR",13,9,"SHR","United States","North America",22
+"TRM",2,1,"TRM","United States","North America",3
+"RLO",4,1,"RLO","Argentina","South America",5
+"IUO",1,1,"IUO","China","Asia",2
+"HHR",2,2,"HHR","United States","North America",4
+"APC",1,1,"APC","United States","North America",2
+"MYF",1,2,"MYF","United States","North America",3
+"ATY",42,55,"ATY","United States","North America",97
+"IGM",10,10,"IGM","United States","North America",20
+"ZQW",42,37,"ZQW","Germany","Europe",79
+"FAC",2,5,"FAC","French Polynesia","Australasia",7
+"YHP",18,18,"YHP","Canada","North America",36
+"ARW",13,13,"ARW","Romania","Europe",26
+"CYS",19,88,"CYS","United States","North America",107
+"AHE",6,30,"AHE","French Polynesia","Australasia",36
+"DTD",2,2,"DTD","Indonesia","Asia",4
+"VLY",41,44,"VLY","United Kingdom","Europe",85
+"SNV",1,1,"SNV","Venezuela","South America",2
+"BQB",17,10,"BQB","Australia","Australasia",27
+"TTR",2,2,"TTR","Indonesia","Asia",4
+"LPU",4,4,"LPU","Indonesia","Asia",8
+"SVZ",1,1,"SVZ","Venezuela","South America",2
+"HLT",6,6,"HLT","Australia","Australasia",12
+"PBL",5,5,"PBL","Venezuela","South America",10
+"MRD",1,1,"MRD","Venezuela","South America",2
+"HBX",8,10,"HBX","India","Asia",18
+"ZYA",2,0,"ZYA","Netherlands","Europe",2
+"FJR",1,1,"FJR","United Arab Emirates","Middle East",2
+"NUA",2,2,"NUA","Sri Lanka","Asia",4
+"MYQ",5,3,"MYQ","India","Asia",8
+"YPN",16,16,"YPN","Canada","North America",32
+"WLE",17,17,"WLE","Australia","Australasia",34
+"ERQ",1,1,"ERQ","Australia","Australasia",2
+"AZI",7,8,"AZI","United Arab Emirates","Middle East",15
+"CMQ",6,6,"CMQ","Australia","Australasia",12
+"TWB",6,6,"TWB","Australia","Australasia",12
+"CMU",3,3,"CMU","Papua New Guinea","Australasia",6
+"GLN",14,14,"GLN","Morocco","Africa",28
+"KAT",31,33,"KAT","New Zealand","Australasia",64
+"WHK",68,79,"WHK","New Zealand","Australasia",147
+"BEU",1,1,"BEU","Australia","Australasia",2
+"YND",17,17,"YND","Canada","North America",34
+"MNJ",2,4,"MNJ","Madagascar","Africa",6
+"OIM",10,10,"OIM","Japan","Asia",20
+"MUE",12,35,"MUE","United States","North America",47
+"BYN",2,2,"BYN","Mongolia","Asia",4
+"LTI",7,7,"LTI","Mongolia","Asia",14
+"BMD",1,1,"BMD","Madagascar","Africa",2
+"KHD",1,9,"KHD","Iran","Middle East",10
+"DEE",14,14,"DEE","Russian Federation","Asia",28
+"LTQ",15,17,"LTQ","France","Europe",32
+"JJA",3,3,"JJA","Solomon Islands","Australasia",6
+"RDN",5,5,"RDN","Malaysia","Asia",10
+"AHN",2,2,"AHN","United States","North America",4
+"TOD",1,1,"TOD","Malaysia","Asia",2
+"OMO",2,2,"OMO","Bosnia and Herzegovina","Europe",4
+"BVV",4,4,"BVV","Russian Federation","Asia",8
+"KZI",25,0,"KZI","Greece","Europe",25
+"YAO",4,5,"YAO","Cameroon","Africa",9
+"KCL",5,5,"KCL","United States","North America",10
+"KCQ",5,5,"KCQ","United States","North America",10
+"MLW",3,2,"MLW","Liberia","Africa",5
+"IGG",8,10,"IGG","United States","North America",18
+"KSO",14,27,"KSO","Greece","Europe",41
+"TAI",48,9,"TAI","Yemen","Middle East",57
+"RIY",51,48,"RIY","Yemen","Middle East",99
+"AXK",2,2,"AXK","Yemen","Middle East",4
+"VEL",37,42,"VEL","United States","North America",79
+"SHC",3,3,"SHC","Ethiopia","Africa",6
+"HOD",40,43,"HOD","Yemen","Middle East",83
+"DOK",40,37,"DOK","Ukraine","Europe",77
+"BZO",31,30,"BZO","Italy","Europe",61
+"ERN",8,6,"ERN","Brazil","South America",14
+"JGN",14,92,"JGN","China","Asia",106
+"JIU",17,17,"JIU","China","Asia",34
+"IMT",1,162,"IMT","United States","North America",163
+"MEA",44,43,"MEA","Brazil","South America",87
+"POI",5,5,"POI","Bolivia","South America",10
+"AQA",2,2,"AQA","Brazil","South America",4
+"MUW",11,15,"MUW","Algeria","Africa",26
+"LCR",3,3,"LCR","Colombia","South America",6
+"KLN",8,61,"KLN","United States","North America",69
+"TCD",5,5,"TCD","Colombia","South America",10
+"UOX",21,21,"UOX","United States","North America",42
+"IPI",1,1,"IPI","Colombia","South America",2
+"CFW",323,332,"CFW","United Kingdom","Europe",655
+"ORU",31,31,"ORU","Bolivia","South America",62
+"PVE",3,0,"PVE","Panama","Central America",3
+"ZFM",2,2,"ZFM","Canada","North America",4
+"RMP",3,0,"RMP","United States","North America",3
+"MCN",3,3,"MCN","United States","North America",6
+"MSL",30,30,"MSL","United States","North America",60
+"KMU",3,3,"KMU","Somalia","Africa",6
+"GHE",1,1,"GHE","Panama","Central America",2
+"TUP",93,65,"TUP","United States","North America",158
+"CZJ",3,3,"CZJ","Panama","Central America",6
+"YLC",48,35,"YLC","Canada","North America",83
+"PES",6,6,"PES","Russian Federation","Europe",12
+"ANS",8,8,"ANS","Peru","South America",16
+"JOL",4,4,"JOL","Philippines","Asia",8
+"UUA",24,11,"UUA","Russian Federation","Europe",35
+"CAH",9,10,"CAH","Vietnam","Asia",19
+"TGI",12,12,"TGI","Peru","South America",24
+"HOI",11,39,"HOI","French Polynesia","Australasia",50
+"BWE",14,9,"BWE","Germany","Europe",23
+"AOE",9,10,"AOE","Turkey","Europe",19
+"PHG",6,6,"PHG","Nigeria","Africa",12
+"AXP",27,27,"AXP","Bahamas","Caribbean",54
+"ILI",31,31,"ILI","United States","North America",62
+"TOU",16,16,"TOU","New Caledonia","Australasia",32
+"ZFJ",171,154,"ZFJ","France","Europe",325
+"TAZ",25,25,"TAZ","Turkmenistan","Asia",50
+"VPY",21,21,"VPY","Mozambique","Africa",42
+"WRE",247,321,"WRE","New Zealand","Australasia",568
+"MBD",36,41,"MBD","South Africa","Africa",77
+"ONQ",40,38,"ONQ","Turkey","Europe",78
+"RYL",72,16,"RYL","Zambia","Africa",88
+"IOA",81,87,"IOA","Greece","Europe",168
+"GJA",16,16,"GJA","Honduras","Central America",32
+"PCN",131,130,"PCN","New Zealand","Australasia",261
+"IUE",31,34,"IUE","Niue","Australasia",65
+"IFJ",196,196,"IFJ","Iceland","Europe",392
+"GIS",533,515,"GIS","New Zealand","Australasia",1048
+"ITM",4594,4663,"ITM","Japan","Asia",9257
+"KKE",317,316,"KKE","New Zealand","Australasia",633
+"BNE",25469,25431,"BNE","Australia","Australasia",50900
+"HKK",275,286,"HKK","New Zealand","Australasia",561
+"CUZ",7184,7172,"CUZ","Peru","South America",14356
+"HME",297,289,"HME","Algeria","Africa",586
+"TMX",29,25,"TMX","Algeria","Africa",54
+"AUA",2674,2872,"AUA","Aruba","Caribbean",5546
+"KYZ",32,32,"KYZ","Russian Federation","Asia",64
+"ABZ",5036,5186,"ABZ","United Kingdom","Europe",10222
+"SOF",6825,6754,"SOF","Bulgaria","Europe",13579
+"UBJ",356,346,"UBJ","Japan","Asia",702
+"NVI",57,60,"NVI","Uzbekistan","Asia",117
+"DYU",866,831,"DYU","Tajikistan","Asia",1697
+"MTB",2,2,"MTB","Colombia","South America",4
+"TOG",23,16,"TOG","United States","North America",39
+"TQR",61,60,"TQR","Italy","Europe",121
+"SSG",383,334,"SSG","Equatorial Guinea","Africa",717
+"TMR",148,200,"TMR","Algeria","Africa",348
+"PPT",1478,1924,"PPT","French Polynesia","Australasia",3402
+"FIH",780,794,"FIH","Democratic Republic of the Congo","Africa",1574
+"MLG",91,93,"MLG","Indonesia","Asia",184
+"BZV",677,710,"BZV","Congo","Africa",1387
+"NYR",28,27,"NYR","Russian Federation","Asia",55
+"ACT",94,334,"ACT","United States","North America",428
+"UBA",160,147,"UBA","Brazil","South America",307
+"URG",16,16,"URG","Brazil","South America",32
+"GME",6,6,"GME","Belarus","Europe",12
+"KPV",1,9,"KPV","United States","North America",10
+"PVH",495,435,"PVH","Brazil","South America",930
+"FEC",32,35,"FEC","Brazil","South America",67
+"FEN",64,80,"FEN","Brazil","South America",144
+"GVR",89,96,"GVR","Brazil","South America",185
+"JPA",637,653,"JPA","Brazil","South America",1290
+"LEC",43,44,"LEC","Brazil","South America",87
+"VBA",37,17,"VBA","Myanmar","Asia",54
+"TKE",72,72,"TKE","United States","North America",144
+"CXJ",84,91,"CXJ","Brazil","South America",175
+"CGH",13729,13816,"CGH","Brazil","South America",27545
+"LDB",991,1016,"LDB","Brazil","South America",2007
+"YIH",655,414,"YIH","China","Asia",1069
+"VDA",149,146,"VDA","Israel","Middle East",295
+"CMG",33,33,"CMG","Brazil","South America",66
+"CFB",131,143,"CFB","Brazil","South America",274
+"ORN",1852,1850,"ORN","Algeria","Africa",3702
+"QUB",7,7,"QUB","Libya","Africa",14
+"DLA",979,1147,"DLA","Cameroon","Africa",2126
+"PPB",258,252,"PPB","Brazil","South America",510
+"WWP",30,0,"WWP","United States","North America",30
+"ATM",113,145,"ATM","Brazil","South America",258
+"ARU",113,117,"ARU","Brazil","South America",230
+"DNK",509,519,"DNK","Ukraine","Europe",1028
+"HRI",120,93,"HRI","Sri Lanka","Asia",213
+"CNJ",62,58,"CNJ","Australia","Australasia",120
+"YQT",1364,1586,"YQT","Canada","North America",2950
+"YBC",78,91,"YBC","Canada","North America",169
+"ZBF",130,112,"ZBF","Canada","North America",242
+"RNO",5241,5267,"RNO","United States","North America",10508
+"KCG",5,5,"KCG","United States","North America",10
+"YQM",1162,1302,"YQM","Canada","North America",2464
+"MMO",39,38,"MMO","Cape Verde","Africa",77
+"GZP",758,778,"GZP","Turkey","Europe",1536
+"KLL",10,0,"KLL","United States","North America",10
+"YGK",274,286,"YGK","Canada","North America",560
+"DLM",4682,4020,"DLM","Turkey","Europe",8702
+"YQL",189,171,"YQL","Canada","North America",360
+"ROB",286,146,"ROB","Liberia","Africa",432
+"TML",59,59,"TML","Ghana","Africa",118
+"SUJ",40,42,"SUJ","Romania","Europe",82
+"SMR",1415,1391,"SMR","Colombia","South America",2806
+"YGP",56,52,"YGP","Canada","North America",108
+"SHX",64,0,"SHX","United States","North America",64
+"STV",18,17,"STV","India","Asia",35
+"YDF",669,679,"YDF","Canada","North America",1348
+"OUK",20,20,"OUK","United Kingdom","Europe",40
+"YMM",1620,1667,"YMM","Canada","North America",3287
+"AEX",540,1294,"AEX","United States","North America",1834
+"CCM",58,41,"CCM","Brazil","South America",99
+"TWA",14,0,"TWA","United States","North America",14
+"YAM",673,699,"YAM","Canada","North America",1372
+"YQU",604,630,"YQU","Canada","North America",1234
+"SNU",1326,1268,"SNU","Cuba","Caribbean",2594
+"BMW",21,20,"BMW","Algeria","Africa",41
+"KET",45,63,"KET","Myanmar","Asia",108
+"ABY",173,390,"ABY","United States","North America",563
+"ACY",377,385,"ACY","United States","North America",762
+"ZWL",41,32,"ZWL","Canada","North America",73
+"YPA",217,217,"YPA","Canada","North America",434
+"ZFD",72,64,"ZFD","Canada","North America",136
+"MSZ",19,19,"MSZ","Angola","Africa",38
+"BIO",7675,7538,"BIO","Spain","Europe",15213
+"YXE",2660,2758,"YXE","Canada","North America",5418
+"YSF",95,88,"YSF","Canada","North America",183
+"ZTH",899,728,"ZTH","Greece","Europe",1627
+"TGK",2,2,"TGK","Russian Federation","Europe",4
+"TGM",189,193,"TGM","Romania","Europe",382
+"LAM",33,30,"LAM","United States","North America",63
+"UIO",3930,3908,"UIO","Ecuador","South America",7838
+"YCG",159,162,"YCG","Canada","North America",321
+"STI",1346,1180,"STI","Dominican Republic","Caribbean",2526
+"GCI",1701,1895,"GCI","United Kingdom","Europe",3596
+"TTT",35,36,"TTT","Taiwan","Asia",71
+"YXJ",409,433,"YXJ","Canada","North America",842
+"YPJ",17,22,"YPJ","Canada","North America",39
+"HOM",163,163,"HOM","United States","North America",326
+"LLK",47,47,"LLK","Azerbaijan","Asia",94
+"GDN",3467,3153,"GDN","Poland","Europe",6620
+"MVD",2317,1975,"MVD","Uruguay","South America",4292
+"KBC",10,0,"KBC","United States","North America",10
+"GEG",3912,6001,"GEG","United States","North America",9913
+"XDS",214,219,"XDS","Canada","North America",433
+"LBB",2058,1705,"LBB","United States","North America",3763
+"COO",515,535,"COO","Benin","Africa",1050
+"RST",885,585,"RST","United States","North America",1470
+"MEI",53,62,"MEI","United States","North America",115
+"FNT",1108,1496,"FNT","United States","North America",2604
+"FSP",125,123,"FSP","Saint Pierre and Miquelon","North America",248
+"TCQ",867,896,"TCQ","Peru","South America",1763
+"TVC",2731,1585,"TVC","United States","North America",4316
+"KTT",597,343,"KTT","Finland","Europe",940
+"POG",70,73,"POG","Gabon","Africa",143
+"PVK",322,307,"PVK","Greece","Europe",629
+"ROR",625,504,"ROR","Palau","Australasia",1129
+"GRI",267,237,"GRI","United States","North America",504
+"HMO",2066,1960,"HMO","Mexico","North America",4026
+"UVF",1090,627,"UVF","Saint Lucia","Caribbean",1717
+"RAP",2205,1663,"RAP","United States","North America",3868
+"EWB",362,459,"EWB","United States","North America",821
+"SCT",8,9,"SCT","Yemen","Middle East",17
+"OGL",12,18,"OGL","Guyana","South America",30
+"SRQ",3165,1734,"SRQ","United States","North America",4899
+"SKB",366,320,"SKB","Saint Kitts and Nevis","Caribbean",686
+"HUH",174,233,"HUH","French Polynesia","Australasia",407
+"ELC",1,30,"ELC","Australia","Australasia",31
+"ERZ",800,797,"ERZ","Turkey","Europe",1597
+"HSV",3927,2463,"HSV","United States","North America",6390
+"SWF",895,402,"SWF","United States","North America",1297
+"UOL",3,3,"UOL","Indonesia","Asia",6
+"SID",1363,1129,"SID","Cape Verde","Africa",2492
+"FWA",2285,2407,"FWA","United States","North America",4692
+"EWN",794,419,"EWN","United States","North America",1213
+"USN",134,136,"USN","South Korea","Asia",270
+"CKY",363,393,"CKY","Guinea","Africa",756
+"CEK",550,545,"CEK","Russian Federation","Asia",1095
+"AGS",731,2395,"AGS","United States","North America",3126
+"RAR",515,536,"RAR","Cook Islands","Australasia",1051
+"MCV",55,48,"MCV","Australia","Australasia",103
+"FAY",1758,592,"FAY","United States","North America",2350
+"XKH",21,21,"XKH","Laos","Asia",42
+"CRW",1692,1216,"CRW","United States","North America",2908
+"LJU",4752,4734,"LJU","Slovenia","Europe",9486
+"ILO",537,543,"ILO","Philippines","Asia",1080
+"MNA",19,19,"MNA","Indonesia","Asia",38
+"OUD",912,918,"OUD","Morocco","Africa",1830
+"JGO",82,8,"JGO","Greenland","North America",90
+"UAS",28,45,"UAS","Kenya","Africa",73
+"VPS",2298,1284,"VPS","United States","North America",3582
+"BDU",103,118,"BDU","Norway","Europe",221
+"BTV",2519,4125,"BTV","United States","North America",6644
+"LRT",199,185,"LRT","France","Europe",384
+"SDN",40,134,"SDN","Norway","Europe",174
+"CHO",1195,1436,"CHO","United States","North America",2631
+"KCM",347,347,"KCM","Turkey","Europe",694
+"SFA",75,82,"SFA","Tunisia","Africa",157
+"MLU",1259,657,"MLU","United States","North America",1916
+"SPI",485,429,"SPI","United States","North America",914
+"MDT",3444,2902,"MDT","United States","North America",6346
+"ILM",1847,1444,"ILM","United States","North America",3291
+"DSM",5377,7720,"DSM","United States","North America",13097
+"BNA",13651,19184,"BNA","United States","North America",32835
+"DYG",489,506,"DYG","China","Asia",995
+"MOI",8,8,"MOI","Cook Islands","Australasia",16
+"MOB",3010,1767,"MOB","United States","North America",4777
+"BMI",1017,1184,"BMI","United States","North America",2201
+"MCI",16296,17198,"MCI","United States","North America",33494
+"CAE",2555,3175,"CAE","United States","North America",5730
+"CVT",564,407,"CVT","United Kingdom","Europe",971
+"SCL",30484,29991,"SCL","Chile","South America",60475
+"SLQ",18,0,"SLQ","United States","North America",18
+"NKT",131,129,"NKT","Turkey","Europe",260
+"TCO",74,75,"TCO","Colombia","South America",149
+"VGZ",10,9,"VGZ","Colombia","South America",19
+"STW",163,157,"STW","Russian Federation","Europe",320
+"RIC",11713,8626,"RIC","United States","North America",20339
+"INL",78,185,"INL","United States","North America",263
+"AJY",8,12,"AJY","Niger","Africa",20
+"ZIX",35,35,"ZIX","Russian Federation","Asia",70
+"KFS",171,167,"KFS","Turkey","Europe",338
+"CCC",883,867,"CCC","Cuba","Caribbean",1750
+"UEL",104,54,"UEL","Mozambique","Africa",158
+"MCP",307,330,"MCP","Brazil","South America",637
+"BGM",466,1020,"BGM","United States","North America",1486
+"JDO",259,197,"JDO","Brazil","South America",456
+"YKF",153,224,"YKF","Canada","North America",377
+"BGR",1019,1464,"BGR","United States","North America",2483
+"MYR",2665,1485,"MYR","United States","North America",4150
+"AVL",2036,1699,"AVL","United States","North America",3735
+"SFL",99,96,"SFL","Cape Verde","Africa",195
+"PDX",24369,25638,"PDX","United States","North America",50007
+"AZO",834,2112,"AZO","United States","North America",2946
+"SAX",1,0,"SAX","Panama","Central America",1
+"YPC",24,24,"YPC","Canada","North America",48
+"CJM",29,29,"CJM","Thailand","Asia",58
+"BDA",626,751,"BDA","Bermuda","Caribbean",1377
+"GDQ",95,88,"GDQ","Ethiopia","Africa",183
+"BJF",77,77,"BJF","Norway","Europe",154
+"CHA",2557,2141,"CHA","United States","North America",4698
+"TIN",106,121,"TIN","Algeria","Africa",227
+"BWI",19871,26124,"BWI","United States","North America",45995
+"PAV",31,31,"PAV","Brazil","South America",62
+"QRW",89,84,"QRW","Nigeria","Africa",173
+"YJT",3,22,"YJT","Canada","North America",25
+"ALO",49,138,"ALO","United States","North America",187
+"LAD",1252,1241,"LAD","Angola","Africa",2493
+"IPT",89,178,"IPT","United States","North America",267
+"AYT",13988,13329,"AYT","Turkey","Europe",27317
+"SNA",17489,11537,"SNA","United States","North America",29026
+"KYP",33,57,"KYP","Myanmar","Asia",90
+"MFM",5249,5250,"MFM","Macau","Asia",10499
+"LAQ",278,277,"LAQ","Libya","Africa",555
+"OTZ",380,478,"OTZ","United States","North America",858
+"IVC",1116,1160,"IVC","New Zealand","Australasia",2276
+"YQR",2352,2282,"YQR","Canada","North America",4634
+"IND",18286,18672,"IND","United States","North America",36958
+"YYY",144,37,"YYY","Canada","North America",181
+"PGH",6,6,"PGH","India","Asia",12
+"SGG",77,71,"SGG","Greenland","North America",148
+"VYI",13,13,"VYI","Russian Federation","Asia",26
+"GSP",5881,4648,"GSP","United States","North America",10529
+"ZKP",38,35,"ZKP","Russian Federation","Asia",73
+"CAW",64,68,"CAW","Brazil","South America",132
+"WYA",201,202,"WYA","Australia","Australasia",403
+"OKC",9890,7940,"OKC","United States","North America",17830
+"BER",251,247,"BER","Germany","Europe",498
+"TJH",18,18,"TJH","Japan","Asia",36
+"FSM",683,323,"FSM","United States","North America",1006
+"JUB",375,336,"JUB","South Sudan","Africa",711
+"OZG",1,23,"OZG","Morocco","Africa",24
+"SAB",147,180,"SAB","Bonaire, Saint Eustatius & Saba","Caribbean",327
+"JAC",1432,2036,"JAC","United States","North America",3468
+"ABI",194,549,"ABI","United States","North America",743
+"LGA",73078,76481,"LGA","United States","North America",149559
+"OCC",64,64,"OCC","Ecuador","South America",128
+"XQU",197,179,"XQU","Canada","North America",376
+"MSN",5095,5737,"MSN","United States","North America",10832
+"BBA",433,433,"BBA","Chile","South America",866
+"FLN",2507,2479,"FLN","Brazil","South America",4986
+"ELP",3582,4149,"ELP","United States","North America",7731
+"ABE",1427,2102,"ABE","United States","North America",3529
+"LYR",202,390,"LYR","Norway","Europe",592
+"WGP",33,19,"WGP","Indonesia","Asia",52
+"KSL",15,15,"KSL","Sudan","Africa",30
+"GAO",26,26,"GAO","Cuba","Caribbean",52
+"GCK",131,109,"GCK","United States","North America",240
+"BVE",164,156,"BVE","France","Europe",320
+"SNN",1298,1282,"SNN","Ireland","Europe",2580
+"KFP",10,14,"KFP","United States","North America",24
+"AXJ",16,16,"AXJ","Japan","Asia",32
+"BUN",10,9,"BUN","Colombia","South America",19
+"XFN",244,220,"XFN","China","Asia",464
+"HNL",11839,13466,"HNL","United States","North America",25305
+"OVI",4,4,"OVI","Spain","Europe",8
+"TLL",4257,4280,"TLL","Estonia","Europe",8537
+"LET",175,179,"LET","Colombia","South America",354
+"MGQ",155,181,"MGQ","Somalia","Africa",336
+"TST",69,68,"TST","Thailand","Asia",137
+"TPB",263,298,"TPB","United Kingdom","Europe",561
+"TLM",271,204,"TLM","Algeria","Africa",475
+"NEW",20,20,"NEW","United States","North America",40
+"KBP",5224,5210,"KBP","Ukraine","Europe",10434
+"PGA",85,66,"PGA","United States","North America",151
+"JKH",171,179,"JKH","Greece","Europe",350
+"PHB",33,34,"PHB","Brazil","South America",67
+"MEM",10379,9276,"MEM","United States","North America",19655
+"YXU",1411,1386,"YXU","Canada","North America",2797
+"MTV",27,39,"MTV","Vanuatu","Australasia",66
+"YUY",164,207,"YUY","Canada","North America",371
+"KWN",182,18,"KWN","United States","North America",200
+"RHI",303,43,"RHI","United States","North America",346
+"SVA",100,0,"SVA","United States","North America",100
+"DXE",64,64,"DXE","United States","North America",128
+"DCM",100,96,"DCM","France","Europe",196
+"TUU",594,650,"TUU","Saudi Arabia","Middle East",1244
+"IXL",77,68,"IXL","India","Asia",145
+"LNE",50,50,"LNE","Vanuatu","Australasia",100
+"JRH",42,40,"JRH","India","Asia",82
+"IXM",404,436,"IXM","India","Asia",840
+"GOP",20,20,"GOP","India","Asia",40
+"KUV",30,32,"KUV","South Korea","Asia",62
+"SXZ",12,12,"SXZ","Turkey","Europe",24
+"SHJ",1614,1619,"SHJ","United Arab Emirates","Middle East",3233
+"DBQ",104,305,"DBQ","United States","North America",409
+"DOY",84,99,"DOY","China","Asia",183
+"AJL",43,43,"AJL","India","Asia",86
+"CMB",9091,9308,"CMB","Sri Lanka","Asia",18399
+"AUH",10500,10354,"AUH","United Arab Emirates","Middle East",20854
+"BHU",25,25,"BHU","India","Asia",50
+"YXT",540,545,"YXT","Canada","North America",1085
+"TGU",1422,1177,"TGU","Honduras","Central America",2599
+"CZL",999,1037,"CZL","Algeria","Africa",2036
+"BGI",1322,1390,"BGI","Barbados","Caribbean",2712
+"MEC",210,206,"MEC","Ecuador","South America",416
+"CFN",133,104,"CFN","Ireland","Europe",237
+"POR",141,49,"POR","Finland","Europe",190
+"GYE",2518,2750,"GYE","Ecuador","South America",5268
+"UCT",65,70,"UCT","Russian Federation","Europe",135
+"PVA",22,22,"PVA","Colombia","South America",44
+"SJE",18,18,"SJE","Colombia","South America",36
+"YIV",62,45,"YIV","Canada","North America",107
+"NKI",11,30,"NKI","United States","North America",41
+"EYP",248,250,"EYP","Colombia","South America",498
+"PWM",6322,4298,"PWM","United States","North America",10620
+"YNA",28,28,"YNA","Canada","North America",56
+"PCR",44,41,"PCR","Colombia","South America",85
+"PTX",12,12,"PTX","Colombia","South America",24
+"LQM",17,20,"LQM","Colombia","South America",37
+"GPI",24,24,"GPI","Colombia","South America",48
+"PUU",114,107,"PUU","Colombia","South America",221
+"PNZ",63,146,"PNZ","Brazil","South America",209
+"LDY",297,181,"LDY","United Kingdom","Europe",478
+"NUL",81,0,"NUL","United States","North America",81
+"BGA",2355,2329,"BGA","Colombia","South America",4684
+"UFA",1190,1126,"UFA","Russian Federation","Europe",2316
+"PIA",3030,2060,"PIA","United States","North America",5090
+"CLO",6433,6767,"CLO","Colombia","South America",13200
+"PGX",92,91,"PGX","France","Europe",183
+"NSQ",50,47,"NSQ","Greenland","North America",97
+"WNP",57,56,"WNP","Philippines","Asia",113
+"PUJ",6326,5563,"PUJ","Dominican Republic","Caribbean",11889
+"ADZ",1018,1022,"ADZ","Colombia","South America",2040
+"KUL",10958,11091,"KUL","Malaysia","Asia",22049
+"JAN",3961,2412,"JAN","United States","North America",6373
+"GXF",17,17,"GXF","Yemen","Middle East",34
+"PHS",64,60,"PHS","Thailand","Asia",124
+"OBO",212,219,"OBO","Japan","Asia",431
+"BAX",168,152,"BAX","Russian Federation","Asia",320
+"THQ",11,27,"THQ","China","Asia",38
+"INZ",69,59,"INZ","Algeria","Africa",128
+"CVG",17052,22110,"CVG","United States","North America",39162
+"BRI",4401,3852,"BRI","Italy","Europe",8253
+"CAP",114,164,"CAP","Haiti","Caribbean",278
+"SPR",470,460,"SPR","Belize","Central America",930
+"IKS",62,62,"IKS","Russian Federation","Asia",124
+"PND",77,71,"PND","Belize","Central America",148
+"IZA",137,157,"IZA","Brazil","South America",294
+"AKU",398,474,"AKU","China","Asia",872
+"ITH",1090,927,"ITH","United States","North America",2017
+"HXD",11,11,"HXD","China","Asia",22
+"JTC",98,102,"JTC","Brazil","South America",200
+"PFO",2319,2105,"PFO","Cyprus","Europe",4424
+"TZA",373,447,"TZA","Belize","Central America",820
+"CYD",33,35,"CYD","Belize","Central America",68
+"FOR",2546,2933,"FOR","Brazil","South America",5479
+"ANF",5349,5337,"ANF","Chile","South America",10686
+"PDK",121,129,"PDK","United States","North America",250
+"YLL",84,85,"YLL","Canada","North America",169
+"RDU",28646,20780,"RDU","United States","North America",49426
+"ZHA",625,553,"ZHA","China","Asia",1178
+"DZA",632,665,"DZA","Mayotte","Africa",1297
+"VKT",22,22,"VKT","Russian Federation","Europe",44
+"KDV",95,81,"KDV","Fiji","Australasia",176
+"YDQ",102,103,"YDQ","Canada","North America",205
+"STT",2443,1846,"STT","United States","North America",4289
+"KJR",31,29,"KJR","Germany","Europe",60
+"TBN",69,83,"TBN","United States","North America",152
+"AKN",139,231,"AKN","United States","North America",370
+"PVC",540,527,"PVC","United States","North America",1067
+"CKS",52,51,"CKS","Brazil","South America",103
+"MUC",57572,58358,"MUC","Germany","Europe",115930
+"OWB",181,169,"OWB","United States","North America",350
+"HYA",1074,1105,"HYA","United States","North America",2179
+"NMA",163,166,"NMA","Uzbekistan","Asia",329
+"BTR",2263,2592,"BTR","United States","North America",4855
+"OGS",54,59,"OGS","United States","North America",113
+"ORI",22,39,"ORI","United States","North America",61
+"GGW",28,27,"GGW","United States","North America",55
+"INV",690,753,"INV","United Kingdom","Europe",1443
+"OLF",27,26,"OLF","United States","North America",53
+"NAP",8128,8005,"NAP","Italy","Europe",16133
+"IXZ",197,215,"IXZ","India","Asia",412
+"QUO",109,112,"QUO","Nigeria","Africa",221
+"AUG",83,88,"AUG","United States","North America",171
+"CKX",12,12,"CKX","United States","North America",24
+"VST",156,73,"VST","Sweden","Europe",229
+"CGI",88,94,"CGI","United States","North America",182
+"ACK",2094,2173,"ACK","United States","North America",4267
+"MCX",189,193,"MCX","Russian Federation","Europe",382
+"OIT",801,780,"OIT","Japan","Asia",1581
+"YHO",41,41,"YHO","Canada","North America",82
+"XZN",60,86,"XZN","France","Europe",146
+"GWL",16,0,"GWL","India","Asia",16
+"HPH",447,453,"HPH","Vietnam","Asia",900
+"PUQ",1616,1611,"PUQ","Chile","South America",3227
+"ORH",87,91,"ORH","United States","North America",178
+"UKG",12,12,"UKG","Russian Federation","Asia",24
+"VAW",29,101,"VAW","Norway","Europe",130
+"RAJ",91,88,"RAJ","India","Asia",179
+"DAC",2544,2549,"DAC","Bangladesh","Asia",5093
+"KDI",72,169,"KDI","Indonesia","Asia",241
+"TAK",898,765,"TAK","Japan","Asia",1663
+"IQN",84,85,"IQN","China","Asia",169
+"QDH",591,591,"QDH","United Kingdom","Europe",1182
+"MME",171,173,"MME","United Kingdom","Europe",344
+"RPR",241,147,"RPR","India","Asia",388
+"XDB",1002,1012,"XDB","France","Europe",2014
+"AGM",705,734,"AGM","Greenland","North America",1439
+"XVQ",9,9,"XVQ","Italy","Europe",18
+"OMS",420,416,"OMS","Russian Federation","Asia",836
+"XYP",18,197,"XYP","Sweden","Europe",215
+"XEC",103,131,"XEC","Canada","North America",234
+"HSG",197,208,"HSG","Japan","Asia",405
+"ZGG",54,83,"ZGG","United Kingdom","Europe",137
+"TUR",14,3,"TUR","Brazil","South America",17
+"YEI",160,144,"YEI","Turkey","Europe",304
+"VVC",340,307,"VVC","Colombia","South America",647
+"ATA",8,8,"ATA","Peru","South America",16
+"LMP",212,223,"LMP","Italy","Europe",435
+"CIZ",6,6,"CIZ","Brazil","South America",12
+"ULV",104,109,"ULV","Russian Federation","Europe",213
+"MMH",146,175,"MMH","United States","North America",321
+"LMC",12,11,"LMC","Colombia","South America",23
+"JLR",46,40,"JLR","India","Asia",86
+"NBS",148,187,"NBS","China","Asia",335
+"PPG",251,234,"PPG","United States","North America",485
+"MDC",301,347,"MDC","Indonesia","Asia",648
+"TXF",38,38,"TXF","Brazil","South America",76
+"ZRB",82,79,"ZRB","Germany","Europe",161
+"ORF",10246,7626,"ORF","United States","North America",17872
+"LYA",254,220,"LYA","China","Asia",474
+"HGH",8352,8665,"HGH","China","Asia",17017
+"ZYL",220,202,"ZYL","Bangladesh","Asia",422
+"CTN",32,32,"CTN","Australia","Australasia",64
+"TBP",558,547,"TBP","Peru","South America",1105
+"YGW",121,121,"YGW","Canada","North America",242
+"BDL",6652,10005,"BDL","United States","North America",16657
+"ZEP",1033,1066,"ZEP","United Kingdom","Europe",2099
+"LSE",271,910,"LSE","United States","North America",1181
+"GIU",21,14,"GIU","Sri Lanka","Asia",35
+"SAN",31878,26723,"SAN","United States","North America",58601
+"IRJ",115,32,"IRJ","Argentina","South America",147
+"UGR",110,110,"UGR","Spain","Europe",220
+"MHT",4559,4347,"MHT","United States","North America",8906
+"XAX",581,581,"XAX","Canada","North America",1162
+"AKF",8,8,"AKF","Libya","Africa",16
+"EXS",1577,1582,"EXS","United Kingdom","Europe",3159
+"XEF",132,107,"XEF","Canada","North America",239
+"ZGI",115,69,"ZGI","Canada","North America",184
+"DMM",7840,7702,"DMM","Saudi Arabia","Middle East",15542
+"YMY",449,422,"YMY","Canada","North America",871
+"YYB",353,246,"YYB","Canada","North America",599
+"GOM",91,88,"GOM","Democratic Republic of the Congo","Africa",179
+"XDH",57,62,"XDH","Canada","North America",119
+"YQF",98,101,"YQF","Canada","North America",199
+"MOC",277,284,"MOC","Brazil","South America",561
+"XEA",26,20,"XEA","Canada","North America",46
+"BSX",3,2,"BSX","Myanmar","Asia",5
+"MEB",110,110,"MEB","Australia","Australasia",220
+"XDZ",52,36,"XDZ","Canada","North America",88
+"SWS",165,159,"SWS","United Kingdom","Europe",324
+"GPT",1573,920,"GPT","United States","North America",2493
+"HVD",36,35,"HVD","Mongolia","Asia",71
+"ZGB",524,485,"ZGB","United Kingdom","Europe",1009
+"CID",3055,4760,"CID","United States","North America",7815
+"TRK",183,184,"TRK","Indonesia","Asia",367
+"MCZ",1001,1149,"MCZ","Brazil","South America",2150
+"PSV",17,17,"PSV","United Kingdom","Europe",34
+"CLL",268,601,"CLL","United States","North America",869
+"LRE",59,79,"LRE","Australia","Australasia",138
+"ABB",85,86,"ABB","Nigeria","Africa",171
+"EBH",24,10,"EBH","Algeria","Africa",34
+"XED",152,119,"XED","France","Europe",271
+"LIO",48,45,"LIO","Costa Rica","Central America",93
+"ONJ",44,44,"ONJ","Japan","Asia",88
+"OSF",6,6,"OSF","Russian Federation","Europe",12
+"QYU",220,238,"QYU","Sweden","Europe",458
+"HGA",194,189,"HGA","Somalia","Africa",383
+"USX",309,604,"USX","United Kingdom","Europe",913
+"BLB",25,25,"BLB","Panama","Central America",50
+"CFS",402,404,"CFS","Australia","Australasia",806
+"LAS",47865,55882,"LAS","United States","North America",103747
+"NLH",4,4,"NLH","China","Asia",8
+"LKL",306,384,"LKL","Norway","Europe",690
+"QQP",1951,3705,"QQP","United Kingdom","Europe",5656
+"FEG",212,203,"FEG","Uzbekistan","Asia",415
+"APK",4,30,"APK","French Polynesia","Australasia",34
+"KCZ",551,585,"KCZ","Japan","Asia",1136
+"CIX",1450,1415,"CIX","Peru","South America",2865
+"LAN",1853,1863,"LAN","United States","North America",3716
+"SGO",32,32,"SGO","Australia","Australasia",64
+"DKR",2203,2028,"DKR","Senegal","Africa",4231
+"KGV",146,146,"KGV","Austria","Europe",292
+"AMA",730,1609,"AMA","United States","North America",2339
+"IOB",99,222,"IOB","Austria","Europe",321
+"GIA",102,148,"GIA","Spain","Europe",250
+"MRA",178,175,"MRA","Libya","Africa",353
+"IOS",417,413,"IOS","Brazil","South America",830
+"PLH",1276,1409,"PLH","United Kingdom","Europe",2685
+"UYL",35,38,"UYL","Sudan","Africa",73
+"MVY",853,731,"MVY","United States","North America",1584
+"CYO",225,241,"CYO","Cuba","Caribbean",466
+"GIG",10221,10326,"GIG","Brazil","South America",20547
+"QQX",749,791,"QQX","United Kingdom","Europe",1540
+"MLE",2393,2297,"MLE","Maldives","Asia",4690
+"YJE",147,164,"YJE","Spain","Europe",311
+"LZS",583,592,"LZS","Austria","Europe",1175
+"QJE",15,0,"QJE","Greenland","North America",15
+"DTW",85693,111188,"DTW","United States","North America",196881
+"XNE",519,399,"XNE","United Kingdom","Europe",918
+"BLZ",193,194,"BLZ","Malawi","Africa",387
+"XIV",321,295,"XIV","Spain","Europe",616
+"OUL",1136,1122,"OUL","Finland","Europe",2258
+"XZZ",446,435,"XZZ","Spain","Europe",881
+"LMM",400,390,"LMM","Mexico","North America",790
+"THX",28,23,"THX","Russian Federation","Asia",51
+"BUS",352,342,"BUS","Georgia","Asia",694
+"CEC",62,89,"CEC","United States","North America",151
+"HTA",174,194,"HTA","Russian Federation","Asia",368
+"XQA",190,194,"XQA","Spain","Europe",384
+"SOU",2566,2538,"SOU","United Kingdom","Europe",5104
+"QUQ",29,28,"QUQ","Spain","Europe",57
+"CHS",6388,7609,"CHS","United States","North America",13997
+"OAJ",1240,343,"OAJ","United States","North America",1583
+"SDG",51,48,"SDG","Iran","Middle East",99
+"UIB",233,224,"UIB","Colombia","South America",457
+"KYN",1086,1082,"KYN","United Kingdom","Europe",2168
+"WNC",356,300,"WNC","United Kingdom","Europe",656
+"AZS",337,335,"AZS","Dominican Republic","Caribbean",672
+"MNL",10073,9978,"MNL","Philippines","Asia",20051
+"SEJ",51,51,"SEJ","Spain","Europe",102
+"LEN",91,103,"LEN","Spain","Europe",194
+"ZWE",852,828,"ZWE","Belgium","Europe",1680
+"SAV",7418,4557,"SAV","United States","North America",11975
+"LMA",12,12,"LMA","United States","North America",24
+"SHV",2713,2021,"SHV","United States","North America",4734
+"QDU",263,313,"QDU","Germany","Europe",576
+"IPH",99,98,"IPH","Malaysia","Asia",197
+"SOO",221,238,"SOO","Sweden","Europe",459
+"TUL",9272,5330,"TUL","United States","North America",14602
+"PSR",628,594,"PSR","Italy","Europe",1222
+"LFT",2853,1794,"LFT","United States","North America",4647
+"YAQ",21,19,"YAQ","Canada","North America",40
+"TPS",972,1056,"TPS","Italy","Europe",2028
+"BUR",4228,5578,"BUR","United States","North America",9806
+"AHO",1270,1236,"AHO","Italy","Europe",2506
+"YPR",124,119,"YPR","Canada","North America",243
+"OBU",98,98,"OBU","United States","North America",196
+"MZG",401,383,"MZG","Taiwan","Asia",784
+"ORY",27774,28347,"ORY","France","Europe",56121
+"PZB",142,151,"PZB","South Africa","Africa",293
+"XGZ",13,81,"XGZ","Austria","Europe",94
+"PNL",177,178,"PNL","Italy","Europe",355
+"AJU",603,699,"AJU","Brazil","South America",1302
+"XZL",75,66,"XZL","Canada","North America",141
+"CKH",26,26,"CKH","Russian Federation","Asia",52
+"CLT",51694,63579,"CLT","United States","North America",115273
+"LRM",304,345,"LRM","Dominican Republic","Caribbean",649
+"BZL",11,11,"BZL","Bangladesh","Asia",22
+"OSD",2538,2548,"OSD","Sweden","Europe",5086
+"AMM",14280,14580,"AMM","Jordan","Middle East",28860
+"LOD",77,77,"LOD","Vanuatu","Australasia",154
+"ISU",668,688,"ISU","Iraq","Middle East",1356
+"RAK",7464,6934,"RAK","Morocco","Africa",14398
+"BLE",54,72,"BLE","Sweden","Europe",126
+"TLN",530,529,"TLN","France","Europe",1059
+"AEP",11440,24884,"AEP","Argentina","South America",36324
+"CKZ",72,72,"CKZ","Turkey","Europe",144
+"NSZ",7,7,"NSZ","Hong Kong","Asia",14
+"IRI",15,15,"IRI","Tanzania","Africa",30
+"POK",621,639,"POK","Austria","Europe",1260
+"ODS",844,855,"ODS","Ukraine","Europe",1699
+"VBV",15,14,"VBV","Fiji","Australasia",29
+"RGL",821,342,"RGL","Argentina","South America",1163
+"DHM",29,27,"DHM","India","Asia",56
+"SGC",703,735,"SGC","Russian Federation","Asia",1438
+"YUM",369,265,"YUM","United States","North America",634
+"TZX",3139,3123,"TZX","Turkey","Europe",6262
+"RVD",32,32,"RVD","Brazil","South America",64
+"NAL",54,53,"NAL","Russian Federation","Europe",107
+"LQP",2,2,"LQP","China","Asia",4
+"KLX",269,256,"KLX","Greece","Europe",525
+"MDU",10,18,"MDU","Papua New Guinea","Australasia",28
+"IST",58098,58883,"IST","Turkey","Europe",116981
+"GMR",36,74,"GMR","French Polynesia","Australasia",110
+"GNY",720,716,"GNY","Turkey","Europe",1436
+"YXS",824,877,"YXS","Canada","North America",1701
+"GAY",63,73,"GAY","India","Asia",136
+"YZZ",76,77,"YZZ","Canada","North America",153
+"ZMT",18,18,"ZMT","Canada","North America",36
+"BWA",24,35,"BWA","Nepal","Asia",59
+"LUK",60,70,"LUK","United States","North America",130
+"MOG",18,15,"MOG","Myanmar","Asia",33
+"DCA",29554,38829,"DCA","United States","North America",68383
+"BPS",1015,1010,"BPS","Brazil","South America",2025
+"AUS",13078,18642,"AUS","United States","North America",31720
+"ART",75,131,"ART","United States","North America",206
+"VXC",24,24,"VXC","Mozambique","Africa",48
+"PDA",38,38,"PDA","Colombia","South America",76
+"YXC",333,319,"YXC","Canada","North America",652
+"PBJ",19,19,"PBJ","Vanuatu","Australasia",38
+"EAL",5,10,"EAL","Marshall Islands","Australasia",15
+"CVM",116,117,"CVM","Mexico","North America",233
+"XVC",314,250,"XVC","United Kingdom","Europe",564
+"FAT",2350,3514,"FAT","United States","North America",5864
+"XTI",599,620,"XTI","Spain","Europe",1219
+"VIX",2505,2393,"VIX","Brazil","South America",4898
+"YPW",129,129,"YPW","Canada","North America",258
+"BIQ",1219,1141,"BIQ","France","Europe",2360
+"DMK",3601,3652,"DMK","Thailand","Asia",7253
+"BEL",1756,1873,"BEL","Brazil","South America",3629
+"YQD",35,83,"YQD","Canada","North America",118
+"XDY",11,11,"XDY","Canada","North America",22
+"TRE",189,188,"TRE","United Kingdom","Europe",377
+"OAL",32,32,"OAL","Brazil","South America",64
+"BHR",25,30,"BHR","Nepal","Asia",55
+"AGA",3131,3083,"AGA","Morocco","Africa",6214
+"QBC",58,58,"QBC","Canada","North America",116
+"USM",904,885,"USM","Thailand","Asia",1789
+"LOS",3025,3233,"LOS","Nigeria","Africa",6258
+"BNY",44,44,"BNY","Solomon Islands","Australasia",88
+"RMQ",1078,1673,"RMQ","Taiwan","Asia",2751
+"EUX",114,138,"EUX","Bonaire, Saint Eustatius & Saba","Caribbean",252
+"DVL",3,112,"DVL","United States","North America",115
+"CHW",197,175,"CHW","United Kingdom","Europe",372
+"RIG",12,0,"RIG","Brazil","South America",12
+"SVQ",5584,5304,"SVQ","Spain","Europe",10888
+"SRZ",43,41,"SRZ","Bolivia","South America",84
+"NGQ",20,20,"NGQ","China","Asia",40
+"PBC",601,578,"PBC","Mexico","North America",1179
+"VRL",1,2,"VRL","Portugal","Europe",3
+"FUE",8576,7721,"FUE","Spain","Europe",16297
+"AZR",153,162,"AZR","Algeria","Africa",315
+"LZO",265,250,"LZO","China","Asia",515
+"LEQ",195,194,"LEQ","United Kingdom","Europe",389
+"CZN",12,12,"CZN","United States","North America",24
+"CBB",497,600,"CBB","Bolivia","South America",1097
+"SBZ",236,226,"SBZ","Romania","Europe",462
+"PCP",18,18,"PCP","Sao Tome and Principe","Africa",36
+"NOJ",77,72,"NOJ","Russian Federation","Asia",149
+"ULD",20,20,"ULD","South Africa","Africa",40
+"THL",250,147,"THL","Myanmar","Asia",397
+"BFX",6,6,"BFX","Cameroon","Africa",12
+"KEF",4146,4347,"KEF","Iceland","Europe",8493
+"OLH",33,44,"OLH","United States","North America",77
+"IAD",50669,51303,"IAD","United States","North America",101972
+"KZN",1005,1045,"KZN","Russian Federation","Europe",2050
+"IAR",29,27,"IAR","Russian Federation","Europe",56
+"AKX",416,396,"AKX","Kazakhstan","Asia",812
+"IWA",38,38,"IWA","Russian Federation","Europe",76
+"CNF",7925,8248,"CNF","Brazil","South America",16173
+"YXN",107,39,"YXN","Canada","North America",146
+"ZAM",182,185,"ZAM","Philippines","Asia",367
+"VLN",174,175,"VLN","Venezuela","South America",349
+"SIC",16,16,"SIC","Panama","Central America",32
+"VDM",40,0,"VDM","Argentina","South America",40
+"LAW",270,175,"LAW","United States","North America",445
+"NGK",28,29,"NGK","Russian Federation","Asia",57
+"AKP",24,24,"AKP","United States","North America",48
+"QRH",248,248,"QRH","Netherlands","Europe",496
+"LRS",55,55,"LRS","Greece","Europe",110
+"RVT",28,26,"RVT","Australia","Australasia",54
+"BFQ",8,8,"BFQ","Panama","Central America",16
+"ACX",136,151,"ACX","China","Asia",287
+"CZM",966,1233,"CZM","Mexico","North America",2199
+"TQA",36,34,"TQA","Greenland","North America",70
+"CMI",171,658,"CMI","United States","North America",829
+"ZSA",204,138,"ZSA","Bahamas","Caribbean",342
+"PAC",143,160,"PAC","Panama","Central America",303
+"ACU",8,8,"ACU","Panama","Central America",16
+"WNR",2,9,"WNR","Australia","Australasia",11
+"KQA",39,0,"KQA","United States","North America",39
+"TTJ",157,163,"TTJ","Japan","Asia",320
+"SJT",311,120,"SJT","United States","North America",431
+"FRU",1304,1281,"FRU","Kyrgyzstan","Asia",2585
+"YIN",485,497,"YIN","China","Asia",982
+"NBX",46,32,"NBX","Indonesia","Asia",78
+"JOK",20,27,"JOK","Russian Federation","Europe",47
+"LBD",521,510,"LBD","Tajikistan","Asia",1031
+"KXK",19,23,"KXK","Russian Federation","Asia",42
+"ABR",105,248,"ABR","United States","North America",353
+"KIN",1157,1177,"KIN","Jamaica","Caribbean",2334
+"ACR",4,5,"ACR","Colombia","South America",9
+"LUD",17,17,"LUD","Namibia","Africa",34
+"STS",360,220,"STS","United States","North America",580
+"FNA",198,189,"FNA","Sierra Leone","Africa",387
+"POS",2617,1678,"POS","Trinidad and Tobago","Caribbean",4295
+"STR",13754,13834,"STR","Germany","Europe",27588
+"FCA",811,1223,"FCA","United States","North America",2034
+"BON",495,533,"BON","Bonaire, Saint Eustatius & Saba","Caribbean",1028
+"AGH",2384,2903,"AGH","Sweden","Europe",5287
+"MNI",65,57,"MNI","Montserrat","Caribbean",122
+"JLN",98,54,"JLN","United States","North America",152
+"XPT",296,305,"XPT","United Kingdom","Europe",601
+"AQG",67,67,"AQG","China","Asia",134
+"FYJ",14,18,"FYJ","China","Asia",32
+"MXV",5,5,"MXV","Mongolia","Asia",10
+"ALF",781,1060,"ALF","Norway","Europe",1841
+"VDZ",62,62,"VDZ","United States","North America",124
+"BAQ",3677,3817,"BAQ","Colombia","South America",7494
+"OZZ",346,275,"OZZ","Morocco","Africa",621
+"VVO",787,781,"VVO","Russian Federation","Asia",1568
+"YXP",241,63,"YXP","Canada","North America",304
+"GCN",4,4,"GCN","United States","North America",8
+"NLT",45,49,"NLT","China","Asia",94
+"SHH",62,12,"SHH","United States","North America",74
+"WTK",93,0,"WTK","United States","North America",93
+"GKK",21,29,"GKK","Maldives","Asia",50
+"WAA",98,0,"WAA","United States","North America",98
+"MPN",26,27,"MPN","Falkland Islands","South America",53
+"JEK",2,3,"JEK","Zambia","Africa",5
+"TOE",59,57,"TOE","Tunisia","Africa",116
+"RRS",134,139,"RRS","Norway","Europe",273
+"RUN",2748,2684,"RUN","Reunion","Africa",5432
+"KOT",52,87,"KOT","United States","North America",139
+"GLV",63,63,"GLV","United States","North America",126
+"TLA",49,21,"TLA","United States","North America",70
+"BZK",1,1,"BZK","Russian Federation","Europe",2
+"ELI",56,56,"ELI","United States","North America",112
+"TRI",1699,722,"TRI","United States","North America",2421
+"ZAQ",46,34,"ZAQ","Germany","Europe",80
+"PNK",373,399,"PNK","Indonesia","Asia",772
+"CAY",123,130,"CAY","French Guiana","South America",253
+"WBB",182,0,"WBB","United States","North America",182
+"LAO",56,62,"LAO","Philippines","Asia",118
+"EMK",119,119,"EMK","United States","North America",238
+"LEJ",3560,3572,"LEJ","Germany","Europe",7132
+"FKI",34,55,"FKI","Democratic Republic of the Congo","Africa",89
+"RBA",974,704,"RBA","Morocco","Africa",1678
+"CGP",698,679,"CGP","Bangladesh","Asia",1377
+"BFC",8,8,"BFC","Australia","Australasia",16
+"BMV",346,347,"BMV","Vietnam","Asia",693
+"PSP",4255,4848,"PSP","United States","North America",9103
+"HUX",1064,895,"HUX","Mexico","North America",1959
+"SIN",16246,16339,"SIN","Singapore","Asia",32585
+"BOC",48,31,"BOC","Panama","Central America",79
+"TLT",125,0,"TLT","United States","North America",125
+"ARM",286,298,"ARM","Australia","Australasia",584
+"LBS",216,190,"LBS","Fiji","Australasia",406
+"CPE",517,472,"CPE","Mexico","North America",989
+"TER",1480,857,"TER","Portugal","Europe",2337
+"ROS",400,195,"ROS","Argentina","South America",595
+"MXP",19468,19204,"MXP","Italy","Europe",38672
+"HGN",28,28,"HGN","Thailand","Asia",56
+"ZNA",59,64,"ZNA","Canada","North America",123
+"SRV",12,0,"SRV","United States","North America",12
+"MLH",454,464,"MLH","France","Europe",918
+"SUX",100,59,"SUX","United States","North America",159
+"TTY",187,268,"TTY","United Kingdom","Europe",455
+"YTS",798,960,"YTS","Canada","North America",1758
+"YEG",12924,12950,"YEG","Canada","North America",25874
+"OLV",24,34,"OLV","United States","North America",58
+"SJP",629,601,"SJP","Brazil","South America",1230
+"AAX",22,23,"AAX","Brazil","South America",45
+"KUU",8,8,"KUU","India","Asia",16
+"KNH",283,279,"KNH","Taiwan","Asia",562
+"CPX",187,166,"CPX","Puerto Rico","Caribbean",353
+"FLG",78,291,"FLG","United States","North America",369
+"AIA",48,49,"AIA","United States","North America",97
+"KOI",424,791,"KOI","United Kingdom","Europe",1215
+"QSF",293,296,"QSF","Algeria","Africa",589
+"OVS",105,102,"OVS","Russian Federation","Asia",207
+"YTG",1,0,"YTG","Canada","North America",1
+"MCE",70,53,"MCE","United States","North America",123
+"CFK",37,37,"CFK","Algeria","Africa",74
+"ABX",623,563,"ABX","Australia","Australasia",1186
+"TNG",1488,1338,"TNG","Morocco","Africa",2826
+"VOL",23,16,"VOL","Greece","Europe",39
+"ONT",4686,5882,"ONT","United States","North America",10568
+"AVP",862,1745,"AVP","United States","North America",2607
+"YCY",93,107,"YCY","Canada","North America",200
+"YJV",209,179,"YJV","Spain","Europe",388
+"LUG",297,290,"LUG","Switzerland","Europe",587
+"AER",2146,2109,"AER","Russian Federation","Europe",4255
+"YVR",27196,26688,"YVR","Canada","North America",53884
+"TEQ",89,88,"TEQ","Turkey","Europe",177
+"XMN",7121,6298,"XMN","China","Asia",13419
+"TBM",1,1,"TBM","Indonesia","Asia",2
+"TNO",109,58,"TNO","Costa Rica","Central America",167
+"HNM",11,44,"HNM","United States","North America",55
+"IRK",107,120,"IRK","United States","North America",227
+"ZPM",28,29,"ZPM","Germany","Europe",57
+"VFA",117,122,"VFA","Zimbabwe","Africa",239
+"OZH",143,146,"OZH","Ukraine","Europe",289
+"FDE",207,245,"FDE","Norway","Europe",452
+"RNS",1071,1062,"RNS","France","Europe",2133
+"ZHY",38,8,"ZHY","China","Asia",46
+"PBH",303,283,"PBH","Bhutan","Asia",586
+"KOA",2766,2966,"KOA","United States","North America",5732
+"MTM",98,98,"MTM","United States","North America",196
+"SKU",56,57,"SKU","Greece","Europe",113
+"ABV",1538,1555,"ABV","Nigeria","Africa",3093
+"YJI",27,25,"YJI","Spain","Europe",52
+"LZY",86,85,"LZY","China","Asia",171
+"YZS",135,26,"YZS","Canada","North America",161
+"YRB",46,40,"YRB","Canada","North America",86
+"FRE",51,52,"FRE","Solomon Islands","Australasia",103
+"MEL",33559,33921,"MEL","Australia","Australasia",67480
+"YQG",737,794,"YQG","Canada","North America",1531
+"LUM",337,310,"LUM","China","Asia",647
+"GEO",274,619,"GEO","Guyana","South America",893
+"CCJ",485,582,"CCJ","India","Asia",1067
+"PBZ",152,126,"PBZ","South Africa","Africa",278
+"XFF",264,264,"XFF","France","Europe",528
+"MIG",549,488,"MIG","China","Asia",1037
+"VIR",8,0,"VIR","South Africa","Africa",8
+"YWG",8789,8236,"YWG","Canada","North America",17025
+"KSC",765,763,"KSC","Slovakia","Europe",1528
+"YBP",214,103,"YBP","China","Asia",317
+"LCX",41,34,"LCX","China","Asia",75
+"LDE",313,275,"LDE","France","Europe",588
+"ETZ",519,514,"ETZ","France","Europe",1033
+"LUP",17,18,"LUP","United States","North America",35
+"POJ",19,11,"POJ","Brazil","South America",30
+"KUM",150,147,"KUM","Japan","Asia",297
+"YKS",1426,1472,"YKS","Russian Federation","Asia",2898
+"OSM",12,12,"OSM","Iraq","Middle East",24
+"MCO",46426,43203,"MCO","United States","North America",89629
+"RAI",1178,1192,"RAI","Cape Verde","Africa",2370
+"PBI",11487,8908,"PBI","United States","North America",20395
+"NSH",39,39,"NSH","Iran","Middle East",78
+"BDP",32,32,"BDP","Nepal","Asia",64
+"XOJ",467,449,"XOJ","Spain","Europe",916
+"NQU",20,21,"NQU","Colombia","South America",41
+"MAR",298,312,"MAR","Venezuela","South America",610
+"BLR",4596,4869,"BLR","India","Asia",9465
+"JBB",11,11,"JBB","Indonesia","Asia",22
+"WNZ",2474,2141,"WNZ","China","Asia",4615
+"CUL",1743,1672,"CUL","Mexico","North America",3415
+"TUN",7446,7467,"TUN","Tunisia","Africa",14913
+"CNM",37,34,"CNM","United States","North America",71
+"WEF",141,10,"WEF","China","Asia",151
+"EIS",760,821,"EIS","British Virgin Islands","Caribbean",1581
+"PEI",2499,2459,"PEI","Colombia","South America",4958
+"SNE",71,61,"SNE","Cape Verde","Africa",132
+"SRE",231,219,"SRE","Bolivia","South America",450
+"VLC",6902,6821,"VLC","Spain","Europe",13723
+"EPR",101,102,"EPR","Australia","Australasia",203
+"KQT",37,37,"KQT","Tajikistan","Asia",74
+"HDG",110,108,"HDG","China","Asia",218
+"KOZ",39,39,"KOZ","United States","North America",78
+"LIL",1948,1980,"LIL","France","Europe",3928
+"KKX",77,75,"KKX","Japan","Asia",152
+"MXX",152,28,"MXX","Sweden","Europe",180
+"TOF",229,192,"TOF","Russian Federation","Asia",421
+"YGT",57,133,"YGT","Canada","North America",190
+"VQS",596,632,"VQS","United States","North America",1228
+"MED",6670,8133,"MED","Saudi Arabia","Middle East",14803
+"ZXE",60,99,"ZXE","United Kingdom","Europe",159
+"QJH",22,22,"QJH","Greenland","North America",44
+"RNB",1646,1766,"RNB","Sweden","Europe",3412
+"THO",18,18,"THO","Iceland","Europe",36
+"DSN",545,572,"DSN","China","Asia",1117
+"OPO",8471,8733,"OPO","Portugal","Europe",17204
+"FUG",179,179,"FUG","China","Asia",358
+"DSI",116,118,"DSI","United States","North America",234
+"KWI",8272,8211,"KWI","Kuwait","Middle East",16483
+"DEY",3,4,"DEY","China","Asia",7
+"AHJ",15,15,"AHJ","China","Asia",30
+"MCK",40,0,"MCK","United States","North America",40
+"GRO",1389,1653,"GRO","Spain","Europe",3042
+"LKG",4,4,"LKG","Kenya","Africa",8
+"GOJ",580,559,"GOJ","Russian Federation","Europe",1139
+"BLD",28,28,"BLD","United States","North America",56
+"GCM",1412,1699,"GCM","Cayman Islands","Caribbean",3111
+"YCB",141,149,"YCB","Canada","North America",290
+"URC",6878,6450,"URC","China","Asia",13328
+"BCI",27,27,"BCI","Australia","Australasia",54
+"TYF",66,70,"TYF","Sweden","Europe",136
+"KAD",68,68,"KAD","Nigeria","Africa",136
+"MJC",11,0,"MJC","Ivory Coast (Cote d'Ivoire)","Africa",11
+"XDW",16,22,"XDW","Canada","North America",38
+"TQL",11,11,"TQL","Russian Federation","Asia",22
+"GOU",11,43,"GOU","Cameroon","Africa",54
+"SYQ",12,13,"SYQ","Costa Rica","Central America",25
+"PAF",8,8,"PAF","Uganda","Africa",16
+"HEK",16,16,"HEK","China","Asia",32
+"HPG",10,23,"HPG","China","Asia",33
+"YNP",41,41,"YNP","Canada","North America",82
+"XWW",84,167,"XWW","Austria","Europe",251
+"CJU",4895,5006,"CJU","South Korea","Asia",9901
+"SFB",5804,5749,"SFB","United States","North America",11553
+"TIZ",92,45,"TIZ","Papua New Guinea","Australasia",137
+"XZI",60,108,"XZI","France","Europe",168
+"SPU",2710,2727,"SPU","Croatia","Europe",5437
+"TNA",2616,2164,"TNA","China","Asia",4780
+"YUL",32087,29165,"YUL","Canada","North America",61252
+"NQN",1514,879,"NQN","Argentina","South America",2393
+"BSL",8128,8140,"BSL","Switzerland","Europe",16268
+"JHW",78,68,"JHW","United States","North America",146
+"EZS",793,787,"EZS","Turkey","Europe",1580
+"ERF",293,315,"ERF","Germany","Europe",608
+"HBA",1752,1644,"HBA","Australia","Australasia",3396
+"DIY",1501,1506,"DIY","Turkey","Europe",3007
+"FOD",97,96,"FOD","United States","North America",193
+"DPS",4132,4004,"DPS","Indonesia","Asia",8136
+"AXR",30,57,"AXR","French Polynesia","Australasia",87
+"LGW",43791,45959,"LGW","United Kingdom","Europe",89750
+"LCG",1731,1704,"LCG","Spain","Europe",3435
+"CAN",20629,21328,"CAN","China","Asia",41957
+"CGR",909,1088,"CGR","Brazil","South America",1997
+"TSE",3046,3007,"TSE","Kazakhstan","Asia",6053
+"VAL",20,22,"VAL","Brazil","South America",42
+"YHI",37,42,"YHI","Canada","North America",79
+"TRO",105,95,"TRO","Australia","Australasia",200
+"YNJ",506,509,"YNJ","China","Asia",1015
+"PTU",57,0,"PTU","United States","North America",57
+"CAI",15388,15486,"CAI","Egypt","Africa",30874
+"TIV",820,800,"TIV","Montenegro","Europe",1620
+"BRS",7669,7852,"BRS","United Kingdom","Europe",15521
+"ISC",248,253,"ISC","United Kingdom","Europe",501
+"NVK",209,208,"NVK","Norway","Europe",417
+"IBZ",8615,7642,"IBZ","Spain","Europe",16257
+"NDJ",341,335,"NDJ","Chad","Africa",676
+"KSH",537,519,"KSH","Iran","Middle East",1056
+"NAN",3060,3219,"NAN","Fiji","Australasia",6279
+"GCC",107,270,"GCC","United States","North America",377
+"CDV",34,102,"CDV","United States","North America",136
+"SLU",169,160,"SLU","Saint Lucia","Caribbean",329
+"SDQ",3238,2928,"SDQ","Dominican Republic","Caribbean",6166
+"SMF",17942,11358,"SMF","United States","North America",29300
+"LIH",2388,2115,"LIH","United States","North America",4503
+"WJR",101,78,"WJR","Kenya","Africa",179
+"RKV",1264,1275,"RKV","Iceland","Europe",2539
+"QVL",137,151,"QVL","Austria","Europe",288
+"MPA",5,14,"MPA","Namibia","Africa",19
+"COK",2199,2281,"COK","India","Asia",4480
+"CAC",242,247,"CAC","Brazil","South America",489
+"IAS",484,480,"IAS","Romania","Europe",964
+"SJU",14025,12060,"SJU","United States","North America",26085
+"AIN",20,40,"AIN","United States","North America",60
+"GGG",128,40,"GGG","United States","North America",168
+"ANM",18,56,"ANM","Madagascar","Africa",74
+"CFR",309,296,"CFR","France","Europe",605
+"TSF",1827,1063,"TSF","Italy","Europe",2890
+"KEM",152,137,"KEM","Finland","Europe",289
+"MOQ",37,123,"MOQ","Madagascar","Africa",160
+"HGR",193,199,"HGR","United States","North America",392
+"AKV",82,82,"AKV","Canada","North America",164
+"GJL",44,40,"GJL","Algeria","Africa",84
+"PHO",111,15,"PHO","United States","North America",126
+"NAW",18,18,"NAW","Thailand","Asia",36
+"KOW",262,193,"KOW","China","Asia",455
+"RVE",27,26,"RVE","Colombia","South America",53
+"FDH",774,819,"FDH","Germany","Europe",1593
+"YYG",502,519,"YYG","Canada","North America",1021
+"BUQ",76,77,"BUQ","Zimbabwe","Africa",153
+"EXT",1183,1274,"EXT","United Kingdom","Europe",2457
+"AKY",70,80,"AKY","Myanmar","Asia",150
+"RES",468,195,"RES","Argentina","South America",663
+"DAB",1169,482,"DAB","United States","North America",1651
+"BKO",645,604,"BKO","Mali","Africa",1249
+"BIL",1383,2264,"BIL","United States","North America",3647
+"SLP",1452,1253,"SLP","Mexico","North America",2705
+"LYC",209,45,"LYC","Sweden","Europe",254
+"SLM",28,22,"SLM","Spain","Europe",50
+"WHD",16,16,"WHD","United States","North America",32
+"XDX",18,19,"XDX","Canada","North America",37
+"CMN",19432,19582,"CMN","Morocco","Africa",39014
+"CGO",5866,5974,"CGO","China","Asia",11840
+"IXI",6,6,"IXI","India","Asia",12
+"LJG",1434,1429,"LJG","China","Asia",2863
+"AMS",39796,40419,"AMS","Netherlands","Europe",80215
+"BUD",9818,9463,"BUD","Hungary","Europe",19281
+"LNZ",752,640,"LNZ","Austria","Europe",1392
+"BFL",406,812,"BFL","United States","North America",1218
+"MJU",29,29,"MJU","Indonesia","Asia",58
+"PNS",3694,2144,"PNS","United States","North America",5838
+"GDL",11821,12062,"GDL","Mexico","North America",23883
+"KEJ",88,87,"KEJ","Russian Federation","Asia",175
+"PDV",144,71,"PDV","Bulgaria","Europe",215
+"XQE",444,513,"XQE","United Kingdom","Europe",957
+"LEB",205,189,"LEB","United States","North America",394
+"AKJ",847,841,"AKJ","Japan","Asia",1688
+"PGV",291,113,"PGV","United States","North America",404
+"XDP",35,14,"XDP","Canada","North America",49
+"XFK",20,19,"XFK","Canada","North America",39
+"TGD",1283,1261,"TGD","Montenegro","Europe",2544
+"YTY",327,164,"YTY","China","Asia",491
+"YUX",151,11,"YUX","Canada","North America",162
+"ELM",1317,999,"ELM","United States","North America",2316
+"ACI",379,350,"ACI","United Kingdom","Europe",729
+"SHA",12094,12297,"SHA","China","Asia",24391
+"MXL",682,674,"MXL","Mexico","North America",1356
+"TBU",376,369,"TBU","Tonga","Australasia",745
+"LIM",28278,28775,"LIM","Peru","South America",57053
+"BBK",127,133,"BBK","Botswana","Africa",260
+"IWD",39,40,"IWD","United States","North America",79
+"YHR",56,58,"YHR","Canada","North America",114
+"YIC",139,0,"YIC","China","Asia",139
+"TGZ",1631,1264,"TGZ","Mexico","North America",2895
+"MGW",99,37,"MGW","United States","North America",136
+"EGO",151,143,"EGO","Russian Federation","Europe",294
+"CZU",24,25,"CZU","Colombia","South America",49
+"ARK",50,60,"ARK","Tanzania","Africa",110
+"GRB",1869,2679,"GRB","United States","North America",4548
+"VCT",23,22,"VCT","United States","North America",45
+"HAH",225,363,"HAH","Comoros","Africa",588
+"MAH",3970,3738,"MAH","Spain","Europe",7708
+"JIQ",87,87,"JIQ","China","Asia",174
+"MZW",18,18,"MZW","Algeria","Africa",36
+"EDL",137,138,"EDL","Kenya","Africa",275
+"NTE",6664,6492,"NTE","France","Europe",13156
+"PWE",55,55,"PWE","Russian Federation","Asia",110
+"NDU",18,10,"NDU","Namibia","Africa",28
+"DCY",84,91,"DCY","China","Asia",175
+"DEC",95,94,"DEC","United States","North America",189
+"YES",28,28,"YES","Iran","Middle East",56
+"ABL",37,37,"ABL","United States","North America",74
+"SXM",3624,2732,"SXM","Sint Maarten","Caribbean",6356
+"CSX",5303,5736,"CSX","China","Asia",11039
+"CRI",2,43,"CRI","Bahamas","Caribbean",45
+"RSW",15117,10650,"RSW","United States","North America",25767
+"YXY",289,286,"YXY","Canada","North America",575
+"KWE",3637,3765,"KWE","China","Asia",7402
+"SIG",29,36,"SIG","United States","North America",65
+"PVD",6731,4781,"PVD","United States","North America",11512
+"ABJ",925,980,"ABJ","Ivory Coast (Cote d'Ivoire)","Africa",1905
+"ABT",247,243,"ABT","Saudi Arabia","Middle East",490
+"KOV",36,39,"KOV","Kazakhstan","Asia",75
+"ZEL",99,99,"ZEL","Canada","North America",198
+"UYN",430,451,"UYN","China","Asia",881
+"SCM",69,61,"SCM","United States","North America",130
+"AOO",84,83,"AOO","United States","North America",167
+"AUC",64,64,"AUC","Colombia","South America",128
+"BBO",12,10,"BBO","Somalia","Africa",22
+"BSK",97,95,"BSK","Algeria","Africa",192
+"GRZ",1819,1765,"GRZ","Austria","Europe",3584
+"CYZ",20,16,"CYZ","Philippines","Asia",36
+"PUE",8,8,"PUE","Panama","Central America",16
+"FLW",70,89,"FLW","Portugal","Europe",159
+"LLA",3572,3535,"LLA","Sweden","Europe",7107
+"TFF",62,54,"TFF","Brazil","South America",116
+"KVA",244,232,"KVA","Greece","Europe",476
+"SOM",9,9,"SOM","Venezuela","South America",18
+"HEH",431,437,"HEH","Myanmar","Asia",868
+"LCY",7013,7119,"LCY","United Kingdom","Europe",14132
+"XDQ",327,328,"XDQ","Canada","North America",655
+"JBR",53,52,"JBR","United States","North America",105
+"ATH",15552,15507,"ATH","Greece","Europe",31059
+"KWT",22,20,"KWT","United States","North America",42
+"JSR",69,65,"JSR","Bangladesh","Asia",134
+"ICN",18715,18632,"ICN","South Korea","Asia",37347
+"QEW",1032,1009,"QEW","United Kingdom","Europe",2041
+"JOI",549,554,"JOI","Brazil","South America",1103
+"YYJ",2924,3164,"YYJ","Canada","North America",6088
+"BRO",442,716,"BRO","United States","North America",1158
+"LPD",5,5,"LPD","Colombia","South America",10
+"SWA",1248,1276,"SWA","China","Asia",2524
+"EVN",1389,1333,"EVN","Armenia","Asia",2722
+"KSD",312,311,"KSD","Sweden","Europe",623
+"KVL",76,76,"KVL","United States","North America",152
+"XIY",9799,6511,"XIY","China","Asia",16310
+"NWI",567,539,"NWI","United Kingdom","Europe",1106
+"RJL",45,50,"RJL","Spain","Europe",95
+"JAX",11732,9758,"JAX","United States","North America",21490
+"ELH",109,314,"ELH","Bahamas","Caribbean",423
+"YLW",2624,2848,"YLW","Canada","North America",5472
+"IGU",1368,1277,"IGU","Brazil","South America",2645
+"HER",5007,4767,"HER","Greece","Europe",9774
+"XLJ",76,103,"XLJ","Canada","North America",179
+"AVS",216,216,"AVS","Spain","Europe",432
+"APO",160,157,"APO","Colombia","South America",317
+"BKK",16509,15759,"BKK","Thailand","Asia",32268
+"LOP",458,430,"LOP","Indonesia","Asia",888
+"MZO",60,59,"MZO","Cuba","Caribbean",119
+"NYT",132,146,"NYT","Myanmar","Asia",278
+"JSI",257,242,"JSI","Greece","Europe",499
+"ALA",4861,4891,"ALA","Kazakhstan","Asia",9752
+"PRN",1718,1702,"PRN","Serbia","Europe",3420
+"GBD",35,29,"GBD","United States","North America",64
+"TAC",374,380,"TAC","Philippines","Asia",754
+"AJR",164,212,"AJR","Sweden","Europe",376
+"CTU",10775,12083,"CTU","China","Asia",22858
+"MMK",323,352,"MMK","Russian Federation","Europe",675
+"NQY",344,358,"NQY","United Kingdom","Europe",702
+"OSY",111,132,"OSY","Norway","Europe",243
+"GRR",6312,6569,"GRR","United States","North America",12881
+"DOU",116,156,"DOU","Brazil","South America",272
+"HOU",10020,10478,"HOU","United States","North America",20498
+"YIO",105,106,"YIO","Canada","North America",211
+"ODO",40,48,"ODO","Russian Federation","Asia",88
+"KHG",506,657,"KHG","China","Asia",1163
+"TWT",14,14,"TWT","Philippines","Asia",28
+"CTM",216,88,"CTM","Mexico","North America",304
+"PVR",7855,7835,"PVR","Mexico","North America",15690
+"CAJ",8,8,"CAJ","Venezuela","South America",16
+"FAR",1990,3865,"FAR","United States","North America",5855
+"PAS",66,66,"PAS","Greece","Europe",132
+"BHJ",33,29,"BHJ","India","Asia",62
+"HKT",3468,3572,"HKT","Thailand","Asia",7040
+"TGR",34,34,"TGR","Algeria","Africa",68
+"AXM",621,589,"AXM","Colombia","South America",1210
+"XIC",126,122,"XIC","China","Asia",248
+"KAC",8,8,"KAC","Syria","Middle East",16
+"KUO",520,522,"KUO","Finland","Europe",1042
+"MAB",405,253,"MAB","Brazil","South America",658
+"BMA",13630,11936,"BMA","Sweden","Europe",25566
+"YKG",13,0,"YKG","Canada","North America",13
+"BEM",256,256,"BEM","Morocco","Africa",512
+"OGG",5905,5297,"OGG","United States","North America",11202
+"KKA",43,43,"KKA","United States","North America",86
+"CSY",49,45,"CSY","Russian Federation","Europe",94
+"KJA",977,1003,"KJA","Russian Federation","Asia",1980
+"REN",197,199,"REN","Russian Federation","Europe",396
+"YZY",53,35,"YZY","China","Asia",88
+"UKX",26,26,"UKX","Russian Federation","Asia",52
+"OLB",2564,2543,"OLB","Italy","Europe",5107
+"PTY",14441,14169,"PTY","Panama","Central America",28610
+"TWU",221,223,"TWU","Malaysia","Asia",444
+"VII",534,554,"VII","Vietnam","Asia",1088
+"CME",871,797,"CME","Mexico","North America",1668
+"LUZ",323,248,"LUZ","Poland","Europe",571
+"QSC",32,0,"QSC","Brazil","South America",32
+"POP",1098,992,"POP","Dominican Republic","Caribbean",2090
+"YYZ",72438,68732,"YYZ","Canada","North America",141170
+"FKB",1064,1183,"FKB","Germany","Europe",2247
+"POZ",1288,1101,"POZ","Poland","Europe",2389
+"BTI",30,48,"BTI","United States","North America",78
+"SJW",1278,1055,"SJW","China","Asia",2333
+"LLW",521,570,"LLW","Malawi","Africa",1091
+"QQS",1108,1008,"QQS","United Kingdom","Europe",2116
+"CEN",438,370,"CEN","Mexico","North America",808
+"CVN",83,83,"CVN","United States","North America",166
+"YZG",95,95,"YZG","Canada","North America",190
+"LBF",130,56,"LBF","United States","North America",186
+"YGR",55,63,"YGR","Canada","North America",118
+"PMW",473,486,"PMW","Brazil","South America",959
+"CKB",94,135,"CKB","United States","North America",229
+"MLB",892,287,"MLB","United States","North America",1179
+"ABU",6,6,"ABU","Indonesia","Asia",12
+"BRL",92,91,"BRL","United States","North America",183
+"MBA",892,834,"MBA","Kenya","Africa",1726
+"SVO",12618,13008,"SVO","Russian Federation","Europe",25626
+"GRU",22422,21806,"GRU","Brazil","South America",44228
+"TRD",10232,10092,"TRD","Norway","Europe",20324
+"OAK",11734,10920,"OAK","United States","North America",22654
+"TTQ",48,47,"TTQ","Costa Rica","Central America",95
+"SAF",559,448,"SAF","United States","North America",1007
+"ZCD",5,10,"ZCD","Germany","Europe",15
+"ACC",1886,1886,"ACC","Ghana","Africa",3772
+"MJZ",356,379,"MJZ","Russian Federation","Asia",735
+"YGL",56,56,"YGL","Canada","North America",112
+"XNA",5393,3081,"XNA","United States","North America",8474
+"TKK",159,51,"TKK","Micronesia","Australasia",210
+"LBE",134,138,"LBE","United States","North America",272
+"HLA",386,341,"HLA","South Africa","Africa",727
+"ZNE",600,617,"ZNE","Australia","Australasia",1217
+"KBL",544,613,"KBL","Afghanistan","Asia",1157
+"FSD",2486,3781,"FSD","United States","North America",6267
+"DIE",154,157,"DIE","Madagascar","Africa",311
+"PDL",1529,1769,"PDL","Portugal","Europe",3298
+"PQI",95,82,"PQI","United States","North America",177
+"TAE",524,474,"TAE","South Korea","Asia",998
+"SYO",142,143,"SYO","Japan","Asia",285
+"ADA",4294,4285,"ADA","Turkey","Europe",8579
+"HCR",32,32,"HCR","United States","North America",64
+"ETH",2266,2317,"ETH","Israel","Middle East",4583
+"HAM",20838,21310,"HAM","Germany","Europe",42148
+"XJH",398,406,"XJH","Hong Kong","Asia",804
+"CJC",3172,3069,"CJC","Chile","South America",6241
+"LTD",2,2,"LTD","Libya","Africa",4
+"UKA",74,73,"UKA","Kenya","Africa",147
+"LYP",238,209,"LYP","Pakistan","Asia",447
+"EAM",346,396,"EAM","Saudi Arabia","Middle East",742
+"PAH",145,127,"PAH","United States","North America",272
+"NCE",16576,16700,"NCE","France","Europe",33276
+"YDP",45,45,"YDP","Canada","North America",90
+"MBL",56,42,"MBL","United States","North America",98
+"GRK",1060,591,"GRK","United States","North America",1651
+"CWB",5075,5181,"CWB","Brazil","South America",10256
+"LWO",766,753,"LWO","Ukraine","Europe",1519
+"VCP",9106,8087,"VCP","Brazil","South America",17193
+"ROA",2703,1470,"ROA","United States","North America",4173
+"ZNZ",843,569,"ZNZ","Tanzania","Africa",1412
+"XBE",50,51,"XBE","Canada","North America",101
+"CDT",30,26,"CDT","Spain","Europe",56
+"XUT",50,51,"XUT","Spain","Europe",101
+"MAJ",53,63,"MAJ","Marshall Islands","Australasia",116
+"ZRP",12,18,"ZRP","United States","North America",30
+"YJM",139,149,"YJM","Spain","Europe",288
+"BPT",75,203,"BPT","United States","North America",278
+"YJH",70,68,"YJH","Spain","Europe",138
+"PEZ",68,65,"PEZ","Russian Federation","Europe",133
+"MDE",8075,7709,"MDE","Colombia","South America",15784
+"PMI",24981,23963,"PMI","Spain","Europe",48944
+"LTN",10042,10507,"LTN","United Kingdom","Europe",20549
+"CGY",475,466,"CGY","Philippines","Asia",941
+"MMX",4617,4627,"MMX","Sweden","Europe",9244
+"BVA",3730,1943,"BVA","France","Europe",5673
+"AFL",53,55,"AFL","Brazil","South America",108
+"YUB",41,41,"YUB","Canada","North America",82
+"ZYH",120,128,"ZYH","Netherlands","Europe",248
+"VSE",2,1,"VSE","Portugal","Europe",3
+"KOE",213,328,"KOE","Indonesia","Asia",541
+"MJV",1437,850,"MJV","Spain","Europe",2287
+"BCN",52129,53426,"BCN","Spain","Europe",105555
+"THE",642,472,"THE","Brazil","South America",1114
+"HUS",12,37,"HUS","United States","North America",49
+"SKG",5335,4562,"SKG","Greece","Europe",9897
+"BVH",36,25,"BVH","Brazil","South America",61
+"KGX",32,32,"KGX","United States","North America",64
+"YFC",611,638,"YFC","Canada","North America",1249
+"OLA",28,38,"OLA","Norway","Europe",66
+"GMO",25,27,"GMO","Nigeria","Africa",52
+"ZOS",390,6,"ZOS","Chile","South America",396
+"SKP",1535,1525,"SKP","Macedonia","Europe",3060
+"AOS",10,10,"AOS","United States","North America",20
+"LIT",4649,3955,"LIT","United States","North America",8604
+"MCT",8639,8754,"MCT","Oman","Middle East",17393
+"BGY",6355,7751,"BGY","Italy","Europe",14106
+"RZS",8,0,"RZS","Pakistan","Asia",8
+"SZX",13200,13698,"SZX","China","Asia",26898
+"PNH",1370,1196,"PNH","Cambodia","Asia",2566
+"RNA",17,0,"RNA","Solomon Islands","Australasia",17
+"CWA",579,1164,"CWA","United States","North America",1743
+"CJS",1690,1529,"CJS","Mexico","North America",3219
+"FPO",870,902,"FPO","Bahamas","Caribbean",1772
+"SYD",41628,41460,"SYD","Australia","Australasia",83088
+"SDF",10618,7124,"SDF","United States","North America",17742
+"PKU",371,361,"PKU","Indonesia","Asia",732
+"PGF",500,439,"PGF","France","Europe",939
+"FMM",952,692,"FMM","Germany","Europe",1644
+"GNV",1668,703,"GNV","United States","North America",2371
+"MGU",2,2,"MGU","Myanmar","Asia",4
+"YQZ",99,106,"YQZ","Canada","North America",205
+"MPL",2039,1986,"MPL","France","Europe",4025
+"CCU",2580,2652,"CCU","India","Asia",5232
+"HDN",708,684,"HDN","United States","North America",1392
+"BWT",273,260,"BWT","Australia","Australasia",533
+"CKG",7304,7844,"CKG","China","Asia",15148
+"ULN",720,780,"ULN","Mongolia","Asia",1500
+"SHL",6,6,"SHL","India","Asia",12
+"DAY",4310,6629,"DAY","United States","North America",10939
+"YWB",49,49,"YWB","Canada","North America",98
+"LZR",10,10,"LZR","Australia","Australasia",20
+"YJD",42,56,"YJD","Spain","Europe",98
+"AUK",80,72,"AUK","United States","North America",152
+"VIL",107,87,"VIL","Western Sahara","Africa",194
+"CND",215,213,"CND","Romania","Europe",428
+"CJL",14,17,"CJL","Pakistan","Asia",31
+"HAV",3749,3370,"HAV","Cuba","Caribbean",7119
+"ASU",1005,857,"ASU","Paraguay","South America",1862
+"HUU",23,23,"HUU","Peru","South America",46
+"IKE",19,19,"IKE","Greenland","North America",38
+"TDD",177,81,"TDD","Bolivia","South America",258
+"SQG",14,10,"SQG","Indonesia","Asia",24
+"YBG",186,190,"YBG","Canada","North America",376
+"DOM",277,266,"DOM","Dominica","Caribbean",543
+"KPY",10,10,"KPY","United States","North America",20
+"KIX",7634,7083,"KIX","Japan","Asia",14717
+"AAL",2013,2129,"AAL","Denmark","Europe",4142
+"YCO",162,203,"YCO","Canada","North America",365
+"OME",100,646,"OME","United States","North America",746
+"ENA",579,580,"ENA","United States","North America",1159
+"MOT",1370,1877,"MOT","United States","North America",3247
+"ZGN",24,24,"ZGN","China","Asia",48
+"OTD",16,16,"OTD","Panama","Central America",32
+"ZMU",68,78,"ZMU","Germany","Europe",146
+"ASP",473,450,"ASP","Australia","Australasia",923
+"PEN",1897,1716,"PEN","Malaysia","Asia",3613
+"SUR",35,46,"SUR","Canada","North America",81
+"VVZ",157,25,"VVZ","Algeria","Africa",182
+"JIB",481,431,"JIB","Djibouti","Africa",912
+"GDV",28,26,"GDV","United States","North America",54
+"YQK",49,77,"YQK","Canada","North America",126
+"KGD",767,763,"KGD","Russian Federation","Europe",1530
+"STM",464,205,"STM","Brazil","South America",669
+"BPR",353,353,"BPR","United Kingdom","Europe",706
+"BKI",1644,1693,"BKI","Malaysia","Asia",3337
+"RSH",112,0,"RSH","United States","North America",112
+"BHK",258,260,"BHK","Uzbekistan","Asia",518
+"FUK",6556,6214,"FUK","Japan","Asia",12770
+"SNP",15,18,"SNP","United States","North America",33
+"MYD",94,154,"MYD","Kenya","Africa",248
+"BRU",32554,32563,"BRU","Belgium","Europe",65117
+"POL",159,84,"POL","Mozambique","Africa",243
+"BOM",11156,11514,"BOM","India","Asia",22670
+"YUD",90,90,"YUD","Canada","North America",180
+"JDH",112,113,"JDH","India","Asia",225
+"DIW",7,16,"DIW","Sri Lanka","Asia",23
+"HOV",459,407,"HOV","Norway","Europe",866
+"JPR",19,21,"JPR","Brazil","South America",40
+"XJI",252,240,"XJI","Spain","Europe",492
+"BCV",18,26,"BCV","Belize","Central America",44
+"EGE",523,536,"EGE","United States","North America",1059
+"SXB",2908,2833,"SXB","France","Europe",5741
+"EEM",280,277,"EEM","Spain","Europe",557
+"MAD",58710,58467,"MAD","Spain","Europe",117177
+"MID",2986,2732,"MID","Mexico","North America",5718
+"CPV",6,51,"CPV","Brazil","South America",57
+"TJM",763,796,"TJM","Russian Federation","Asia",1559
+"EDI",12053,12416,"EDI","United Kingdom","Europe",24469
+"IXB",290,259,"IXB","India","Asia",549
+"YNE",49,61,"YNE","Canada","North America",110
+"VHM",229,32,"VHM","Sweden","Europe",261
+"ROO",79,84,"ROO","Brazil","South America",163
+"CPJ",190,190,"CPJ","Spain","Europe",380
+"TXK",211,133,"TXK","United States","North America",344
+"NAG",196,223,"NAG","India","Asia",419
+"MAO",1370,1363,"MAO","Brazil","South America",2733
+"ERH",27,30,"ERH","Morocco","Africa",57
+"TAL",149,0,"TAL","United States","North America",149
+"SZF",1614,1658,"SZF","Turkey","Europe",3272
+"ANR",467,468,"ANR","Belgium","Europe",935
+"RIA",46,51,"RIA","Brazil","South America",97
+"IXE",587,634,"IXE","India","Asia",1221
+"YGZ",13,13,"YGZ","Canada","North America",26
+"XJQ",20,19,"XJQ","Canada","North America",39
+"OSW",18,18,"OSW","Russian Federation","Europe",36
+"KKB",12,12,"KKB","United States","North America",24
+"DLC",4055,5057,"DLC","China","Asia",9112
+"MAN",25846,29087,"MAN","United Kingdom","Europe",54933
+"LOK",34,69,"LOK","Kenya","Africa",103
+"HRK",375,364,"HRK","Ukraine","Europe",739
+"PIS",145,120,"PIS","France","Europe",265
+"PNR",559,389,"PNR","Congo","Africa",948
+"AGU",1728,1683,"AGU","Mexico","North America",3411
+"DLG",160,157,"DLG","United States","North America",317
+"JAI",703,656,"JAI","India","Asia",1359
+"BRW",147,172,"BRW","United States","North America",319
+"YTE",124,125,"YTE","Canada","North America",249
+"TFN",9050,8819,"TFN","Spain","Europe",17869
+"QPP",93,96,"QPP","Germany","Europe",189
+"WGA",538,528,"WGA","Australia","Australasia",1066
+"VRA",2403,2282,"VRA","Cuba","Caribbean",4685
+"LIW",43,44,"LIW","Myanmar","Asia",87
+"XTJ",104,106,"XTJ","Spain","Europe",210
+"BHX",11751,13318,"BHX","United Kingdom","Europe",25069
+"LSI",682,676,"LSI","United Kingdom","Europe",1358
+"BEG",6165,6170,"BEG","Serbia","Europe",12335
+"PDM",8,8,"PDM","Panama","Central America",16
+"GUM",2113,2408,"GUM","United States","North America",4521
+"YZF",1592,1122,"YZF","Canada","North America",2714
+"CLJ",869,873,"CLJ","Romania","Europe",1742
+"KSE",17,15,"KSE","Uganda","Africa",32
+"IAM",64,63,"IAM","Algeria","Africa",127
+"GOI",1260,1224,"GOI","India","Asia",2484
+"BKG",54,55,"BKG","United States","North America",109
+"CLQ",156,159,"CLQ","Mexico","North America",315
+"AIT",195,188,"AIT","Cook Islands","Australasia",383
+"NVT",1181,1200,"NVT","Brazil","South America",2381
+"BJB",35,36,"BJB","Iran","Middle East",71
+"TSA",1012,1117,"TSA","Taiwan","Asia",2129
+"CRM",14,14,"CRM","Philippines","Asia",28
+"SFN",176,58,"SFN","Argentina","South America",234
+"DLU",218,249,"DLU","China","Asia",467
+"ULO",32,14,"ULO","Mongolia","Asia",46
+"LRD",1121,787,"LRD","United States","North America",1908
+"SSA",5398,4431,"SSA","Brazil","South America",9829
+"MVP",8,23,"MVP","Colombia","South America",31
+"TBH",6,6,"TBH","Philippines","Asia",12
+"KRT",2009,2017,"KRT","Sudan","Africa",4026
+"LXA",541,543,"LXA","China","Asia",1084
+"PKE",136,125,"PKE","Australia","Australasia",261
+"DTM",1440,1262,"DTM","Germany","Europe",2702
+"YSJ",481,492,"YSJ","Canada","North America",973
+"KVD",336,332,"KVD","Azerbaijan","Asia",668
+"BTK",128,112,"BTK","Russian Federation","Asia",240
+"CGB",1833,1888,"CGB","Brazil","South America",3721
+"KGT",41,23,"KGT","China","Asia",64
+"YSB",801,858,"YSB","Canada","North America",1659
+"NCL",5954,5884,"NCL","United Kingdom","Europe",11838
+"ZYR",1048,1097,"ZYR","Belgium","Europe",2145
+"CFE",479,452,"CFE","France","Europe",931
+"SBP",813,739,"SBP","United States","North America",1552
+"MRU",4608,4566,"MRU","Mauritius","Africa",9174
+"BHB",96,72,"BHB","United States","North America",168
+"FDF",1421,1596,"FDF","Martinique","Caribbean",3017
+"NKG",5551,5100,"NKG","China","Asia",10651
+"HVN",73,234,"HVN","United States","North America",307
+"AFZ",29,40,"AFZ","Iran","Middle East",69
+"GND",384,358,"GND","Grenada and South Grenadines","Caribbean",742
+"ZTI",40,40,"ZTI","China","Asia",80
+"ALG",7270,7422,"ALG","Algeria","Africa",14692
+"NNB",18,0,"NNB","Solomon Islands","Australasia",18
+"YSG",49,49,"YSG","Canada","North America",98
+"XHV",97,98,"XHV","Romania","Europe",195
+"INH",40,39,"INH","Mozambique","Africa",79
+"PQS",131,0,"PQS","United States","North America",131
+"BGF",117,143,"BGF","Central African Republic","Africa",260
+"GLK",7,12,"GLK","Somalia","Africa",19
+"HKG",32138,31082,"HKG","Hong Kong","Asia",63220
+"PEM",729,630,"PEM","Peru","South America",1359
+"TVY",117,5,"TVY","Myanmar","Asia",122
+"NTY",41,31,"NTY","South Africa","Africa",72
+"SDL",1832,1983,"SDL","Sweden","Europe",3815
+"NER",110,112,"NER","Russian Federation","Asia",222
+"ZOF",11,11,"ZOF","Canada","North America",22
+"KRF",101,40,"KRF","Sweden","Europe",141
+"YYU",86,83,"YYU","Canada","North America",169
+"BET",292,1450,"BET","United States","North America",1742
+"DEN",92416,106824,"DEN","United States","North America",199240
+"ODY",19,20,"ODY","Laos","Asia",39
+"BUF",7700,10107,"BUF","United States","North America",17807
+"DGA",408,338,"DGA","Belize","Central America",746
+"ZDY",5,5,"ZDY","United Arab Emirates","Middle East",10
+"MII",45,103,"MII","Brazil","South America",148
+"ZAT",77,18,"ZAT","China","Asia",95
+"YEV",95,117,"YEV","Canada","North America",212
+"PKZ",93,104,"PKZ","Laos","Asia",197
+"CBG",50,45,"CBG","United Kingdom","Europe",95
+"XRE",8589,5404,"XRE","United Kingdom","Europe",13993
+"IKA",4283,4229,"IKA","Iran","Middle East",8512
+"PUS",2995,2624,"PUS","South Korea","Asia",5619
+"CLM",18,18,"CLM","United States","North America",36
+"HTS",550,347,"HTS","United States","North America",897
+"YNZ",469,224,"YNZ","China","Asia",693
+"SOC",205,208,"SOC","Indonesia","Asia",413
+"PZI",66,57,"PZI","China","Asia",123
+"IKT",1142,1113,"IKT","Russian Federation","Asia",2255
+"REC",3547,3198,"REC","Brazil","South America",6745
+"MRS",9999,9735,"MRS","France","Europe",19734
+"VIT",1,2,"VIT","Spain","Europe",3
+"GYN",2247,2132,"GYN","Brazil","South America",4379
+"YZP",38,35,"YZP","Canada","North America",73
+"MNT",12,0,"MNT","United States","North America",12
+"PEE",494,475,"PEE","Russian Federation","Europe",969
+"BNC",27,27,"BNC","Democratic Republic of the Congo","Africa",54
+"STN",14849,24924,"STN","United Kingdom","Europe",39773
+"NUP",137,5,"NUP","United States","North America",142
+"ZRH",39348,39418,"ZRH","Switzerland","Europe",78766
+"RAE",145,157,"RAE","Saudi Arabia","Middle East",302
+"ZSJ",164,138,"ZSJ","Canada","North America",302
+"YVP",347,277,"YVP","Canada","North America",624
+"CLV",87,82,"CLV","Brazil","South America",169
+"ABQ",3699,7097,"ABQ","United States","North America",10796
+"HTY",1278,1285,"HTY","Turkey","Europe",2563
+"JOE",376,379,"JOE","Finland","Europe",755
+"PNA",631,626,"PNA","Spain","Europe",1257
+"GLA",12247,11848,"GLA","United Kingdom","Europe",24095
+"BLQ",7025,7636,"BLQ","Italy","Europe",14661
+"SLX",41,36,"SLX","Turks and Caicos Islands","Caribbean",77
+"VDC",277,193,"VDC","Brazil","South America",470
+"INC",1449,1694,"INC","China","Asia",3143
+"BHV",64,50,"BHV","Pakistan","Asia",114
+"DBV",2439,2537,"DBV","Croatia","Europe",4976
+"BHM",4891,5640,"BHM","United States","North America",10531
+"TII",20,20,"TII","Afghanistan","Asia",40
+"ROV",1061,1022,"ROV","Russian Federation","Europe",2083
+"MQF",41,42,"MQF","Russian Federation","Europe",83
+"IVL",250,258,"IVL","Finland","Europe",508
+"UDI",1001,930,"UDI","Brazil","South America",1931
+"FRA",71874,74084,"FRA","Germany","Europe",145958
+"SEA",75596,68264,"SEA","United States","North America",143860
+"VNO",4388,3841,"VNO","Lithuania","Europe",8229
+"DAV",236,223,"DAV","Panama","Central America",459
+"SDU",7951,8153,"SDU","Brazil","South America",16104
+"RJK",159,155,"RJK","Croatia","Europe",314
+"OUZ",37,15,"OUZ","Mauritania","Africa",52
+"PIT",24245,18390,"PIT","United States","North America",42635
+"YWL",242,155,"YWL","Canada","North America",397
+"IFN",945,940,"IFN","Iran","Middle East",1885
+"CER",3,3,"CER","France","Europe",6
+"CJJ",530,536,"CJJ","South Korea","Asia",1066
+"WMO",100,0,"WMO","United States","North America",100
+"HKB",24,36,"HKB","United States","North America",60
+"KLR",1297,1363,"KLR","Sweden","Europe",2660
+"RBV",31,25,"RBV","Solomon Islands","Australasia",56
+"HNS",240,237,"HNS","United States","North America",477
+"NJC",316,363,"NJC","Russian Federation","Asia",679
+"BAY",23,23,"BAY","Romania","Europe",46
+"UII",24,8,"UII","Honduras","Central America",32
+"LSW",21,20,"LSW","Indonesia","Asia",41
+"ZFQ",112,109,"ZFQ","France","Europe",221
+"ONG",55,6,"ONG","Australia","Australasia",61
+"ATL",118897,225117,"ATL","United States","North America",344014
+"YBB",57,57,"YBB","Canada","North America",114
+"KAJ",236,244,"KAJ","Finland","Europe",480
+"AGR",30,30,"AGR","India","Asia",60
+"ZYK",112,112,"ZYK","China","Asia",224
+"VHV",13,13,"VHV","Russian Federation","Asia",26
+"WIC",107,103,"WIC","United Kingdom","Europe",210
+"YZT",93,79,"YZT","Canada","North America",172
+"ZUI",32,32,"ZUI","China","Asia",64
+"WRG",110,0,"WRG","United States","North America",110
+"GDT",166,195,"GDT","Turks and Caicos Islands","Caribbean",361
+"SRP",112,107,"SRP","Norway","Europe",219
+"GAU",463,433,"GAU","India","Asia",896
+"FKL",67,73,"FKL","United States","North America",140
+"YHZ",7672,8060,"YHZ","Canada","North America",15732
+"KMS",106,101,"KMS","Ghana","Africa",207
+"TYR",803,629,"TYR","United States","North America",1432
+"APF",48,48,"APF","United States","North America",96
+"CGN",13147,12444,"CGN","Germany","Europe",25591
+"BIR",80,84,"BIR","Nepal","Asia",164
+"CZX",627,696,"CZX","China","Asia",1323
+"YKA",482,507,"YKA","Canada","North America",989
+"EVV",1582,1324,"EVV","United States","North America",2906
+"NRT",12488,11807,"NRT","Japan","Asia",24295
+"UPG",1613,951,"UPG","Indonesia","Asia",2564
+"KDW",1,1,"KDW","Sri Lanka","Asia",2
+"CTC",110,35,"CTC","Argentina","South America",145
+"RIS",16,14,"RIS","Japan","Asia",30
+"ORD",217217,157011,"ORD","United States","North America",374228
+"HEL",21709,21679,"HEL","Finland","Europe",43388
+"SLZ",854,968,"SLZ","Brazil","South America",1822
+"OVB",2653,2581,"OVB","Russian Federation","Asia",5234
+"XUZ",612,327,"XUZ","China","Asia",939
+"JIC",24,24,"JIC","China","Asia",48
+"OGZ",60,58,"OGZ","Russian Federation","Europe",118
+"MRV",818,844,"MRV","Russian Federation","Europe",1662
+"BEY",6290,6426,"BEY","Lebanon","Middle East",12716
+"YBX",88,88,"YBX","Canada","North America",176
+"SKX",27,25,"SKX","Russian Federation","Europe",52
+"YPL",28,33,"YPL","Canada","North America",61
+"STL",31698,16637,"STL","United States","North America",48335
+"IGR",1716,992,"IGR","Argentina","South America",2708
+"YKL",106,133,"YKL","Canada","North America",239
+"OST",321,317,"OST","Belgium","Europe",638
+"YRA",24,24,"YRA","Canada","North America",48
+"CSK",7,7,"CSK","Senegal","Africa",14
+"XNN",1017,868,"XNN","China","Asia",1885
+"DVO",752,789,"DVO","Philippines","Asia",1541
+"MGH",102,118,"MGH","South Africa","Africa",220
+"YQB",3629,3860,"YQB","Canada","North America",7489
+"SAW",32639,32357,"SAW","Turkey","Europe",64996
+"JED",29824,27795,"JED","Saudi Arabia","Middle East",57619
+"XPG",1007,1056,"XPG","France","Europe",2063
+"TLK",46,47,"TLK","Russian Federation","Asia",93
+"AOU",2,1,"AOU","Laos","Asia",3
+"CGK",8889,9127,"CGK","Indonesia","Asia",18016
+"WXN",212,142,"WXN","China","Asia",354
+"DIB",18,43,"DIB","India","Asia",61
+"TJL",109,81,"TJL","Brazil","South America",190
+"KNO",1205,1217,"KNO","Indonesia","Asia",2422
+"AJI",110,110,"AJI","Turkey","Europe",220
+"DNR",161,132,"DNR","France","Europe",293
+"BDQ",116,183,"BDQ","India","Asia",299
+"ROC",8704,6530,"ROC","United States","North America",15234
+"ZGS",37,20,"ZGS","Canada","North America",57
+"HMV",7,126,"HMV","Sweden","Europe",133
+"PEC",51,18,"PEC","United States","North America",69
+"DXB",29479,29465,"DXB","United Arab Emirates","Middle East",58944
+"TMF",16,5,"TMF","Maldives","Asia",21
+"YAX",44,42,"YAX","Canada","North America",86
+"MSY",23433,18585,"MSY","United States","North America",42018
+"DEL",10300,10117,"DEL","India","Asia",20417
+"CUU",1791,1796,"CUU","Mexico","North America",3587
+"DDV",2,2,"DDV","China","Asia",4
+"EEK",14,64,"EEK","United States","North America",78
+"HAD",601,714,"HAD","Sweden","Europe",1315
+"DLI",320,307,"DLI","Vietnam","Asia",627
+"OSI",87,61,"OSI","Croatia","Europe",148
+"GSE",509,336,"GSE","Sweden","Europe",845
+"YVO",271,125,"YVO","Canada","North America",396
+"PZO",144,132,"PZO","Venezuela","South America",276
+"YIE",40,27,"YIE","China","Asia",67
+"BJW",27,27,"BJW","Indonesia","Asia",54
+"ERI",922,708,"ERI","United States","North America",1630
+"SPN",419,429,"SPN","United States","North America",848
+"LGG",385,375,"LGG","Belgium","Europe",760
+"MCW",102,104,"MCW","United States","North America",206
+"BIM",65,161,"BIM","Bahamas","Caribbean",226
+"MWA",148,153,"MWA","United States","North America",301
+"GLF",91,101,"GLF","Costa Rica","Central America",192
+"MZA",3,3,"MZA","Peru","South America",6
+"EDA",19,30,"EDA","United States","North America",49
+"MHK",222,244,"MHK","United States","North America",466
+"CUR",1623,1628,"CUR","Curacao","Caribbean",3251
+"MRE",92,107,"MRE","Kenya","Africa",199
+"HVR",29,29,"HVR","United States","North America",58
+"QQU",599,632,"QQU","United Kingdom","Europe",1231
+"YWK",221,417,"YWK","Canada","North America",638
+"JNN",85,133,"JNN","Greenland","North America",218
+"MTT",869,742,"MTT","Mexico","North America",1611
+"HMB",278,275,"HMB","Egypt","Africa",553
+"HND",22768,22848,"HND","Japan","Asia",45616
+"BWN",1141,1079,"BWN","Brunei Darussalam","Asia",2220
+"GEV",90,105,"GEV","Sweden","Europe",195
+"YFB",419,609,"YFB","Canada","North America",1028
+"SPS",281,161,"SPS","United States","North America",442
+"DUJ",22,67,"DUJ","United States","North America",89
+"LHW",1912,2238,"LHW","China","Asia",4150
+"PKR",105,105,"PKR","Nepal","Asia",210
+"ATQ",368,473,"ATQ","India","Asia",841
+"ISG",673,648,"ISG","Japan","Asia",1321
+"GNA",3,3,"GNA","Belarus","Europe",6
+"LPK",45,44,"LPK","Russian Federation","Europe",89
+"HCJ",16,0,"HCJ","China","Asia",16
+"LSP",65,65,"LSP","Venezuela","South America",130
+"RGN",2046,2008,"RGN","Myanmar","Asia",4054
+"SGN",11536,11204,"SGN","Vietnam","Asia",22740
+"YKU",10,32,"YKU","Canada","North America",42
+"LUN",1766,1954,"LUN","Zambia","Africa",3720
+"BID",25,26,"BID","United States","North America",51
+"SJC",17013,11632,"SJC","United States","North America",28645
+"TUO",282,310,"TUO","New Zealand","Australasia",592
+"MBJ",4196,4110,"MBJ","Jamaica","Caribbean",8306
+"PLM",607,563,"PLM","Indonesia","Asia",1170
+"RAO",998,945,"RAO","Brazil","South America",1943
+"MLM",881,922,"MLM","Mexico","North America",1803
+"SFT",1406,1367,"SFT","Sweden","Europe",2773
+"XMS",7,7,"XMS","Ecuador","South America",14
+"RKD",89,87,"RKD","United States","North America",176
+"REP",1839,1820,"REP","Cambodia","Asia",3659
+"SUB",2426,2388,"SUB","Indonesia","Asia",4814
+"CUN",20738,22317,"CUN","Mexico","North America",43055
+"XWC",506,521,"XWC","Austria","Europe",1027
+"BLJ",163,166,"BLJ","Algeria","Africa",329
+"TUG",50,49,"TUG","Philippines","Asia",99
+"VAO",85,71,"VAO","Solomon Islands","Australasia",156
+"CCK",22,23,"CCK","Cocos (Keeling) Islands","Australasia",45
+"MEX",61601,68200,"MEX","Mexico","North America",129801
+"YPH",123,123,"YPH","Canada","North America",246
+"AMR",2,2,"AMR","Spain","Europe",4
+"SCN",799,518,"SCN","Germany","Europe",1317
+"BVI",1,1,"BVI","Australia","Australasia",2
+"ILU",16,21,"ILU","Kenya","Africa",37
+"ZIH",1785,1619,"ZIH","Mexico","North America",3404
+"MRY",969,1339,"MRY","United States","North America",2308
+"BZZ",27,26,"BZZ","United Kingdom","Europe",53
+"NTB",64,26,"NTB","Norway","Europe",90
+"XCR",91,72,"XCR","France","Europe",163
+"NIB",14,0,"NIB","United States","North America",14
+"RYK",93,48,"RYK","Pakistan","Asia",141
+"PQM",51,40,"PQM","Mexico","North America",91
+"CMH",12405,17731,"CMH","United States","North America",30136
+"BSH",11,0,"BSH","United Kingdom","Europe",11
+"SAT",18958,13355,"SAT","United States","North America",32313
+"RNN",366,352,"RNN","Denmark","Europe",718
+"PXM",274,238,"PXM","Mexico","North America",512
+"RBR",237,214,"RBR","Brazil","South America",451
+"TLC",1033,1096,"TLC","Mexico","North America",2129
+"TMT",28,14,"TMT","Brazil","South America",42
+"INN",1907,1900,"INN","Austria","Europe",3807
+"MTY",15808,15304,"MTY","Mexico","North America",31112
+"TIJ",5680,5000,"TIJ","Mexico","North America",10680
+"WLK",98,0,"WLK","United States","North America",98
+"ZIG",29,22,"ZIG","Senegal","Africa",51
+"PDS",87,87,"PDS","Mexico","North America",174
+"BHD",3371,3390,"BHD","United Kingdom","Europe",6761
+"SJO",7296,6452,"SJO","Costa Rica","Central America",13748
+"TRC",1131,787,"TRC","Mexico","North America",1918
+"IZO",242,241,"IZO","Japan","Asia",483
+"GNB",534,471,"GNB","France","Europe",1005
+"KZS",31,31,"KZS","Greece","Europe",62
+"YTQ",54,62,"YTQ","Canada","North America",116
+"ZVK",42,2,"ZVK","Laos","Asia",44
+"LHR",81886,83340,"LHR","United Kingdom","Europe",165226
+"VER",3303,3033,"VER","Mexico","North America",6336
+"GNS",66,66,"GNS","Indonesia","Asia",132
+"MSP",91254,78328,"MSP","United States","North America",169582
+"WNA",68,0,"WNA","United States","North America",68
+"RJA",119,121,"RJA","India","Asia",240
+"KAB",9,9,"KAB","Zimbabwe","Africa",18
+"MIR",871,945,"MIR","Tunisia","Africa",1816
+"KWL",1984,1973,"KWL","China","Asia",3957
+"NNT",71,70,"NNT","Thailand","Asia",141
+"IXJ",110,157,"IXJ","India","Asia",267
+"KRW",56,54,"KRW","Turkmenistan","Asia",110
+"TBS",1821,1795,"TBS","Georgia","Asia",3616
+"FTU",116,114,"FTU","Madagascar","Africa",230
+"FAE",357,346,"FAE","Denmark","Europe",703
+"EYW",1402,1482,"EYW","United States","North America",2884
+"DIG",148,137,"DIG","China","Asia",285
+"CYX",41,41,"CYX","Russian Federation","Asia",82
+"PNP",241,231,"PNP","Papua New Guinea","Australasia",472
+"QYG",5235,5221,"QYG","Germany","Europe",10456
+"BLI",1026,1258,"BLI","United States","North America",2284
+"BCM",317,319,"BCM","Romania","Europe",636
+"RAS",302,303,"RAS","Iran","Middle East",605
+"LDH",324,302,"LDH","Australia","Australasia",626
+"MSS",48,51,"MSS","United States","North America",99
+"MHH",503,403,"MHH","Bahamas","Caribbean",906
+"SSX",1,2,"SSX","South Africa","Africa",3
+"TUI",80,73,"TUI","Saudi Arabia","Middle East",153
+"GGZ",213,253,"GGZ","Austria","Europe",466
+"MKL",67,36,"MKL","United States","North America",103
+"YBR",50,87,"YBR","Canada","North America",137
+"NUI",34,47,"NUI","United States","North America",81
+"PRG",14772,14590,"PRG","Czech Republic","Europe",29362
+"CXR",1221,1222,"CXR","Vietnam","Asia",2443
+"OHO",7,6,"OHO","Russian Federation","Asia",13
+"SSH",4363,3808,"SSH","Egypt","Africa",8171
+"AAQ",412,390,"AAQ","Russian Federation","Europe",802
+"BJA",278,272,"BJA","Algeria","Africa",550
+"MSQ",3153,3165,"MSQ","Belarus","Europe",6318
+"WAE",117,125,"WAE","Saudi Arabia","Middle East",242
+"TLY",4,4,"TLY","Russian Federation","Asia",8
+"CAG",3478,3299,"CAG","Italy","Europe",6777
+"CDG",50991,52631,"CDG","France","Europe",103622
+"CBQ",105,111,"CBQ","Nigeria","Africa",216
+"LGK",643,618,"LGK","Malaysia","Asia",1261
+"COQ",27,27,"COQ","Mongolia","Asia",54
+"PAP",1201,980,"PAP","Haiti","Caribbean",2181
+"TWF",157,122,"TWF","United States","North America",279
+"FAO",7293,7333,"FAO","Portugal","Europe",14626
+"USH",1554,745,"USH","Argentina","South America",2299
+"SOW",61,20,"SOW","United States","North America",81
+"ESB",10040,10127,"ESB","Turkey","Europe",20167
+"JTY",39,30,"JTY","Greece","Europe",69
+"CFU",2207,2067,"CFU","Greece","Europe",4274
+"EGC",431,335,"EGC","France","Europe",766
+"BRM",86,86,"BRM","Venezuela","South America",172
+"GVA",23770,23912,"GVA","Switzerland","Europe",47682
+"CHQ",1810,1537,"CHQ","Greece","Europe",3347
+"VRB",3,3,"VRB","United States","North America",6
+"COD",88,216,"COD","United States","North America",304
+"SBN",3263,2638,"SBN","United States","North America",5901
+"HAJ",8524,8556,"HAJ","Germany","Europe",17080
+"NYU",107,175,"NYU","Myanmar","Asia",282
+"SEU",16,16,"SEU","Tanzania","Africa",32
+"SUF",2125,1778,"SUF","Italy","Europe",3903
+"CYF",20,100,"CYF","United States","North America",120
+"ASR",2481,2478,"ASR","Turkey","Europe",4959
+"AGT",146,129,"AGT","Paraguay","South America",275
+"PWQ",177,172,"PWQ","Kazakhstan","Asia",349
+"BWK",13,6,"BWK","Croatia","Europe",19
+"HAN",7485,7360,"HAN","Vietnam","Asia",14845
+"KTL",19,19,"KTL","Kenya","Africa",38
+"BFF",53,141,"BFF","United States","North America",194
+"PCI",110,110,"PCI","Spain","Europe",220
+"GGT",263,300,"GGT","Bahamas","Caribbean",563
+"DJG",174,269,"DJG","Algeria","Africa",443
+"CSH",18,18,"CSH","Russian Federation","Europe",36
+"NOV",32,33,"NOV","Angola","Africa",65
+"MAK",7,7,"MAK","South Sudan","Africa",14
+"KHH",2674,3344,"KHH","Taiwan","Asia",6018
+"FIE",70,70,"FIE","United Kingdom","Europe",140
+"GSO",6819,5721,"GSO","United States","North America",12540
+"TYS",8026,5017,"TYS","United States","North America",13043
+"OSL",55034,55678,"OSL","Norway","Europe",110712
+"AKK",2,5,"AKK","United States","North America",7
+"SVL",42,43,"SVL","Finland","Europe",85
+"CDB",89,65,"CDB","United States","North America",154
+"GES",132,132,"GES","Philippines","Asia",264
+"KIV",1732,1718,"KIV","Moldova","Europe",3450
+"BLL",3219,3300,"BLL","Denmark","Europe",6519
+"SMX",336,297,"SMX","United States","North America",633
+"TAY",111,112,"TAY","Estonia","Europe",223
+"LLV",93,83,"LLV","China","Asia",176
+"TRN",5267,4816,"TRN","Italy","Europe",10083
+"DSA",804,886,"DSA","United Kingdom","Europe",1690
+"IBR",80,80,"IBR","Japan","Asia",160
+"OKE",87,86,"OKE","Japan","Asia",173
+"CTS",7984,7631,"CTS","Japan","Asia",15615
+"DYR",45,45,"DYR","Russian Federation","Asia",90
+"GNR",31,34,"GNR","Argentina","South America",65
+"XGR",94,94,"XGR","Canada","North America",188
+"LPA",17733,17148,"LPA","Spain","Europe",34881
+"MNY",4,1,"MNY","Solomon Islands","Australasia",5
+"MGM",1606,620,"MGM","United States","North America",2226
+"VAK",107,0,"VAK","United States","North America",107
+"SIP",1787,1761,"SIP","Ukraine","Europe",3548
+"XTG",16,16,"XTG","Australia","Australasia",32
+"SFG",472,390,"SFG","Guadeloupe","Caribbean",862
+"YPX",137,138,"YPX","Canada","North America",275
+"NGS",1560,1515,"NGS","Japan","Asia",3075
+"SDJ",1575,1667,"SDJ","Japan","Asia",3242
+"YYC",27557,24254,"YYC","Canada","North America",51811
+"ZCL",871,719,"ZCL","Mexico","North America",1590
+"SOJ",176,195,"SOJ","Norway","Europe",371
+"FAV",54,81,"FAV","French Polynesia","Australasia",135
+"ILP",72,73,"ILP","New Caledonia","Australasia",145
+"LIN",11018,10971,"LIN","Italy","Europe",21989
+"GXH",34,34,"GXH","China","Asia",68
+"GUA",2894,2866,"GUA","Guatemala","Central America",5760
+"UKB",470,481,"UKB","Japan","Asia",951
+"EXI",19,19,"EXI","United States","North America",38
+"AGP",16951,16586,"AGP","Spain","Europe",33537
+"CNX",1814,1851,"CNX","Thailand","Asia",3665
+"KMG",8545,9032,"KMG","China","Asia",17577
+"AUX",37,36,"AUX","Brazil","South America",73
+"PLS",2153,1617,"PLS","Turks and Caicos Islands","Caribbean",3770
+"YOP",66,17,"YOP","Canada","North America",83
+"JYV",252,242,"JYV","Finland","Europe",494
+"ISP",837,1366,"ISP","United States","North America",2203
+"EVG",62,112,"EVG","Sweden","Europe",174
+"WLG",11904,11668,"WLG","New Zealand","Australasia",23572
+"BZE",1566,1757,"BZE","Belize","Central America",3323
+"PBD",21,0,"PBD","India","Asia",21
+"VBY",3630,4284,"VBY","Sweden","Europe",7914
+"RMA",609,469,"RMA","Australia","Australasia",1078
+"MWH",12,12,"MWH","United States","North America",24
+"NKC",490,373,"NKC","Mauritania","Africa",863
+"DHI",11,11,"DHI","Nepal","Asia",22
+"NBE",2371,2128,"NBE","Tunisia","Africa",4499
+"OPS",156,152,"OPS","Brazil","South America",308
+"OMA",10094,8249,"OMA","United States","North America",18343
+"TRZ",546,492,"TRZ","India","Asia",1038
+"SVG",10830,10552,"SVG","Norway","Europe",21382
+"KEP",17,25,"KEP","Nepal","Asia",42
+"QGN",196,204,"QGN","Spain","Europe",400
+"SIF",48,48,"SIF","Nepal","Asia",96
+"RUA",32,24,"RUA","Uganda","Africa",56
+"ZLO",757,773,"ZLO","Mexico","North America",1530
+"MAZ",48,51,"MAZ","United States","North America",99
+"OXB",315,284,"OXB","Guinea Bissau","Africa",599
+"MKM",80,65,"MKM","Malaysia","Asia",145
+"TMI",21,20,"TMI","Nepal","Asia",41
+"BOD",7449,7398,"BOD","France","Europe",14847
+"MHG",53,53,"MHG","Germany","Europe",106
+"DJE",2016,2013,"DJE","Tunisia","Africa",4029
+"HYS",161,161,"HYS","United States","North America",322
+"YYE",114,115,"YYE","Canada","North America",229
+"VLV",2,2,"VLV","Venezuela","South America",4
+"TPA",33630,19541,"TPA","United States","North America",53171
+"PAD",629,642,"PAD","Germany","Europe",1271
+"KTW",1549,1407,"KTW","Poland","Europe",2956
+"KVR",13,10,"KVR","Russian Federation","Asia",23
+"ISA",380,416,"ISA","Australia","Australasia",796
+"PIU",2132,2132,"PIU","Peru","South America",4264
+"CDR",28,58,"CDR","United States","North America",86
+"BVB",62,145,"BVB","Brazil","South America",207
+"BIS",1129,2296,"BIS","United States","North America",3425
+"KAZ",8,9,"KAZ","Indonesia","Asia",17
+"DHU",2,2,"DHU","China","Asia",4
+"YBV",24,24,"YBV","Canada","North America",48
+"JER",3148,3097,"JER","United Kingdom","Europe",6245
+"OOK",55,5,"OOK","United States","North America",60
+"PXO",169,151,"PXO","Portugal","Europe",320
+"BKM",5,5,"BKM","Malaysia","Asia",10
+"JHG",704,871,"JHG","China","Asia",1575
+"CTL",42,80,"CTL","Australia","Australasia",122
+"ESM",53,53,"ESM","Ecuador","South America",106
+"KIH",420,431,"KIH","Iran","Middle East",851
+"NUE",5757,5615,"NUE","Germany","Europe",11372
+"GZT",2142,2155,"GZT","Turkey","Europe",4297
+"OMR",63,64,"OMR","Romania","Europe",127
+"FMO",1336,1272,"FMO","Germany","Europe",2608
+"VCV",1,0,"VCV","United States","North America",1
+"LCK",326,322,"LCK","United States","North America",648
+"KRS",2995,2988,"KRS","Norway","Europe",5983
+"FCO",42352,42264,"FCO","Italy","Europe",84616
+"LUC",7,7,"LUC","Fiji","Australasia",14
+"PYC",8,0,"PYC","Panama","Central America",8
+"PLQ",227,228,"PLQ","Lithuania","Europe",455
+"CPT",10235,10178,"CPT","South Africa","Africa",20413
+"GBE",682,650,"GBE","Botswana","Africa",1332
+"RVN",831,800,"RVN","Finland","Europe",1631
+"MUB",174,163,"MUB","Botswana","Africa",337
+"PED",66,69,"PED","Czech Republic","Europe",135
+"KLT",60,60,"KLT","Germany","Europe",120
+"GRQ",143,147,"GRQ","Netherlands","Europe",290
+"RGS",19,26,"RGS","Spain","Europe",45
+"RHO",3678,3202,"RHO","Greece","Europe",6880
+"KWQ",37,30,"KWQ","Germany","Europe",67
+"QUP",24,24,"QUP","Greenland","North America",48
+"SCC",265,96,"SCC","United States","North America",361
+"RIX",11124,10151,"RIX","Latvia","Europe",21275
+"PHF",1429,689,"PHF","United States","North America",2118
+"DOL",111,111,"DOL","France","Europe",222
+"MAA",5058,5052,"MAA","India","Asia",10110
+"SYX",4113,4553,"SYX","China","Asia",8666
+"QLQ",548,550,"QLQ","Spain","Europe",1098
+"ENE",72,76,"ENE","Indonesia","Asia",148
+"MOU",40,40,"MOU","United States","North America",80
+"GOA",2571,2468,"GOA","Italy","Europe",5039
+"VCE",13460,13181,"VCE","Italy","Europe",26641
+"VLS",25,24,"VLS","Vanuatu","Australasia",49
+"TBI",50,24,"TBI","Bahamas","Caribbean",74
+"AOI",803,680,"AOI","Italy","Europe",1483
+"VRN",3357,3273,"VRN","Italy","Europe",6630
+"UET",243,136,"UET","Pakistan","Asia",379
+"REG",409,411,"REG","Italy","Europe",820
+"ZAG",4588,4492,"ZAG","Croatia","Europe",9080
+"SSB",134,135,"SSB","United States","North America",269
+"BXB",8,8,"BXB","Indonesia","Asia",16
+"TIA",2538,2458,"TIA","Albania","Europe",4996
+"MMU",41,41,"MMU","United States","North America",82
+"BPE",78,81,"BPE","China","Asia",159
+"IXU",126,98,"IXU","India","Asia",224
+"WTL",132,0,"WTL","United States","North America",132
+"LAI",75,78,"LAI","France","Europe",153
+"ADH",9,9,"ADH","Russian Federation","Asia",18
+"BQS",203,217,"BQS","Russian Federation","Asia",420
+"AMH",13,32,"AMH","Ethiopia","Africa",45
+"KVX",56,64,"KVX","Russian Federation","Europe",120
+"LIG",447,365,"LIG","France","Europe",812
+"BTT",64,75,"BTT","United States","North America",139
+"BLA",277,269,"BLA","Venezuela","South America",546
+"CXB",84,84,"CXB","Bangladesh","Asia",168
+"JMK",883,852,"JMK","Greece","Europe",1735
+"NPE",1464,1394,"NPE","New Zealand","Australasia",2858
+"EKS",13,13,"EKS","Russian Federation","Asia",26
+"PKC",157,169,"PKC","Russian Federation","Asia",326
+"HVB",354,351,"HVB","Australia","Australasia",705
+"IXA",120,52,"IXA","India","Asia",172
+"PSE",127,123,"PSE","United States","North America",250
+"ELF",18,18,"ELF","Sudan","Africa",36
+"KLU",420,371,"KLU","Austria","Europe",791
+"MQM",423,422,"MQM","Turkey","Europe",845
+"KGS",1894,1586,"KGS","Greece","Europe",3480
+"BRA",105,99,"BRA","Brazil","South America",204
+"GUC",298,272,"GUC","United States","North America",570
+"NEV",197,198,"NEV","Saint Kitts and Nevis","Caribbean",395
+"HIN",94,101,"HIN","South Korea","Asia",195
+"LIS",31408,31283,"LIS","Portugal","Europe",62691
+"KZR",68,68,"KZR","Turkey","Europe",136
+"AMD",981,1140,"AMD","India","Asia",2121
+"DSK",4,4,"DSK","Pakistan","Asia",8
+"IMP",181,144,"IMP","Brazil","South America",325
+"PMO",5502,5168,"PMO","Italy","Europe",10670
+"XQP",170,136,"XQP","Costa Rica","Central America",306
+"ZAD",504,520,"ZAD","Croatia","Europe",1024
+"PUY",391,322,"PUY","Croatia","Europe",713
+"XXZ",181,160,"XXZ","Sweden","Europe",341
+"LFW",557,545,"LFW","Togo","Africa",1102
+"TLS",9173,8899,"TLS","France","Europe",18072
+"RMF",590,521,"RMF","Egypt","Africa",1111
+"TSN",4741,4520,"TSN","China","Asia",9261
+"DIR",123,163,"DIR","Ethiopia","Africa",286
+"KPN",140,20,"KPN","United States","North America",160
+"FAI",1717,2039,"FAI","United States","North America",3756
+"YER",9,15,"YER","Canada","North America",24
+"AGF",92,90,"AGF","France","Europe",182
+"HMA",207,223,"HMA","Russian Federation","Asia",430
+"ALC",13642,12766,"ALC","Spain","Europe",26408
+"TYL",484,459,"TYL","Peru","South America",943
+"LEX",4860,3639,"LEX","United States","North America",8499
+"PYJ",123,119,"PYJ","Russian Federation","Asia",242
+"ARH",322,335,"ARH","Russian Federation","Europe",657
+"KTB",112,114,"KTB","United States","North America",226
+"AKI",22,22,"AKI","United States","North America",44
+"SAL",5327,5379,"SAL","El Salvador","Central America",10706
+"BME",622,625,"BME","Australia","Australasia",1247
+"GYA",17,35,"GYA","Bolivia","South America",52
+"YVB",70,28,"YVB","Canada","North America",98
+"FNL",7,7,"FNL","United States","North America",14
+"IAH",131309,137231,"IAH","United States","North America",268540
+"TTE",103,121,"TTE","Indonesia","Asia",224
+"MVB",36,39,"MVB","Gabon","Africa",75
+"WWT",147,0,"WWT","United States","North America",147
+"GDU",65,65,"GDU","Spain","Europe",130
+"DAX",96,99,"DAX","China","Asia",195
+"BSG",56,56,"BSG","Equatorial Guinea","Africa",112
+"TBT",19,19,"TBT","Brazil","South America",38
+"VUP",417,415,"VUP","Colombia","South America",832
+"NYI",12,12,"NYI","Ghana","Africa",24
+"TUS",7610,5710,"TUS","United States","North America",13320
+"AOK",231,235,"AOK","Greece","Europe",466
+"LIR",2082,1963,"LIR","Costa Rica","Central America",4045
+"LQS",5,43,"LQS","China","Asia",48
+"KHN",2738,2655,"KHN","China","Asia",5393
+"ILY",85,82,"ILY","United Kingdom","Europe",167
+"BCD",425,409,"BCD","Philippines","Asia",834
+"NOB",24,33,"NOB","Costa Rica","Central America",57
+"WUS",201,194,"WUS","China","Asia",395
+"BTU",212,218,"BTU","Malaysia","Asia",430
+"VIJ",160,168,"VIJ","British Virgin Islands","Caribbean",328
+"BRC",2310,1289,"BRC","Argentina","South America",3599
+"LAP",756,699,"LAP","Mexico","North America",1455
+"HBE",2567,2571,"HBE","Egypt","Africa",5138
+"NNM",92,81,"NNM","Russian Federation","Europe",173
+"CEJ",300,294,"CEJ","Spain","Europe",594
+"GJT",1366,1537,"GJT","United States","North America",2903
+"SVX",2619,2472,"SVX","Russian Federation","Asia",5091
+"SYM",135,113,"SYM","China","Asia",248
+"PLU",603,619,"PLU","Brazil","South America",1222
+"NYA",17,17,"NYA","Russian Federation","Asia",34
+"OXQ",1424,1558,"OXQ","United Kingdom","Europe",2982
+"YHD",91,97,"YHD","Canada","North America",188
+"TME",9,5,"TME","Colombia","South America",14
+"DOH",21888,21730,"DOH","Qatar","Middle East",43618
+"CEB",2841,2803,"CEB","Philippines","Asia",5644
+"DPL",81,77,"DPL","Philippines","Asia",158
+"KMJ",1202,1199,"KMJ","Japan","Asia",2401
+"WBQ",14,0,"WBQ","United States","North America",14
+"STG",35,8,"STG","United States","North America",43
+"BYC",42,42,"BYC","Bolivia","South America",84
+"MYU",50,55,"MYU","United States","North America",105
+"BOG",35371,35357,"BOG","Colombia","South America",70728
+"STD",75,76,"STD","Venezuela","South America",151
+"TMU",169,157,"TMU","Costa Rica","Central America",326
+"LGP",174,176,"LGP","Philippines","Asia",350
+"EOH",659,654,"EOH","Colombia","South America",1313
+"THD",152,156,"THD","Vietnam","Asia",308
+"SDA",42,43,"SDA","Germany","Europe",85
+"RXS",56,47,"RXS","Philippines","Asia",103
+"GOV",95,15,"GOV","Australia","Australasia",110
+"DIU",1,0,"DIU","India","Asia",1
+"NTX",9,9,"NTX","Indonesia","Asia",18
+"HIR",635,731,"HIR","Solomon Islands","Australasia",1366
+"BSD",87,105,"BSD","China","Asia",192
+"HOR",417,459,"HOR","Portugal","Europe",876
+"PPS",283,276,"PPS","Philippines","Asia",559
+"TAG",116,116,"TAG","Philippines","Asia",232
+"CLE",13881,21098,"CLE","United States","North America",34979
+"LAU",42,42,"LAU","Kenya","Africa",84
+"TOS",6051,5163,"TOS","Norway","Europe",11214
+"LED",8587,8593,"LED","Russian Federation","Europe",17180
+"LYH",379,158,"LYH","United States","North America",537
+"WIL",430,348,"WIL","Kenya","Africa",778
+"YFH",48,48,"YFH","Canada","North America",96
+"SPP",10,10,"SPP","Angola","Africa",20
+"SGD",166,167,"SGD","Denmark","Europe",333
+"ZAH",353,340,"ZAH","Iran","Middle East",693
+"YSK",36,45,"YSK","Canada","North America",81
+"SEB",4,4,"SEB","Libya","Africa",8
+"URT",262,252,"URT","Thailand","Asia",514
+"SUN",484,453,"SUN","United States","North America",937
+"FYU",134,70,"FYU","United States","North America",204
+"HHQ",13,14,"HHQ","Thailand","Asia",27
+"TOL",582,389,"TOL","United States","North America",971
+"RHD",56,30,"RHD","Argentina","South America",86
+"SDY",68,68,"SDY","United States","North America",136
+"SJI",8,8,"SJI","Philippines","Asia",16
+"CSG",548,211,"CSG","United States","North America",759
+"BVC",452,458,"BVC","Cape Verde","Africa",910
+"PLJ",261,356,"PLJ","Belize","Central America",617
+"PIN",51,49,"PIN","Brazil","South America",100
+"XWS",2915,2964,"XWS","United Kingdom","Europe",5879
+"BSB",10961,11677,"BSB","Brazil","South America",22638
+"PJM",155,156,"PJM","Costa Rica","Central America",311
+"ANU",1137,1349,"ANU","Antigua and Barbuda","Caribbean",2486
+"SFO",106258,71662,"SFO","United States","North America",177920
+"CCS",2802,2731,"CCS","Venezuela","South America",5533
+"RLK",88,95,"RLK","China","Asia",183
+"ZTA",36,0,"ZTA","French Polynesia","Australasia",36
+"YQQ",590,819,"YQQ","Canada","North America",1409
+"BHO",263,266,"BHO","India","Asia",529
+"TAO",5128,3955,"TAO","China","Asia",9083
+"KKH",90,95,"KKH","United States","North America",185
+"ENY",46,58,"ENY","China","Asia",104
+"ACA",2316,2215,"ACA","Mexico","North America",4531
+"YIK",82,82,"YIK","Canada","North America",164
+"WBM",13,13,"WBM","Papua New Guinea","Australasia",26
+"VTZ",348,221,"VTZ","India","Asia",569
+"GOT",12055,11936,"GOT","Sweden","Europe",23991
+"PMV",382,386,"PMV","Venezuela","South America",768
+"SAP",1591,1245,"SAP","Honduras","Central America",2836
+"MAM",289,287,"MAM","Mexico","North America",576
+"NOU",610,592,"NOU","New Caledonia","Australasia",1202
+"RIH",7,6,"RIH","Panama","Central America",13
+"BGO",13039,13105,"BGO","Norway","Europe",26144
+"NAY",1274,1289,"NAY","China","Asia",2563
+"LWB",50,5,"LWB","United States","North America",55
+"FRS",70,71,"FRS","Guatemala","Central America",141
+"AUR",57,57,"AUR","France","Europe",114
+"IWK",153,164,"IWK","Japan","Asia",317
+"DDU",20,11,"DDU","Pakistan","Asia",31
+"BFN",514,522,"BFN","South Africa","Africa",1036
+"YJW",60,29,"YJW","Spain","Europe",89
+"DUB",17275,27149,"DUB","Ireland","Europe",44424
+"HHH",322,83,"HHH","United States","North America",405
+"XLQ",18,18,"XLQ","Canada","North America",36
+"TLV",19110,19335,"TLV","Israel","Middle East",38445
+"TFS",11346,9534,"TFS","Spain","Europe",20880
+"IXC",729,761,"IXC","India","Asia",1490
+"KTS",38,38,"KTS","United States","North America",76
+"XAP",272,229,"XAP","Brazil","South America",501
+"RNP",10,0,"RNP","Marshall Islands","Australasia",10
+"AJA",2018,1979,"AJA","France","Europe",3997
+"BBI",162,191,"BBI","India","Asia",353
+"TGX",4,4,"TGX","China","Asia",8
+"HYD",2620,2671,"HYD","India","Asia",5291
+"KCT",27,7,"KCT","Sri Lanka","Asia",34
+"SXR",414,285,"SXR","India","Asia",699
+"KNQ",27,27,"KNQ","New Caledonia","Australasia",54
+"KUT",218,219,"KUT","Georgia","Asia",437
+"YOL",32,29,"YOL","Nigeria","Africa",61
+"KMI",1425,1383,"KMI","Japan","Asia",2808
+"TRV",937,907,"TRV","India","Asia",1844
+"ITB",13,23,"ITB","Brazil","South America",36
+"CPO",1097,1066,"CPO","Chile","South America",2163
+"HUV",333,333,"HUV","Sweden","Europe",666
+"MYA",60,65,"MYA","Australia","Australasia",125
+"TAH",206,211,"TAH","Vanuatu","Australasia",417
+"DMU",25,9,"DMU","India","Asia",34
+"IKO",12,0,"IKO","United States","North America",12
+"EEP",74,74,"EEP","Spain","Europe",148
+"IXR",104,129,"IXR","India","Asia",233
+"KHT",1,1,"KHT","Afghanistan","Asia",2
+"DFW",62212,76973,"DFW","United States","North America",139185
+"IMF",104,101,"IMF","India","Asia",205
+"PAE",1,0,"PAE","United States","North America",1
+"NRK",146,136,"NRK","Sweden","Europe",282
+"UDR",200,181,"UDR","India","Asia",381
+"PBP",5,5,"PBP","Costa Rica","Central America",10
+"LPP",85,65,"LPP","Finland","Europe",150
+"ORB",118,67,"ORB","Sweden","Europe",185
+"IIL",78,70,"IIL","Iran","Middle East",148
+"YHK",121,157,"YHK","Canada","North America",278
+"AES",2573,2687,"AES","Norway","Europe",5260
+"IRA",32,47,"IRA","Solomon Islands","Australasia",79
+"LKB",14,14,"LKB","Fiji","Australasia",28
+"RNJ",42,40,"RNJ","Japan","Asia",82
+"PNQ",1343,929,"PNQ","India","Asia",2272
+"HPN",3348,2580,"HPN","United States","North America",5928
+"YYR",512,345,"YYR","Canada","North America",857
+"NST",114,116,"NST","Thailand","Asia",230
+"VBP",27,15,"VBP","Myanmar","Asia",42
+"TMP",690,646,"TMP","Finland","Europe",1336
+"RRG",338,338,"RRG","Mauritius","Africa",676
+"SHG",98,0,"SHG","United States","North America",98
+"HRB",3318,4191,"HRB","China","Asia",7509
+"MGA",2128,2197,"MGA","Nicaragua","Central America",4325
+"BFD",54,55,"BFD","United States","North America",109
+"YNL",47,49,"YNL","Canada","North America",96
+"KIJ",490,546,"KIJ","Japan","Asia",1036
+"WAW",17452,17461,"WAW","Poland","Europe",34913
+"OLP",133,112,"OLP","Australia","Australasia",245
+"BRN",548,538,"BRN","Switzerland","Europe",1086
+"MMY",347,347,"MMY","Japan","Asia",694
+"AKL",17236,17519,"AKL","New Zealand","Australasia",34755
+"VCS",238,215,"VCS","Vietnam","Asia",453
+"CHX",16,40,"CHX","Panama","Central America",56
+"LUQ",237,55,"LUQ","Argentina","South America",292
+"KSJ",24,24,"KSJ","Greece","Europe",48
+"DBA",17,10,"DBA","Pakistan","Asia",27
+"SDV",1359,1210,"SDV","Israel","Middle East",2569
+"RUH",20461,20206,"RUH","Saudi Arabia","Middle East",40667
+"KUF",1051,1066,"KUF","Russian Federation","Europe",2117
+"JNB",29566,30148,"JNB","South Africa","Africa",59714
+"DAM",178,171,"DAM","Syria","Middle East",349
+"YSY",24,0,"YSY","Canada","North America",24
+"SRK",49,49,"SRK","Greenland","North America",98
+"VAR",1214,1097,"VAR","Bulgaria","Europe",2311
+"FUO",78,88,"FUO","China","Asia",166
+"NGB",2607,2514,"NGB","China","Asia",5121
+"ZND",26,1,"ZND","Niger","Africa",27
+"JJU",537,597,"JJU","Greenland","North America",1134
+"KHZ",6,6,"KHZ","French Polynesia","Australasia",12
+"JQE",8,8,"JQE","Panama","Central America",16
+"MDL",681,742,"MDL","Myanmar","Asia",1423
+"RTW",274,293,"RTW","Russian Federation","Europe",567
+"MHQ",288,286,"MHQ","Finland","Europe",574
+"KGF",181,173,"KGF","Kazakhstan","Asia",354
+"UTH",301,294,"UTH","Thailand","Asia",595
+"TLQ",2,2,"TLQ","China","Asia",4
+"BOY",12,18,"BOY","Burkina Faso","Africa",30
+"FSZ",355,270,"FSZ","Japan","Asia",625
+"NBO",4653,4376,"NBO","Kenya","Africa",9029
+"WEH",613,442,"WEH","China","Asia",1055
+"GMP",3950,3923,"GMP","South Korea","Asia",7873
+"FNC",4248,4066,"FNC","Portugal","Europe",8314
+"DIQ",27,26,"DIQ","Brazil","South America",53
+"UVE",76,80,"UVE","New Caledonia","Australasia",156
+"GYG",35,35,"GYG","Russian Federation","Asia",70
+"HET",2014,2289,"HET","China","Asia",4303
+"MGZ",43,76,"MGZ","Myanmar","Asia",119
+"SPC",3157,3134,"SPC","Spain","Europe",6291
+"IXD",18,18,"IXD","India","Asia",36
+"AAR",1074,1020,"AAR","Denmark","Europe",2094
+"KKJ",440,496,"KKJ","Japan","Asia",936
+"HHN",2031,2176,"HHN","Germany","Europe",4207
+"UST",78,77,"UST","United States","North America",155
+"LWK",140,140,"LWK","United Kingdom","Europe",280
+"KSM",41,107,"KSM","United States","North America",148
+"XQL",274,274,"XQL","United Kingdom","Europe",548
+"VAA",691,681,"VAA","Finland","Europe",1372
+"MAQ",41,42,"MAQ","Thailand","Asia",83
+"MLI",2496,2758,"MLI","United States","North America",5254
+"NWA",60,32,"NWA","Comoros","Africa",92
+"LYX",17,15,"LYX","United Kingdom","Europe",32
+"FBM",206,241,"FBM","Democratic Republic of the Congo","Africa",447
+"KKI",20,20,"KKI","United States","North America",40
+"IRC",12,0,"IRC","United States","North America",12
+"BFV",26,26,"BFV","Thailand","Asia",52
+"SXP",100,39,"SXP","United States","North America",139
+"PIZ",76,0,"PIZ","United States","North America",76
+"HPB",41,41,"HPB","United States","North America",82
+"HAK",4350,5127,"HAK","China","Asia",9477
+"AET",38,38,"AET","United States","North America",76
+"BOO",4705,5085,"BOO","Norway","Europe",9790
+"TCZ",275,253,"TCZ","China","Asia",528
+"QRO",1144,1100,"QRO","Mexico","North America",2244
+"INA",18,18,"INA","Russian Federation","Europe",36
+"SMI",314,256,"SMI","Greece","Europe",570
+"CPH",40357,40118,"CPH","Denmark","Europe",80475
+"HSL",37,49,"HSL","United States","North America",86
+"YGO",78,74,"YGO","Canada","North America",152
+"IAN",49,49,"IAN","United States","North America",98
+"EUG",1663,2508,"EUG","United States","North America",4171
+"PRC",112,51,"PRC","United States","North America",163
+"FEZ",1299,1134,"FEZ","Morocco","Africa",2433
+"KCK",16,16,"KCK","Russian Federation","Asia",32
+"IOT",17,17,"IOT","Greenland","North America",34
+"TIU",194,221,"TIU","New Zealand","Australasia",415
+"SFD",30,23,"SFD","Venezuela","South America",53
+"QIJ",3,1,"QIJ","Spain","Europe",4
+"BST",17,17,"BST","Afghanistan","Asia",34
+"JZH",247,236,"JZH","China","Asia",483
+"JGA",15,17,"JGA","India","Asia",32
+"VGA",93,82,"VGA","India","Asia",175
+"UNK",135,175,"UNK","United States","North America",310
+"CCN",27,24,"CCN","Afghanistan","Asia",51
+"KDH",118,75,"KDH","Afghanistan","Asia",193
+"XJY",1717,1547,"XJY","France","Europe",3264
+"TBW",25,19,"TBW","Russian Federation","Europe",44
+"XLV",17,16,"XLV","Canada","North America",33
+"JOG",774,764,"JOG","Indonesia","Asia",1538
+"KCH",1006,1026,"KCH","Malaysia","Asia",2032
+"AOR",212,207,"AOR","Malaysia","Asia",419
+"HDY",426,419,"HDY","Thailand","Asia",845
+"JHB",666,648,"JHB","Malaysia","Asia",1314
+"HGE",1,1,"HGE","Venezuela","South America",2
+"PDG",335,270,"PDG","Indonesia","Asia",605
+"PGU",259,239,"PGU","Iran","Middle East",498
+"RTA",14,14,"RTA","Fiji","Australasia",28
+"NKM",214,214,"NKM","Japan","Asia",428
+"LFR",12,10,"LFR","Venezuela","South America",22
+"MYY",969,961,"MYY","Malaysia","Asia",1930
+"OTH",172,197,"OTH","United States","North America",369
+"ZLP",4,4,"ZLP","Switzerland","Europe",8
+"SBW",371,329,"SBW","Malaysia","Asia",700
+"TAM",1835,1660,"TAM","Mexico","North America",3495
+"SRG",535,554,"SRG","Indonesia","Asia",1089
+"DGO",582,574,"DGO","Mexico","North America",1156
+"BFI",98,95,"BFI","United States","North America",193
+"TGG",180,176,"TGG","Malaysia","Asia",356
+"ACE",10172,9275,"ACE","Spain","Europe",19447
+"BJV",3074,2956,"BJV","Turkey","Europe",6030
+"ANI",26,234,"ANI","United States","North America",260
+"TOB",80,68,"TOB","Libya","Africa",148
+"TAP",403,404,"TAP","Mexico","North America",807
+"MDZ",2540,1910,"MDZ","Argentina","South America",4450
+"MDQ",482,206,"MDQ","Argentina","South America",688
+"FTE",1028,613,"FTE","Argentina","South America",1641
+"AYP",383,376,"AYP","Peru","South America",759
+"SKZ",170,72,"SKZ","Pakistan","Asia",242
+"IUI",47,47,"IUI","Greenland","North America",94
+"CPC",188,95,"CPC","Argentina","South America",283
+"GKA",121,121,"GKA","Papua New Guinea","Australasia",242
+"AFA",72,23,"AFA","Argentina","South America",95
+"EQS",135,20,"EQS","Argentina","South America",155
+"PDP",573,316,"PDP","Uruguay","South America",889
+"CRD",1169,557,"CRD","Argentina","South America",1726
+"LKO",609,603,"LKO","India","Asia",1212
+"SRY",189,207,"SRY","Iran","Middle East",396
+"KXU",6,6,"KXU","French Polynesia","Australasia",12
+"IJK",108,107,"IJK","Russian Federation","Europe",215
+"PSS",496,140,"PSS","Argentina","South America",636
+"PRA",176,22,"PRA","Argentina","South America",198
+"RGA",326,75,"RGA","Argentina","South America",401
+"ISN",834,1224,"ISN","United States","North America",2058
+"HYG",24,24,"HYG","United States","North America",48
+"KHS",33,32,"KHS","Oman","Middle East",65
+"SLA",1449,851,"SLA","Argentina","South America",2300
+"KAL",6,43,"KAL","United States","North America",49
+"SDE",228,62,"SDE","Argentina","South America",290
+"SJD",7594,6606,"SJD","Mexico","North America",14200
+"UAQ",523,154,"UAQ","Argentina","South America",677
+"LWS",284,372,"LWS","United States","North America",656
+"JUL",899,1013,"JUL","Peru","South America",1912
+"JHS",346,346,"JHS","Greenland","North America",692
+"KLO",636,659,"KLO","Philippines","Asia",1295
+"MUX",521,408,"MUX","Pakistan","Asia",929
+"JNU",1443,1755,"JNU","United States","North America",3198
+"BZN",1639,2661,"BZN","United States","North America",4300
+"YMK",10,10,"YMK","Russian Federation","Asia",20
+"GTF",971,1365,"GTF","United States","North America",2336
+"MCM",1248,1261,"MCM","Monaco","Europe",2509
+"EAT",118,162,"EAT","United States","North America",280
+"GUW",386,376,"GUW","Kazakhstan","Asia",762
+"VLD",462,165,"VLD","United States","North America",627
+"HLN",402,757,"HLN","United States","North America",1159
+"RHT",27,11,"RHT","China","Asia",38
+"OSR",408,389,"OSR","Czech Republic","Europe",797
+"KVK",23,41,"KVK","Russian Federation","Europe",64
+"PBM",203,232,"PBM","Suriname","South America",435
+"TRF",2521,2343,"TRF","Norway","Europe",4864
+"LNJ",136,119,"LNJ","China","Asia",255
+"YBZ",569,621,"YBZ","Canada","North America",1190
+"SUG",68,67,"SUG","Philippines","Asia",135
+"BSO",25,25,"BSO","Philippines","Asia",50
+"RVK",70,205,"RVK","Norway","Europe",275
+"TPE",19917,29686,"TPE","Taiwan","Asia",49603
+"RZE",1023,645,"RZE","Poland","Europe",1668
+"HYN",241,262,"HYN","China","Asia",503
+"EAS",482,524,"EAS","Spain","Europe",1006
+"EBA",89,90,"EBA","Italy","Europe",179
+"SHW",176,182,"SHW","Saudi Arabia","Middle East",358
+"QBB",16,17,"QBB","Germany","Europe",33
+"BEN",191,171,"BEN","Libya","Africa",362
+"LXS",193,178,"LXS","Greece","Europe",371
+"MSO",1403,1995,"MSO","United States","North America",3398
+"NAO",317,306,"NAO","China","Asia",623
+"ASI",53,53,"ASI","Saint Helena","Africa",106
+"LTO",121,125,"LTO","Mexico","North America",246
+"AHU",57,84,"AHU","Morocco","Africa",141
+"MFR",1188,1643,"MFR","United States","North America",2831
+"QHX",12,79,"QHX","China","Asia",91
+"BJL",481,428,"BJL","Gambia","Africa",909
+"PUW",235,290,"PUW","United States","North America",525
+"TLH",2294,1000,"TLH","United States","North America",3294
+"OTP",10697,10048,"OTP","Romania","Europe",20745
+"YKM",159,184,"YKM","United States","North America",343
+"TTU",71,7,"TTU","Morocco","Africa",78
+"PSC",1446,2029,"PSC","United States","North America",3475
+"LBV",733,542,"LBV","Gabon","Africa",1275
+"IBE",298,289,"IBE","Colombia","South America",587
+"KER",69,69,"KER","Iran","Middle East",138
+"GFF",176,148,"GFF","Australia","Australasia",324
+"MRX",30,36,"MRX","Iran","Middle East",66
+"LST",1024,983,"LST","Australia","Australasia",2007
+"GPS",90,73,"GPS","Ecuador","South America",163
+"FLO",303,80,"FLO","United States","North America",383
+"EJA",196,195,"EJA","Colombia","South America",391
+"CBI",13,13,"CBI","Australia","Australasia",26
+"NVA",353,368,"NVA","Colombia","South America",721
+"YGH",39,39,"YGH","Canada","North America",78
+"RCH",205,205,"RCH","Colombia","South America",410
+"IQT",1969,1905,"IQT","Peru","South America",3874
+"MZL",112,112,"MZL","Colombia","South America",224
+"REU",893,613,"REU","Spain","Europe",1506
+"HON",40,78,"HON","United States","North America",118
+"MTR",825,823,"MTR","Colombia","South America",1648
+"HRO",70,69,"HRO","United States","North America",139
+"TKD",47,45,"TKD","Ghana","Africa",92
+"VXE",520,448,"VXE","Cape Verde","Africa",968
+"SCY",174,174,"SCY","Ecuador","South America",348
+"KLF",5,5,"KLF","Russian Federation","Europe",10
+"AQP",3652,3588,"AQP","Peru","South America",7240
+"PBU",64,62,"PBU","Myanmar","Asia",126
+"DQA",225,281,"DQA","China","Asia",506
+"KHM",31,31,"KHM","Myanmar","Asia",62
+"VEE",84,10,"VEE","United States","North America",94
+"KRR",1717,1687,"KRR","Russian Federation","Europe",3404
+"WUT",4,4,"WUT","China","Asia",8
+"GYD",2703,2636,"GYD","Azerbaijan","Asia",5339
+"HDF",39,39,"HDF","Germany","Europe",78
+"CIY",453,249,"CIY","Italy","Europe",702
+"LSH",121,134,"LSH","Myanmar","Asia",255
+"KSN",95,96,"KSN","Kazakhstan","Asia",191
+"BQT",3,3,"BQT","Belarus","Europe",6
+"TNW",7,7,"TNW","Ecuador","South America",14
+"BQN",268,348,"BQN","United States","North America",616
+"DAR",1855,2024,"DAR","Tanzania","Africa",3879
+"SWQ",21,21,"SWQ","Indonesia","Asia",42
+"SML",48,48,"SML","Bahamas","Caribbean",96
+"YOJ",81,84,"YOJ","Canada","North America",165
+"ICI",14,14,"ICI","Fiji","Australasia",28
+"LGV",32,32,"LGV","Spain","Europe",64
+"ADQ",436,316,"ADQ","United States","North America",752
+"COU",91,255,"COU","United States","North America",346
+"AZD",416,425,"AZD","Iran","Middle East",841
+"WUX",1439,1250,"WUX","China","Asia",2689
+"ABD",411,407,"ABD","Iran","Middle East",818
+"AWZ",1013,1024,"AWZ","Iran","Middle East",2037
+"BJZ",52,42,"BJZ","Spain","Europe",94
+"DEF",119,116,"DEF","Iran","Middle East",235
+"THR",5900,5909,"THR","Iran","Middle East",11809
+"BND",713,682,"BND","Iran","Middle East",1395
+"MHD",2918,2970,"MHD","Iran","Middle East",5888
+"FON",45,55,"FON","Costa Rica","Central America",100
+"LUX",4819,4974,"LUX","Luxembourg","Europe",9793
+"PLZ",2200,2059,"PLZ","South Africa","Africa",4259
+"ZBR",177,184,"ZBR","Iran","Middle East",361
+"RTM",2653,2673,"RTM","Netherlands","Europe",5326
+"IGT",19,18,"IGT","Russian Federation","Europe",37
+"ROK",1081,1018,"ROK","Australia","Australasia",2099
+"DUR",5545,5530,"DUR","South Africa","Africa",11075
+"LBA",3493,3770,"LBA","United Kingdom","Europe",7263
+"KOS",111,124,"KOS","Cambodia","Asia",235
+"PUG",26,26,"PUG","Australia","Australasia",52
+"SYY",480,393,"SYY","United Kingdom","Europe",873
+"TAB",461,412,"TAB","Trinidad and Tobago","Caribbean",873
+"SPB",135,134,"SPB","United States","North America",269
+"PMY",12,14,"PMY","Argentina","South America",26
+"BEB",86,125,"BEB","United Kingdom","Europe",211
+"JNG",158,129,"JNG","China","Asia",287
+"CAL",57,59,"CAL","United Kingdom","Europe",116
+"BRR",504,505,"BRR","United Kingdom","Europe",1009
+"NSI",774,359,"NSI","Cameroon","Africa",1133
+"MLN",627,616,"MLN","Spain","Europe",1243
+"DND",37,38,"DND","United Kingdom","Europe",75
+"CMF",344,319,"CMF","France","Europe",663
+"EUN",149,163,"EUN","Western Sahara","Africa",312
+"EMA",4147,5497,"EMA","United Kingdom","Europe",9644
+"NOC",634,439,"NOC","Ireland","Europe",1073
+"SBG",6,6,"SBG","Indonesia","Asia",12
+"PIO",4,2,"PIO","Peru","South America",6
+"VKO",5366,5474,"VKO","Russian Federation","Europe",10840
+"GER",75,69,"GER","Cuba","Caribbean",144
+"SEN",1050,1067,"SEN","United Kingdom","Europe",2117
+"SLK",66,68,"SLK","United States","North America",134
+"RJH",25,18,"RJH","Bangladesh","Asia",43
+"MVT",16,16,"MVT","French Polynesia","Australasia",32
+"JMU",292,279,"JMU","China","Asia",571
+"WRO",2183,2188,"WRO","Poland","Europe",4371
+"TBJ",27,27,"TBJ","Tunisia","Africa",54
+"VDE",658,657,"VDE","Spain","Europe",1315
+"JUK",33,39,"JUK","Greenland","North America",72
+"LYG",274,287,"LYG","China","Asia",561
+"NTG",254,271,"NTG","China","Asia",525
+"NAS",5029,4506,"NAS","Bahamas","Caribbean",9535
+"KAA",50,35,"KAA","Zambia","Africa",85
+"LTX",19,19,"LTX","Ecuador","South America",38
+"AEB",26,26,"AEB","China","Asia",52
+"LLB",54,40,"LLB","China","Asia",94
+"YNT",1653,949,"YNT","China","Asia",2602
+"TYN",3264,2480,"TYN","China","Asia",5744
+"HZH",48,58,"HZH","China","Asia",106
+"OHE",67,59,"OHE","China","Asia",126
+"JGD",42,39,"JGD","China","Asia",81
+"LGB",1561,2386,"LGB","United States","North America",3947
+"JSY",28,28,"JSY","Greece","Europe",56
+"HUI",509,492,"HUI","Vietnam","Asia",1001
+"UPK",32,31,"UPK","Greenland","North America",63
+"ATT",72,72,"ATT","United States","North America",144
+"UUD",222,157,"UUD","Russian Federation","Asia",379
+"PQC",730,725,"PQC","Vietnam","Asia",1455
+"BUX",10,40,"BUX","Democratic Republic of the Congo","Africa",50
+"DTB",3,3,"DTB","Indonesia","Asia",6
+"PFB",190,163,"PFB","Brazil","South America",353
+"YFA",66,66,"YFA","Canada","North America",132
+"VCL",110,109,"VCL","Vietnam","Asia",219
+"XOP",80,84,"XOP","France","Europe",164
+"AWD",14,29,"AWD","Vanuatu","Australasia",43
+"GSM",143,148,"GSM","Iran","Middle East",291
+"CCV",11,14,"CCV","Vanuatu","Australasia",25
+"UIH",231,225,"UIH","Vietnam","Asia",456
+"MJF",324,378,"MJF","Norway","Europe",702
+"RLG",280,288,"RLG","Germany","Europe",568
+"AZA",2843,2860,"AZA","United States","North America",5703
+"LRH",281,242,"LRH","France","Europe",523
+"GRX",1553,1514,"GRX","Spain","Europe",3067
+"YHH",6,0,"YHH","Canada","North America",6
+"HFE",2085,2307,"HFE","China","Asia",4392
+"VRY",26,26,"VRY","Norway","Europe",52
+"ZAJ",14,14,"ZAJ","Afghanistan","Asia",28
+"PXU",362,354,"PXU","Vietnam","Asia",716
+"HNY",68,66,"HNY","China","Asia",134
+"VDH",101,99,"VDH","Vietnam","Asia",200
+"TJS",10,15,"TJS","Indonesia","Asia",25
+"KDO",22,60,"KDO","Maldives","Asia",82
+"ENF",36,35,"ENF","Finland","Europe",71
+"VGO",1141,1104,"VGO","Spain","Europe",2245
+"KID",174,178,"KID","Sweden","Europe",352
+"DIK",302,575,"DIK","United States","North America",877
+"GWT",283,282,"GWT","Germany","Europe",565
+"BRQ",487,295,"BRQ","Czech Republic","Europe",782
+"ACH",77,74,"ACH","Switzerland","Europe",151
+"CBH",145,134,"CBH","Algeria","Africa",279
+"SLW",430,421,"SLW","Mexico","North America",851
+"JAU",21,21,"JAU","Peru","South America",42
+"UME",3132,3004,"UME","Sweden","Europe",6136
+"YHM",431,451,"YHM","Canada","North America",882
+"BDS",2206,1967,"BDS","Italy","Europe",4173
+"DEB",115,115,"DEB","Hungary","Europe",230
+"MIA",44184,36711,"MIA","United States","North America",80895
+"CYP",16,16,"CYP","Philippines","Asia",32
+"ICT",4499,4469,"ICT","United States","North America",8968
+"CRL",4685,6268,"CRL","Belgium","Europe",10953
+"MST",208,152,"MST","Netherlands","Europe",360
+"NYO",1440,1575,"NYO","Sweden","Europe",3015
+"CIA",3455,4232,"CIA","Italy","Europe",7687
+"LPF",70,48,"LPF","China","Asia",118
+"TSR",700,663,"TSR","Romania","Europe",1363
+"BIN",17,17,"BIN","Afghanistan","Asia",34
+"SZZ",503,368,"SZZ","Poland","Europe",871
+"ZAZ",475,369,"ZAZ","Spain","Europe",844
+"TAT",72,78,"TAT","Slovakia","Europe",150
+"STX",733,506,"STX","United States","North America",1239
+"HAU",1792,1745,"HAU","Norway","Europe",3537
+"TNJ",33,33,"TNJ","Indonesia","Asia",66
+"POX",5,5,"POX","France","Europe",10
+"UND",6,6,"UND","Afghanistan","Asia",12
+"BNN",559,615,"BNN","Norway","Europe",1174
+"ANX",260,344,"ANX","Norway","Europe",604
+"KSU",1525,1601,"KSU","Norway","Europe",3126
+"OKD",129,132,"OKD","Japan","Asia",261
+"HFT",533,561,"HFT","Norway","Europe",1094
+"GAM",62,62,"GAM","United States","North America",124
+"WLS",425,425,"WLS","Wallis and Futuna Islands","Australasia",850
+"LKN",336,435,"LKN","Norway","Europe",771
+"MOL",1654,1577,"MOL","Norway","Europe",3231
+"KKN",642,799,"KKN","Norway","Europe",1441
+"SSJ",300,314,"SSJ","Norway","Europe",614
+"NSK",285,305,"NSK","Russian Federation","Asia",590
+"SVJ",412,245,"SVJ","Norway","Europe",657
+"MQN",358,238,"MQN","Norway","Europe",596
+"SOG",434,38,"SOG","Norway","Europe",472
+"SKE",131,140,"SKE","Norway","Europe",271
+"NDB",100,98,"NDB","Mauritania","Africa",198
+"SKN",297,255,"SKN","Norway","Europe",552
+"CIU",99,234,"CIU","United States","North America",333
+"KYA",1351,1352,"KYA","Turkey","Europe",2703
+"VDS",520,125,"VDS","Norway","Europe",645
+"LXR",919,872,"LXR","Egypt","Africa",1791
+"LPY",103,103,"LPY","France","Europe",206
+"URA",79,78,"URA","Kazakhstan","Asia",157
+"VAN",815,815,"VAN","Turkey","Europe",1630
+"KSY",294,289,"KSY","Turkey","Europe",583
+"XAD",26,20,"XAD","Canada","North America",46
+"TXN",428,260,"TXN","China","Asia",688
+"ELU",44,44,"ELU","Algeria","Africa",88
+"TIF",726,699,"TIF","Saudi Arabia","Middle East",1425
+"QRY",15,1,"QRY","Greenland","North America",16
+"ASW",623,613,"ASW","Egypt","Africa",1236
+"TKQ",23,11,"TKQ","Tanzania","Africa",34
+"RDO",4,4,"RDO","Poland","Europe",8
+"BOJ",1187,1168,"BOJ","Bulgaria","Europe",2355
+"PSO",335,333,"PSO","Colombia","South America",668
+"YAY",125,125,"YAY","Canada","North America",250
+"HRG",4777,4430,"HRG","Egypt","Africa",9207
+"WTB",153,122,"WTB","Australia","Australasia",275
+"RCE",107,97,"RCE","United States","North America",204
+"FMI",15,19,"FMI","Democratic Republic of the Congo","Africa",34
+"BKY",36,42,"BKY","Democratic Republic of the Congo","Africa",78
+"IRP",17,0,"IRP","Democratic Republic of the Congo","Africa",17
+"KOO",14,0,"KOO","Democratic Republic of the Congo","Africa",14
+"KUD",10,10,"KUD","Malaysia","Asia",20
+"KGA",21,8,"KGA","Democratic Republic of the Congo","Africa",29
+"NYK",56,56,"NYK","Kenya","Africa",112
+"BAV",698,794,"BAV","China","Asia",1492
+"KTN",689,705,"KTN","United States","North America",1394
+"BAH",7510,7478,"BAH","Bahrain","Middle East",14988
+"SCU",296,216,"SCU","Cuba","Caribbean",512
+"BMY",15,16,"BMY","New Caledonia","Australasia",31
+"GMA",3,15,"GMA","Democratic Republic of the Congo","Africa",18
+"ADD",3729,4176,"ADD","Ethiopia","Africa",7905
+"DGT",125,126,"DGT","Philippines","Asia",251
+"CIF",301,345,"CIF","China","Asia",646
+"CIH",194,201,"CIH","China","Asia",395
+"PTP",2312,1996,"PTP","Guadeloupe","Caribbean",4308
+"SCZ",16,16,"SCZ","Solomon Islands","Australasia",32
+"FNJ",69,69,"FNJ","North Korea","Asia",138
+"GBB",46,49,"GBB","Azerbaijan","Asia",95
+"CHG",20,21,"CHG","China","Asia",41
+"DDG",89,107,"DDG","China","Asia",196
+"HIJ",1503,1460,"HIJ","Japan","Asia",2963
+"YCU",441,271,"YCU","China","Asia",712
+"GYS",106,103,"GYS","China","Asia",209
+"NRN",1256,1894,"NRN","Germany","Europe",3150
+"PUF",743,736,"PUF","France","Europe",1479
+"RTI",6,6,"RTI","Indonesia","Asia",12
+"YYH",20,158,"YYH","Canada","North America",178
+"HKD",1023,1025,"HKD","Japan","Asia",2048
+"HMI",122,134,"HMI","China","Asia",256
+"ODN",25,25,"ODN","Malaysia","Asia",50
+"HYL",93,94,"HYL","United States","North America",187
+"LAE",305,329,"LAE","Papua New Guinea","Australasia",634
+"KHV",833,791,"KHV","Russian Federation","Asia",1624
+"HLD",405,428,"HLD","China","Asia",833
+"IDA",805,1378,"IDA","United States","North America",2183
+"NNX",5,16,"NNX","Indonesia","Asia",21
+"KOC",24,16,"KOC","New Caledonia","Australasia",40
+"KDZ",27,15,"KDZ","Sri Lanka","Asia",42
+"KHI",4010,4898,"KHI","Pakistan","Asia",8908
+"KRL",450,473,"KRL","China","Asia",923
+"PCL",1009,983,"PCL","Peru","South America",1992
+"SFJ",2098,1022,"SFJ","Greenland","North America",3120
+"NLG",14,15,"NLG","United States","North America",29
+"APN",10,167,"APN","United States","North America",177
+"LZH",324,277,"LZH","China","Asia",601
+"JEA",4,4,"JEA","Spain","Europe",8
+"KUZ",65,59,"KUZ","Greenland","North America",124
+"KRY",80,84,"KRY","China","Asia",164
+"TNK",5,7,"TNK","United States","North America",12
+"BNK",320,324,"BNK","Australia","Australasia",644
+"YAT",26,71,"YAT","Canada","North America",97
+"WUA",96,117,"WUA","China","Asia",213
+"MAF",3529,3070,"MAF","United States","North America",6599
+"XIL",152,146,"XIL","China","Asia",298
+"IBA",42,35,"IBA","Nigeria","Africa",77
+"TGO",203,129,"TGO","China","Asia",332
+"CRK",361,385,"CRK","Philippines","Asia",746
+"JKR",19,20,"JKR","Nepal","Asia",39
+"PVG",24544,23731,"PVG","China","Asia",48275
+"YIW",568,390,"YIW","China","Asia",958
+"PEU",8,8,"PEU","Honduras","Central America",16
+"BUA",34,52,"BUA","Papua New Guinea","Australasia",86
+"LNV",87,107,"LNV","Papua New Guinea","Australasia",194
+"INU",33,35,"INU","Nauru","Australasia",68
+"RAB",307,141,"RAB","Papua New Guinea","Australasia",448
+"FBD",6,6,"FBD","Afghanistan","Asia",12
+"BUL",8,16,"BUL","Papua New Guinea","Australasia",24
+"UNG",118,68,"UNG","Papua New Guinea","Australasia",186
+"KVG",52,95,"KVG","Papua New Guinea","Australasia",147
+"HGU",283,296,"HGU","Papua New Guinea","Australasia",579
+"DAU",68,68,"DAU","Papua New Guinea","Australasia",136
+"IPN",179,160,"IPN","Brazil","South America",339
+"RSA",25,0,"RSA","Argentina","South America",25
+"SZI",8,8,"SZI","Kazakhstan","Asia",16
+"TUC",1390,771,"TUC","Argentina","South America",2161
+"HKN",144,145,"HKN","Papua New Guinea","Australasia",289
+"XYD",119,134,"XYD","France","Europe",253
+"GMB",79,46,"GMB","Ethiopia","Africa",125
+"LSA",17,16,"LSA","Papua New Guinea","Australasia",33
+"MAG",116,105,"MAG","Papua New Guinea","Australasia",221
+"PMR",1381,1379,"PMR","New Zealand","Australasia",2760
+"ZBL",75,72,"ZBL","Australia","Australasia",147
+"MIS",18,18,"MIS","Papua New Guinea","Australasia",36
+"GUR",90,94,"GUR","Papua New Guinea","Australasia",184
+"GRW",53,137,"GRW","Portugal","Europe",190
+"TNN",72,49,"TNN","Taiwan","Asia",121
+"TFI",54,45,"TFI","Papua New Guinea","Australasia",99
+"POM",1270,1387,"POM","Papua New Guinea","Australasia",2657
+"SJY",18,17,"SJY","Finland","Europe",35
+"TBG",40,51,"TBG","Papua New Guinea","Australasia",91
+"NPL",955,993,"NPL","New Zealand","Australasia",1948
+"MDG",307,344,"MDG","China","Asia",651
+"MXH",30,47,"MXH","Papua New Guinea","Australasia",77
+"SIT",381,156,"SIT","United States","North America",537
+"NJF",1458,1282,"NJF","Iraq","Middle East",2740
+"KHQ",51,51,"KHQ","Greenland","North America",102
+"AAN",16,16,"AAN","United Arab Emirates","Middle East",32
+"MLX",701,684,"MLX","Turkey","Europe",1385
+"SYZ",1599,1672,"SYZ","Iran","Middle East",3271
+"BGW",2019,2147,"BGW","Iraq","Middle East",4166
+"MFA",27,24,"MFA","Tanzania","Africa",51
+"ULB",18,16,"ULB","Vanuatu","Australasia",34
+"MDK",25,6,"MDK","Democratic Republic of the Congo","Africa",31
+"MOA",20,20,"MOA","Cuba","Caribbean",40
+"VTU",19,21,"VTU","Cuba","Caribbean",40
+"AAY",7,4,"AAY","Yemen","Middle East",11
+"CMW",217,220,"CMW","Cuba","Caribbean",437
+"RIW",66,54,"RIW","United States","North America",120
+"TGT",21,43,"TGT","Tanzania","Africa",64
+"BCA",21,21,"BCA","Cuba","Caribbean",42
+"PMA",54,71,"PMA","Tanzania","Africa",125
+"THZ",8,0,"THZ","Niger","Africa",8
+"SMK",53,53,"SMK","United States","North America",106
+"CHC",12412,12410,"CHC","New Zealand","Australasia",24822
+"JEJ",5,5,"JEJ","Marshall Islands","Australasia",10
+"PLW",80,133,"PLW","Indonesia","Asia",213
+"WJA",10,0,"WJA","Marshall Islands","Australasia",10
+"ADL",9306,9374,"ADL","Australia","Australasia",18680
+"LLI",67,3,"LLI","Ethiopia","Africa",70
+"AOG",50,66,"AOG","China","Asia",116
+"NCU",163,164,"NCU","Uzbekistan","Asia",327
+"ASB",811,822,"ASB","Turkmenistan","Asia",1633
+"ELV",54,33,"ELV","United States","North America",87
+"SVC",52,46,"SVC","United States","North America",98
+"GHA",97,99,"GHA","Algeria","Africa",196
+"AAT",147,141,"AAT","China","Asia",288
+"HBP",2,2,"HBP","China","Asia",4
+"KJH",10,10,"KJH","China","Asia",20
+"MXZ",182,142,"MXZ","China","Asia",324
+"KGC",132,132,"KGC","Australia","Australasia",264
+"LDS",60,60,"LDS","China","Asia",120
+"HSN",249,242,"HSN","China","Asia",491
+"NGD",25,19,"NGD","British Virgin Islands","Caribbean",44
+"BFJ",234,236,"BFJ","China","Asia",470
+"YBL",251,257,"YBL","Canada","North America",508
+"NHG",2,3,"NHG","China","Asia",5
+"OSS",750,744,"OSS","Kyrgyzstan","Asia",1494
+"AYQ",203,202,"AYQ","Australia","Australasia",405
+"DAT",227,279,"DAT","China","Asia",506
+"NAH",14,14,"NAH","Indonesia","Asia",28
+"GTO",45,69,"GTO","Indonesia","Asia",114
+"XYK",422,82,"XYK","Sweden","Europe",504
+"TOY",520,385,"TOY","Japan","Asia",905
+"PHL",51461,35495,"PHL","United States","North America",86956
+"DNH",100,141,"DNH","China","Asia",241
+"NLA",407,180,"NLA","Zambia","Africa",587
+"YUG",2,2,"YUG","China","Asia",4
+"CEE",277,286,"CEE","Russian Federation","Europe",563
+"TIM",54,52,"TIM","Indonesia","Asia",106
+"MLA",5862,5493,"MLA","Malta","Europe",11355
+"DRS",3159,3217,"DRS","Germany","Europe",6376
+"RYG",1112,1554,"RYG","Norway","Europe",2666
+"LDU",53,53,"LDU","Malaysia","Asia",106
+"KOP",35,35,"KOP","Thailand","Asia",70
+"VXO",828,821,"VXO","Sweden","Europe",1649
+"THN",473,586,"THN","Sweden","Europe",1059
+"URE",64,66,"URE","Estonia","Europe",130
+"ROI",44,44,"ROI","Thailand","Asia",88
+"BKN",10,10,"BKN","Turkmenistan","Asia",20
+"TPQ",149,149,"TPQ","Mexico","North America",298
+"ELQ",1211,1198,"ELQ","Saudi Arabia","Middle East",2409
+"CEI",261,262,"CEI","Thailand","Asia",523
+"KJI",11,11,"KJI","China","Asia",22
+"UBP",151,146,"UBP","Thailand","Asia",297
+"YFT",312,279,"YFT","Macau","Asia",591
+"JKL",72,72,"JKL","Greece","Europe",144
+"ALS",110,162,"ALS","United States","North America",272
+"SNO",45,46,"SNO","Thailand","Asia",91
+"DJB",182,183,"DJB","Indonesia","Asia",365
+"DHN",580,160,"DHN","United States","North America",740
+"KBR",547,505,"KBR","Malaysia","Asia",1052
+"DUM",8,8,"DUM","Indonesia","Asia",16
+"XOC",1155,1180,"XOC","Spain","Europe",2335
+"AQJ",672,645,"AQJ","Jordan","Middle East",1317
+"IAO",30,31,"IAO","Philippines","Asia",61
+"DWC",494,498,"DWC","United Arab Emirates","Middle East",992
+"CGM",15,15,"CGM","Philippines","Asia",30
+"BHS",146,145,"BHS","Australia","Australasia",291
+"HUN",87,85,"HUN","Taiwan","Asia",172
+"JRO",701,697,"JRO","Tanzania","Africa",1398
+"RDM",924,1039,"RDM","United States","North America",1963
+"TKU",761,761,"TKU","Finland","Europe",1522
+"USU",114,114,"USU","Philippines","Asia",228
+"PAG",52,52,"PAG","Philippines","Asia",104
+"MPH",364,360,"MPH","Philippines","Asia",724
+"GAE",18,18,"GAE","Tunisia","Africa",36
+"ASE",1363,2101,"ASE","United States","North America",3464
+"WYS",35,0,"WYS","United States","North America",35
+"ATW",1587,2794,"ATW","United States","North America",4381
+"BQK",488,140,"BQK","United States","North America",628
+"OOM",5,5,"OOM","Australia","Australasia",10
+"FSC",1100,1042,"FSC","France","Europe",2142
+"LNK",1028,1964,"LNK","United States","North America",2992
+"OGX",241,173,"OGX","Algeria","Africa",414
+"JXA",43,66,"JXA","China","Asia",109
+"JAL",36,36,"JAL","Mexico","North America",72
+"MDW",20006,17896,"MDW","United States","North America",37902
+"KWA",50,55,"KWA","Marshall Islands","Australasia",105
+"DAL",11050,12460,"DAL","United States","North America",23510
+"CEZ",36,80,"CEZ","United States","North America",116
+"MBS",1579,1076,"MBS","United States","North America",2655
+"ZGP",62,62,"ZGP","Belgium","Europe",124
+"AXF",38,46,"AXF","China","Asia",84
+"BJI",85,217,"BJI","United States","North America",302
+"GTR",445,97,"GTR","United States","North America",542
+"BXU",174,163,"BXU","Philippines","Asia",337
+"BRD",93,212,"BRD","United States","North America",305
+"ZMB",92,102,"ZMB","Germany","Europe",194
+"EKO",54,167,"EKO","United States","North America",221
+"SPY",16,16,"SPY","Ivory Coast (Cote d'Ivoire)","Africa",32
+"PLN",294,171,"PLN","United States","North America",465
+"BTM",54,139,"BTM","United States","North America",193
+"DPO",149,146,"DPO","Australia","Australasia",295
+"JGS",157,175,"JGS","China","Asia",332
+"CAB",76,76,"CAB","Angola","Africa",152
+"DRO",1462,1335,"DRO","United States","North America",2797
+"ULG",29,30,"ULG","Mongolia","Asia",59
+"KYU",18,24,"KYU","United States","North America",42
+"EGS",336,324,"EGS","Iceland","Europe",660
+"CBT",16,16,"CBT","Angola","Africa",32
+"KNR",3,3,"KNR","Iran","Middle East",6
+"WDH",1339,1258,"WDH","Namibia","Africa",2597
+"SDR",1891,1588,"SDR","Spain","Europe",3479
+"SDD",29,35,"SDD","Angola","Africa",64
+"RYO",25,3,"RYO","Argentina","South America",28
+"UZR",16,14,"UZR","Kazakhstan","Asia",30
+"DZN",36,38,"DZN","Kazakhstan","Asia",74
+"BOH",852,814,"BOH","United Kingdom","Europe",1666
+"OKA",5389,5053,"OKA","Japan","Asia",10442
+"MZT",1581,1565,"MZT","Mexico","North America",3146
+"PER",11843,12643,"PER","Australia","Australasia",24486
+"KRP",217,224,"KRP","Denmark","Europe",441
+"CZH",88,89,"CZH","Belize","Central America",177
+"YKO",17,17,"YKO","Turkey","Europe",34
+"BUZ",237,225,"BUZ","Iran","Middle East",462
+"QOQ",21,18,"QOQ","Greenland","North America",39
+"MPM",965,1077,"MPM","Mozambique","Africa",2042
+"GBT",312,314,"GBT","Iran","Middle East",626
+"EAR",97,54,"EAR","United States","North America",151
+"MWX",83,92,"MWX","South Korea","Asia",175
+"DLZ",6,6,"DLZ","Mongolia","Asia",12
+"KRN",806,915,"KRN","Sweden","Europe",1721
+"VPE",56,27,"VPE","Angola","Africa",83
+"HFA",39,60,"HFA","Israel","Middle East",99
+"RZR",65,56,"RZR","Iran","Middle East",121
+"WWK",109,85,"WWK","Papua New Guinea","Australasia",194
+"JST",128,0,"JST","United States","North America",128
+"HIB",147,228,"HIB","United States","North America",375
+"SGU",214,396,"SGU","United States","North America",610
+"PSU",19,21,"PSU","Indonesia","Asia",40
+"ESC",199,122,"ESC","United States","North America",321
+"CIT",476,494,"CIT","Kazakhstan","Asia",970
+"FAH",11,11,"FAH","Afghanistan","Asia",22
+"TBZ",858,892,"TBZ","Iran","Middle East",1750
+"JFK",83573,84780,"JFK","United States","North America",168353
+"JTR",1418,1364,"JTR","Greece","Europe",2782
+"VHC",22,13,"VHC","Angola","Africa",35
+"MMZ",8,8,"MMZ","Afghanistan","Asia",16
+"HLH",144,152,"HLH","China","Asia",296
+"DMB",93,100,"DMB","Kazakhstan","Asia",193
+"ASF",290,279,"ASF","Russian Federation","Europe",569
+"LUO",10,10,"LUO","Angola","Africa",20
+"KGE",10,18,"KGE","Solomon Islands","Australasia",28
+"COR",2629,1828,"COR","Argentina","South America",4457
+"SCO",754,780,"SCO","Kazakhstan","Asia",1534
+"PPK",32,23,"PPK","Kazakhstan","Asia",55
+"PLX",65,67,"PLX","Kazakhstan","Asia",132
+"KZO",210,210,"KZO","Kazakhstan","Asia",420
+"UKK",399,399,"UKK","Kazakhstan","Asia",798
+"BSC",43,43,"BSC","Colombia","South America",86
+"LQN",2,2,"LQN","Afghanistan","Asia",4
+"ULU",16,8,"ULU","Uganda","Africa",24
+"YXX",670,973,"YXX","Canada","North America",1643
+"BOI",3293,5314,"BOI","United States","North America",8607
+"TMC",67,25,"TMC","Indonesia","Asia",92
+"OAS",8,8,"OAS","Afghanistan","Asia",16
+"PIX",108,145,"PIX","Portugal","Europe",253
+"PEW",703,616,"PEW","Pakistan","Asia",1319
+"SCQ",3248,2665,"SCQ","Spain","Europe",5913
+"YXH",152,131,"YXH","Canada","North America",283
+"LHE",2546,2551,"LHE","Pakistan","Asia",5097
+"PIH",52,221,"PIH","United States","North America",273
+"MSU",59,61,"MSU","Lesotho","Africa",120
+"LYS",11764,11987,"LYS","France","Europe",23751
+"GCH",8,8,"GCH","Iran","Middle East",16
+"OMH",358,353,"OMH","Iran","Middle East",711
+"JIM",63,14,"JIM","Ethiopia","Africa",77
+"SNC",8,8,"SNC","Ecuador","South America",16
+"LOH",32,32,"LOH","Ecuador","South America",64
+"ATZ",87,90,"ATZ","Egypt","Africa",177
+"PDT",93,79,"PDT","United States","North America",172
+"SKT",365,332,"SKT","Pakistan","Asia",697
+"DCN",26,30,"DCN","Australia","Australasia",56
+"CUE",232,235,"CUE","Ecuador","South America",467
+"ASO",29,48,"ASO","Ethiopia","Africa",77
+"KAN",325,294,"KAN","Nigeria","Africa",619
+"PET",65,67,"PET","Brazil","South America",132
+"MQX",162,123,"MQX","Ethiopia","Africa",285
+"KGL",665,430,"KGL","Rwanda","Africa",1095
+"JIJ",67,27,"JIJ","Ethiopia","Africa",94
+"ENU",152,153,"ENU","Nigeria","Africa",305
+"BJR",70,70,"BJR","Ethiopia","Africa",140
+"XOU",231,238,"XOU","Spain","Europe",469
+"ORZ",10,9,"ORZ","Belize","Central America",19
+"APW",638,608,"APW","Western Samoa","Australasia",1246
+"ASV",24,24,"ASV","Kenya","Africa",48
+"GRJ",609,580,"GRJ","South Africa","Africa",1189
+"NRR",50,55,"NRR","United States","North America",105
+"ELS",1492,1484,"ELS","South Africa","Africa",2976
+"TNH",38,40,"TNH","China","Asia",78
+"PEX",9,9,"PEX","Russian Federation","Europe",18
+"DRV",67,63,"DRV","Maldives","Asia",130
+"QYX",569,831,"QYX","Sweden","Europe",1400
+"KXF",11,10,"KXF","Fiji","Australasia",21
+"TVU",214,185,"TVU","Fiji","Australasia",399
+"BQL",1,1,"BQL","Australia","Australasia",2
+"CTA",8389,7981,"CTA","Italy","Europe",16370
+"CXI",95,53,"CXI","Kiribati","Australasia",148
+"VLI",925,925,"VLI","Vanuatu","Australasia",1850
+"SVU",224,174,"SVU","Fiji","Australasia",398
+"USA",269,268,"USA","United States","North America",537
+"IQQ",2962,2973,"IQQ","Chile","South America",5935
+"NNG",2946,2879,"NNG","China","Asia",5825
+"DME",15972,16019,"DME","Russian Federation","Europe",31991
+"NUX",541,541,"NUX","Russian Federation","Asia",1082
+"JNZ",46,46,"JNZ","China","Asia",92
+"VAV",8,8,"VAV","Tonga","Australasia",16
+"LIQ",11,1,"LIQ","Democratic Republic of the Congo","Africa",12
+"TVS",80,89,"TVS","China","Asia",169
+"AEY",663,664,"AEY","Iceland","Europe",1327
+"YSM",87,74,"YSM","Canada","North America",161
+"BTS",1755,1364,"BTS","Slovakia","Europe",3119
+"VPN",18,18,"VPN","Iceland","Europe",36
+"MTJ",1058,1051,"MTJ","United States","North America",2109
+"JJN",888,936,"JJN","China","Asia",1824
+"KHE",63,63,"KHE","Ukraine","Europe",126
+"GRY",29,29,"GRY","Iceland","Europe",58
+"LOO",65,43,"LOO","Algeria","Africa",108
+"BZR",230,184,"BZR","France","Europe",414
+"TCB",139,15,"TCB","Bahamas","Caribbean",154
+"CCF",431,240,"CCF","France","Europe",671
+"BZG",487,245,"BZG","Poland","Europe",732
+"EBU",190,163,"EBU","France","Europe",353
+"DRW",1877,1963,"DRW","Australia","Australasia",3840
+"LPQ",335,308,"LPQ","Laos","Asia",643
+"CRV",247,111,"CRV","Italy","Europe",358
+"ERS",60,69,"ERS","Namibia","Africa",129
+"FNI",141,106,"FNI","France","Europe",247
+"FKQ",31,22,"FKQ","Indonesia","Asia",53
+"KIR",261,176,"KIR","Ireland","Europe",437
+"LCJ",346,226,"LCJ","Poland","Europe",572
+"EWR",96842,104856,"EWR","United States","North America",201698
+"YTM",103,140,"YTM","Canada","North America",243
+"KUN",594,578,"KUN","Lithuania","Europe",1172
+"SZV",176,163,"SZV","China","Asia",339
+"DMD",25,25,"DMD","Australia","Australasia",50
+"KUK",2,6,"KUK","United States","North America",8
+"JUH",81,80,"JUH","China","Asia",161
+"PMF",185,92,"PMF","Italy","Europe",277
+"TUF",195,136,"TUF","France","Europe",331
+"PIK",413,641,"PIK","United Kingdom","Europe",1054
+"JDZ",139,130,"JDZ","China","Asia",269
+"ESU",95,95,"ESU","Morocco","Africa",190
+"TMS",103,96,"TMS","Sao Tome and Principe","Africa",199
+"FKS",156,153,"FKS","Japan","Asia",309
+"EDR",37,50,"EDR","Australia","Australasia",87
+"KMQ",852,851,"KMQ","Japan","Asia",1703
+"DAD",3273,3357,"DAD","Vietnam","Asia",6630
+"WMI",2665,1272,"WMI","Poland","Europe",3937
+"KTE",72,72,"KTE","Malaysia","Asia",144
+"KUA",79,77,"KUA","Malaysia","Asia",156
+"BMO",43,43,"BMO","Myanmar","Asia",86
+"AHB",1716,1807,"AHB","Saudi Arabia","Middle East",3523
+"SBY",385,210,"SBY","United States","North America",595
+"PZU",88,71,"PZU","Sudan","Africa",159
+"SZB",1147,1191,"SZB","Malaysia","Asia",2338
+"AJF",422,488,"AJF","Saudi Arabia","Middle East",910
+"HOF",275,262,"HOF","Saudi Arabia","Middle East",537
+"MPP",8,0,"MPP","Panama","Central America",8
+"IXS",91,89,"IXS","India","Asia",180
+"BLV",180,178,"BLV","United States","North America",358
+"LRR",146,159,"LRR","Iran","Middle East",305
+"HAS",631,603,"HAS","Saudi Arabia","Middle East",1234
+"CZS",11,33,"CZS","Brazil","South America",44
+"AAE",520,521,"AAE","Algeria","Africa",1041
+"LPB",1101,1352,"LPB","Bolivia","South America",2453
+"IAG",402,397,"IAG","United States","North America",799
+"LNY",112,118,"LNY","United States","North America",230
+"PVU",232,221,"PVU","United States","North America",453
+"RUT",53,63,"RUT","United States","North America",116
+"PSM",119,119,"PSM","United States","North America",238
+"PBG",542,545,"PBG","United States","North America",1087
+"PGD",1780,1797,"PGD","United States","North America",3577
+"SCW",221,223,"SCW","Russian Federation","Europe",444
+"PIE",3283,3304,"PIE","United States","North America",6587
+"YNG",248,244,"YNG","United States","North America",492
+"STC",119,129,"STC","United States","North America",248
+"CNS",3866,4086,"CNS","Australia","Australasia",7952
+"SCK",430,427,"SCK","United States","North America",857
+"HZG",49,63,"HZG","China","Asia",112
+"TEZ",6,6,"TEZ","India","Asia",12
+"TGP",13,13,"TGP","Russian Federation","Asia",26
+"PKB",103,8,"PKB","United States","North America",111
+"PTG",113,112,"PTG","South Africa","Africa",225
+"ERL",47,45,"ERL","China","Asia",92
+"WUZ",29,8,"WUZ","China","Asia",37
+"MMJ",29,29,"MMJ","Japan","Asia",58
+"EFL",444,351,"EFL","Greece","Europe",795
+"LBC",81,80,"LBC","Germany","Europe",161
+"DJJ",209,282,"DJJ","Indonesia","Asia",491
+"XRY",1698,1547,"XRY","Spain","Europe",3245
+"LYI",231,254,"LYI","China","Asia",485
+"SLL",987,981,"SLL","Oman","Middle East",1968
+"YNO",29,27,"YNO","Canada","North America",56
+"BSR",772,776,"BSR","Iraq","Middle East",1548
+"FLL",27199,26662,"FLL","United States","North America",53861
+"BDJ",374,389,"BDJ","Indonesia","Asia",763
+"BEJ",93,110,"BEJ","Indonesia","Asia",203
+"RKT",106,102,"RKT","United Arab Emirates","Middle East",208
+"KCF",8,8,"KCF","Pakistan","Asia",16
+"QMK",3,19,"QMK","Greenland","North America",22
+"KOK",268,316,"KOK","Finland","Europe",584
+"BUW",24,24,"BUW","Indonesia","Asia",48
+"BTH",582,559,"BTH","Indonesia","Asia",1141
+"PKY",93,92,"PKY","Indonesia","Asia",185
+"BWX",30,29,"BWX","Indonesia","Asia",59
+"TUB",218,0,"TUB","French Polynesia","Australasia",218
+"BKS",100,99,"BKS","Indonesia","Asia",199
+"CRP",1035,1913,"CRP","United States","North America",2948
+"OZC",59,56,"OZC","Philippines","Asia",115
+"SOQ",164,152,"SOQ","Indonesia","Asia",316
+"FLZ",32,32,"FLZ","Indonesia","Asia",64
+"SPD",58,44,"SPD","Bangladesh","Asia",102
+"LBJ",135,87,"LBJ","Indonesia","Asia",222
+"MGF",715,693,"MGF","Brazil","South America",1408
+"HRE",1384,1445,"HRE","Zimbabwe","Africa",2829
+"BIK",30,36,"BIK","Indonesia","Asia",66
+"SKK",66,94,"SKK","United States","North America",160
+"ISE",129,129,"ISE","Turkey","Europe",258
+"LUW",78,93,"LUW","Indonesia","Asia",171
+"IKI",164,166,"IKI","Japan","Asia",330
+"LEA",90,84,"LEA","Australia","Australasia",174
+"LUV",48,28,"LUV","Indonesia","Asia",76
+"SNW",157,46,"SNW","Myanmar","Asia",203
+"PGK",233,224,"PGK","Indonesia","Asia",457
+"SXK",24,20,"SXK","Indonesia","Asia",44
+"MKQ",28,59,"MKQ","Indonesia","Asia",87
+"TJQ",98,96,"TJQ","Indonesia","Asia",194
+"TKG",185,192,"TKG","Indonesia","Asia",377
+"IOQ",56,53,"IOQ","Greenland","North America",109
+"AOQ",35,35,"AOQ","Greenland","North America",70
+"KUS",688,658,"KUS","Greenland","North America",1346
+"JAV",592,909,"JAV","Greenland","North America",1501
+"TEE",42,41,"TEE","Algeria","Africa",83
+"OUA",707,557,"OUA","Burkina Faso","Africa",1264
+"CNP",250,264,"CNP","Greenland","North America",514
+"MYJ",1074,1043,"MYJ","Japan","Asia",2117
+"JUV",291,300,"JUV","Greenland","North America",591
+"JCH",64,71,"JCH","Greenland","North America",135
+"JEG",172,390,"JEG","Greenland","North America",562
+"LLU",78,29,"LLU","Greenland","North America",107
+"AXU",36,84,"AXU","Ethiopia","Africa",120
+"TAS",3210,3272,"TAS","Uzbekistan","Asia",6482
+"DWD",60,47,"DWD","Saudi Arabia","Middle East",107
+"QPW",67,17,"QPW","Greenland","North America",84
+"QUW",43,3,"QUW","Greenland","North America",46
+"JQA",367,366,"JQA","Greenland","North America",733
+"QFG",18,0,"QFG","Greenland","North America",18
+"OXF",595,1872,"OXF","United Kingdom","Europe",2467
+"XEQ",46,0,"XEQ","Greenland","North America",46
+"MZV",64,61,"MZV","Malaysia","Asia",125
+"TQI",66,61,"TQI","Greenland","North America",127
+"JSU",10,128,"JSU","Greenland","North America",138
+"ETR",18,18,"ETR","Ecuador","South America",36
+"ERC",415,415,"ERC","Turkey","Europe",830
+"RGK",71,71,"RGK","Russian Federation","Asia",142
+"JUU",16,41,"JUU","Greenland","North America",57
+"KGQ",47,47,"KGQ","Greenland","North America",94
+"BNX",89,85,"BNX","Bosnia and Herzegovina","Europe",174
+"UMD",454,381,"UMD","Greenland","North America",835
+"FOG",40,80,"FOG","Italy","Europe",120
+"HOX",29,35,"HOX","Myanmar","Asia",64
+"BHE",1366,1527,"BHE","New Zealand","Australasia",2893
+"NIQ",31,41,"NIQ","Greenland","North America",72
+"CGA",92,91,"CGA","United States","North America",183
+"BIA",1666,1630,"BIA","France","Europe",3296
+"NAQ",161,157,"NAQ","Greenland","North America",318
+"KIS",127,174,"KIS","Kenya","Africa",301
+"RUR",75,62,"RUR","French Polynesia","Australasia",137
+"OBY",201,201,"OBY","Greenland","North America",402
+"XWG",72,112,"XWG","France","Europe",184
+"KNS",123,123,"KNS","Australia","Australasia",246
+"PQT",27,25,"PQT","Greenland","North America",52
+"SVR",61,62,"SVR","Greenland","North America",123
+"SAE",17,45,"SAE","Greenland","North America",62
+"GOH",851,1401,"GOH","Greenland","North America",2252
+"THU",128,129,"THU","Greenland","North America",257
+"BQA",3,3,"BQA","Philippines","Asia",6
+"XMH",91,1,"XMH","French Polynesia","Australasia",92
+"XIQ",25,23,"XIQ","Greenland","North America",48
+"LFM",12,22,"LFM","Iran","Middle East",34
+"AXD",179,184,"AXD","Greece","Europe",363
+"BPL",37,35,"BPL","China","Asia",72
+"UAK",759,750,"UAK","Greenland","North America",1509
+"DUT",32,51,"DUT","United States","North America",83
+"MJT",401,436,"MJT","Greece","Europe",837
+"BHI",696,388,"BHI","Argentina","South America",1084
+"CLP",14,14,"CLP","United States","North America",28
+"EGX",16,5,"EGX","United States","North America",21
+"UIN",214,250,"UIN","United States","North America",464
+"UGB",15,0,"UGB","United States","North America",15
+"BGN",33,33,"BGN","Russian Federation","Asia",66
+"TBB",70,73,"TBB","Vietnam","Asia",143
+"HOB",167,221,"HOB","United States","North America",388
+"WSN",36,8,"WSN","United States","North America",44
+"PTH",29,1,"PTH","United States","North America",30
+"UEO",31,31,"UEO","Japan","Asia",62
+"WKK",6,0,"WKK","United States","North America",6
+"YQY",300,310,"YQY","Canada","North America",610
+"PML",17,19,"PML","United States","North America",36
+"MYP",20,20,"MYP","Turkmenistan","Asia",40
+"KNW",14,0,"KNW","United States","North America",14
+"KVC",12,14,"KVC","United States","North America",26
+"NME",1,1,"NME","United States","North America",2
+"NZH",180,183,"NZH","China","Asia",363
+"DLH",751,1620,"DLH","United States","North America",2371
+"PMC",3206,3418,"PMC","Chile","South America",6624
+"NRA",103,90,"NRA","Australia","Australasia",193
+"ARI",669,743,"ARI","Chile","South America",1412
+"MGS",8,8,"MGS","Cook Islands","Australasia",16
+"KVN",143,155,"KVN","China","Asia",298
+"SHE",3946,4455,"SHE","China","Asia",8401
+"AIU",29,28,"AIU","Cook Islands","Australasia",57
+"ANE",41,41,"ANE","France","Europe",82
+"MKK",414,450,"MKK","United States","North America",864
+"ZAL",401,392,"ZAL","Chile","South America",793
+"ITO",918,857,"ITO","United States","North America",1775
+"RCB",84,80,"RCB","South Africa","Africa",164
+"UDJ",45,40,"UDJ","Ukraine","Europe",85
+"MMB",397,391,"MMB","Japan","Asia",788
+"PCW",830,830,"PCW","United Kingdom","Europe",1660
+"WRY",168,0,"WRY","United Kingdom","Europe",168
+"LEH",3,3,"LEH","France","Europe",6
+"CGQ",2456,2998,"CGQ","China","Asia",5454
+"TRR",11,11,"TRR","Sri Lanka","Asia",22
+"OKJ",549,515,"OKJ","Japan","Asia",1064
+"MJM",54,5,"MJM","Democratic Republic of the Congo","Africa",59
+"MJN",99,171,"MJN","Madagascar","Africa",270
+"NDR",807,767,"NDR","Morocco","Africa",1574
+"HGO",27,12,"HGO","Ivory Coast (Cote d'Ivoire)","Africa",39
+"UTP",83,85,"UTP","Thailand","Asia",168
+"BPO",8,42,"BPO","China","Asia",50
+"MQT",394,343,"MQT","United States","North America",737
+"YWH",460,435,"YWH","Canada","North America",895
+"YVQ",28,129,"YVQ","Canada","North America",157
+"SEZ",1024,985,"SEZ","Seychelles","Africa",2009
+"ZFN",74,0,"ZFN","Canada","North America",74
+"GCW",28,28,"GCW","United States","North America",56
+"BYK",8,12,"BYK","Ivory Coast (Cote d'Ivoire)","Africa",20
+"AZN",164,172,"AZN","Uzbekistan","Asia",336
+"GFK",706,1699,"GFK","United States","North America",2405
+"TMJ",82,85,"TMJ","Uzbekistan","Asia",167
+"KLW",108,107,"KLW","United States","North America",215
+"UGC",287,312,"UGC","Uzbekistan","Asia",599
+"KSQ",69,68,"KSQ","Uzbekistan","Asia",137
+"INT",38,0,"INT","United States","North America",38
+"YWJ",18,37,"YWJ","Canada","North America",55
+"SKD",280,287,"SKD","Uzbekistan","Asia",567
+"ILD",97,92,"ILD","Spain","Europe",189
+"UUS",493,511,"UUS","Russian Federation","Asia",1004
+"VOG",320,327,"VOG","Russian Federation","Europe",647
+"LCH",841,722,"LCH","United States","North America",1563
+"NIM",572,483,"NIM","Niger","Africa",1055
+"VUS",31,30,"VUS","Russian Federation","Europe",61
+"OHH",62,58,"OHH","Russian Federation","Asia",120
+"RKS",147,262,"RKS","United States","North America",409
+"PPN",84,90,"PPN","Colombia","South America",174
+"CBO",51,52,"CBO","Philippines","Asia",103
+"VLL",372,333,"VLL","Spain","Europe",705
+"YJL",37,34,"YJL","Spain","Europe",71
+"OVD",2495,2616,"OVD","Spain","Europe",5111
+"PMZ",26,32,"PMZ","Costa Rica","Central America",58
+"ZOB",14,10,"ZOB","Spain","Europe",24
+"ATD",36,36,"ATD","Solomon Islands","Australasia",72
+"JSH",96,91,"JSH","Greece","Europe",187
+"KCC",19,19,"KCC","United States","North America",38
+"MUA",93,18,"MUA","Solomon Islands","Australasia",111
+"VTE",561,549,"VTE","Laos","Asia",1110
+"GZO",129,125,"GZO","Solomon Islands","Australasia",254
+"RNL",40,39,"RNL","Solomon Islands","Australasia",79
+"BPN",910,879,"BPN","Indonesia","Asia",1789
+"EGM",110,115,"EGM","Solomon Islands","Australasia",225
+"RUS",29,29,"RUS","Solomon Islands","Australasia",58
+"OKL",52,52,"OKL","Indonesia","Asia",104
+"YRT",318,450,"YRT","Canada","North America",768
+"PKN",96,84,"PKN","Indonesia","Asia",180
+"SRI",28,24,"SRI","Indonesia","Asia",52
+"KBV",948,923,"KBV","Thailand","Asia",1871
+"WMX",55,55,"WMX","Indonesia","Asia",110
+"SXI",28,28,"SXI","Iran","Middle East",56
+"VNX",123,104,"VNX","Mozambique","Africa",227
+"XKS",55,56,"XKS","Canada","North America",111
+"SLY",155,132,"SLY","Russian Federation","Asia",287
+"LVP",30,30,"LVP","Iran","Middle East",60
+"DPT",48,50,"DPT","Russian Federation","Asia",98
+"ANC",7267,8384,"ANC","United States","North America",15651
+"HFS",54,50,"HFS","Sweden","Europe",104
+"HID",125,148,"HID","Australia","Australasia",273
+"KBU",27,27,"KBU","Indonesia","Asia",54
+"TRS",1075,984,"TRS","Italy","Europe",2059
+"FOC",2993,3360,"FOC","China","Asia",6353
+"ARD",27,27,"ARD","Indonesia","Asia",54
+"PTJ",9,9,"PTJ","Australia","Australasia",18
+"IPL",62,62,"IPL","United States","North America",124
+"ELG",32,31,"ELG","Algeria","Africa",63
+"MOF",33,4,"MOF","Indonesia","Asia",37
+"PPW",65,74,"PPW","United Kingdom","Europe",139
+"IRM",19,13,"IRM","Russian Federation","Asia",32
+"TDX",73,75,"TDX","Thailand","Asia",148
+"GLX",7,7,"GLX","Indonesia","Asia",14
+"LKA",18,18,"LKA","Indonesia","Asia",36
+"KNG",17,25,"KNG","Indonesia","Asia",42
+"TLI",6,6,"TLI","Indonesia","Asia",12
+"PUM",28,28,"PUM","Indonesia","Asia",56
+"OTI",6,7,"OTI","Indonesia","Asia",13
+"MKW",45,45,"MKW","Indonesia","Asia",90
+"MEQ",10,10,"MEQ","Indonesia","Asia",20
+"LGI",115,115,"LGI","Bahamas","Caribbean",230
+"YPY",29,34,"YPY","Canada","North America",63
+"BKL",12,12,"BKL","United States","North America",24
+"ASJ",342,362,"ASJ","Japan","Asia",704
+"KAE",54,37,"KAE","United States","North America",91
+"ORT",12,12,"ORT","United States","North America",24
+"SGY",219,167,"SGY","United States","North America",386
+"YOW",12440,12112,"YOW","Canada","North America",24552
+"CXH",298,298,"CXH","Canada","North America",596
+"MYT",226,219,"MYT","Myanmar","Asia",445
+"RTB",648,573,"RTB","Honduras","Central America",1221
+"JNS",202,187,"JNS","Greenland","North America",389
+"ENH",48,144,"ENH","China","Asia",192
+"WNH",45,37,"WNH","China","Asia",82
+"OKI",30,29,"OKI","Japan","Asia",59
+"TKN",103,98,"TKN","Japan","Asia",201
+"CUC",1564,1522,"CUC","Colombia","South America",3086
+"TNE",53,53,"TNE","Japan","Asia",106
+"COS",2142,3395,"COS","United States","North America",5537
+"SBA",1964,2009,"SBA","United States","North America",3973
+"TSV",1785,1652,"TSV","Australia","Australasia",3437
+"YRL",232,255,"YRL","Canada","North America",487
+"JUJ",647,225,"JUJ","Argentina","South America",872
+"DBO",477,409,"DBO","Australia","Australasia",886
+"NDG",190,231,"NDG","China","Asia",421
+"TMW",306,276,"TMW","Australia","Australasia",582
+"LPT",109,112,"LPT","Thailand","Asia",221
+"SJK",46,49,"SJK","Brazil","South America",95
+"GAJ",80,82,"GAJ","Japan","Asia",162
+"GAL",71,177,"GAL","United States","North America",248
+"URJ",24,6,"URJ","Russian Federation","Asia",30
+"AXT",626,617,"AXT","Japan","Asia",1243
+"HNA",183,184,"HNA","Japan","Asia",367
+"MSJ",67,63,"MSJ","Japan","Asia",130
+"AOJ",298,291,"AOJ","Japan","Asia",589
+"DUD",1548,1612,"DUD","New Zealand","Australasia",3160
+"ZSE",193,204,"ZSE","Reunion","Africa",397
+"MCY",536,518,"MCY","Australia","Australasia",1054
+"MKY",995,1066,"MKY","Australia","Australasia",2061
+"ZQN",2435,2457,"ZQN","New Zealand","Australasia",4892
+"AVV",125,145,"AVV","Australia","Australasia",270
+"CFG",30,32,"CFG","Cuba","Caribbean",62
+"HTI",775,761,"HTI","Australia","Australasia",1536
+"TTA",47,0,"TTA","Morocco","Africa",47
+"SHM",54,41,"SHM","Japan","Asia",95
+"NTL",1013,996,"NTL","Australia","Australasia",2009
+"PPP",215,221,"PPP","Australia","Australasia",436
+"XZM",67,53,"XZM","Macau","Asia",120
+"YAG",99,98,"YAG","Canada","North America",197
+"BMB",5,5,"BMB","Democratic Republic of the Congo","Africa",10
+"SYR",8290,5845,"SYR","United States","North America",14135
+"AUB",60,64,"AUB","Germany","Europe",124
+"YXL",724,389,"YXL","Canada","North America",1113
+"FLA",47,49,"FLA","Colombia","South America",96
+"MHJ",30,34,"MHJ","Germany","Europe",64
+"MKG",118,187,"MKG","United States","North America",305
+"KPB",21,21,"KPB","United States","North America",42
+"KWF",9,13,"KWF","United States","North America",22
+"PPV",21,21,"PPV","United States","North America",42
+"SHB",107,104,"SHB","Japan","Asia",211
+"XSC",42,8,"XSC","Turks and Caicos Islands","Caribbean",50
+"VRC",23,17,"VRC","Philippines","Asia",40
+"APL",226,267,"APL","Mozambique","Africa",493
+"ELD",61,56,"ELD","United States","North America",117
+"HOT",62,62,"HOT","United States","North America",124
+"BRE",4151,4081,"BRE","Germany","Europe",8232
+"SLN",50,46,"SLN","United States","North America",96
+"SFH",18,18,"SFH","Mexico","North America",36
+"PEG",423,328,"PEG","Italy","Europe",751
+"WEI",204,172,"WEI","Australia","Australasia",376
+"MJD",22,12,"MJD","Pakistan","Asia",34
+"TSJ",412,423,"TSJ","Japan","Asia",835
+"SDP",66,44,"SDP","United States","North America",110
+"SMQ",41,27,"SMQ","Indonesia","Asia",68
+"VIS",51,50,"VIS","United States","North America",101
+"KTG",70,68,"KTG","Indonesia","Asia",138
+"PYY",8,8,"PYY","Thailand","Asia",16
+"FTA",29,15,"FTA","Vanuatu","Australasia",44
+"KKC",152,153,"KKC","Thailand","Asia",305
+"KLG",127,20,"KLG","United States","North America",147
+"TRW",81,71,"TRW","Kiribati","Australasia",152
+"XTL",25,37,"XTL","Canada","North America",62
+"TJG",10,10,"TJG","Indonesia","Asia",20
+"RTG",19,12,"RTG","Indonesia","Asia",31
+"YGB",72,70,"YGB","Canada","North America",142
+"YFS",122,102,"YFS","Canada","North America",224
+"YPB",62,64,"YPB","Canada","North America",126
+"GLH",28,27,"GLH","United States","North America",55
+"HUY",201,200,"HUY","United Kingdom","Europe",401
+"WJU",18,18,"WJU","South Korea","Asia",36
+"TGJ",16,9,"TGJ","New Caledonia","Australasia",25
+"YWP",54,57,"YWP","Canada","North America",111
+"RSU",276,262,"RSU","South Korea","Asia",538
+"HTG",11,22,"HTG","Russian Federation","Asia",33
+"KWJ",456,458,"KWJ","South Korea","Asia",914
+"NBC",181,179,"NBC","Russian Federation","Europe",360
+"CPR",452,732,"CPR","United States","North America",1184
+"KSZ",6,6,"KSZ","Russian Federation","Europe",12
+"CWL",1856,2010,"CWL","United Kingdom","Europe",3866
+"USK",62,56,"USK","Russian Federation","Europe",118
+"JUZ",64,68,"JUZ","China","Asia",132
+"JKG",328,337,"JKG","Sweden","Europe",665
+"LPI",141,367,"LPI","Sweden","Europe",508
+"OLL",8,8,"OLL","Congo","Africa",16
+"TGC",16,16,"TGC","Malaysia","Asia",32
+"ZPF",25,20,"ZPF","Germany","Europe",45
+"HUZ",65,64,"HUZ","China","Asia",129
+"VCA",153,158,"VCA","Vietnam","Asia",311
+"BJM",97,173,"BJM","Burundi","Africa",270
+"MCG",68,58,"MCG","United States","North America",126
+"UTS",10,10,"UTS","Russian Federation","Europe",20
+"CYB",140,151,"CYB","Cayman Islands","Caribbean",291
+"NSN",2613,2577,"NSN","New Zealand","Australasia",5190
+"IEV",628,621,"IEV","Ukraine","Europe",1249
+"MKE",12073,11565,"MKE","United States","North America",23638
+"YCD",302,336,"YCD","Canada","North America",638
+"EMD",404,406,"EMD","Australia","Australasia",810
+"YQX",303,323,"YQX","Canada","North America",626
+"CDW",65,65,"CDW","United States","North America",130
+"CJA",688,672,"CJA","Peru","South America",1360
+"CIC",5,20,"CIC","United States","North America",25
+"LCE",150,142,"LCE","Honduras","Central America",292
+"LSC",1217,1300,"LSC","Chile","South America",2517
+"SSR",26,18,"SSR","Vanuatu","Australasia",44
+"IPC",300,280,"IPC","Chile","South America",580
+"LPG",34,32,"LPG","Argentina","South America",66
+"ZCO",1221,1271,"ZCO","Chile","South America",2492
+"TPP",1571,1381,"TPP","Peru","South America",2952
+"HWD",2,2,"HWD","United States","North America",4
+"TEB",38,39,"TEB","United States","North America",77
+"VNS",413,208,"VNS","India","Asia",621
+"BMU",57,57,"BMU","Indonesia","Asia",114
+"PIB",91,50,"PIB","United States","North America",141
+"FIS",13,13,"FIS","Democratic Republic of the Congo","Africa",26
+"KSA",30,30,"KSA","Micronesia","Australasia",60
+"XER",148,162,"XER","France","Europe",310
+"CUF",146,118,"CUF","Italy","Europe",264
+"QUL",25,25,"QUL","Germany","Europe",50
+"TIR",71,70,"TIR","India","Asia",141
+"KAY",1,1,"KAY","Fiji","Australasia",2
+"ZWS",239,215,"ZWS","Germany","Europe",454
+"VIF",39,0,"VIF","Italy","Europe",39
+"TJA",130,160,"TJA","Bolivia","South America",290
+"TLE",137,118,"TLE","Madagascar","Africa",255
+"KCA",168,170,"KCA","China","Asia",338
+"SVD",84,28,"SVD","Saint Vincent and Grenadines","Caribbean",112
+"NNY",340,299,"NNY","China","Asia",639
+"YGV",21,32,"YGV","Canada","North America",53
+"EOI",20,42,"EOI","United Kingdom","Europe",62
+"VDB",54,53,"VDB","Norway","Europe",107
+"NAT",1304,1223,"NAT","Brazil","South America",2527
+"GHT",9,7,"GHT","Libya","Africa",16
+"SOY",167,0,"SOY","United Kingdom","Europe",167
+"DHB",105,97,"DHB","United States","North America",202
+"BFS",4373,4469,"BFS","United Kingdom","Europe",8842
+"GAX",5,5,"GAX","Gabon","Africa",10
+"NRL",181,34,"NRL","United Kingdom","Europe",215
+"LKE",722,730,"LKE","United States","North America",1452
+"FRD",81,92,"FRD","United States","North America",173
+"ESD",71,62,"ESD","United States","North America",133
+"LPS",87,82,"LPS","United States","North America",169
+"KAO",235,234,"KAO","Finland","Europe",469
+"KEH",152,275,"KEH","United States","North America",427
+"POA",5097,5231,"POA","Brazil","South America",10328
+"FBS",119,105,"FBS","United States","North America",224
+"GIL",42,21,"GIL","Pakistan","Asia",63
+"TMM",203,314,"TMM","Madagascar","Africa",517
+"WSX",99,89,"WSX","United States","North America",188
+"WMN",106,27,"WMN","Madagascar","Africa",133
+"TJK",25,25,"TJK","Turkey","Europe",50
+"SVB",54,73,"SVB","Madagascar","Africa",127
+"NOS",205,213,"NOS","Madagascar","Africa",418
+"TNR",1919,1602,"TNR","Madagascar","Africa",3521
+"SMS",78,145,"SMS","Madagascar","Africa",223
+"CUK",306,312,"CUK","Belize","Central America",618
+"PJA",111,94,"PJA","Sweden","Europe",205
+"MUR",217,207,"MUR","Malaysia","Asia",424
+"BBN",75,80,"BBN","Malaysia","Asia",155
+"LBU",172,168,"LBU","Malaysia","Asia",340
+"NYM",181,166,"NYM","Russian Federation","Asia",347
+"WMR",19,0,"WMR","Madagascar","Africa",19
+"ONK",28,28,"ONK","Russian Federation","Asia",56
+"ZQZ",68,42,"ZQZ","China","Asia",110
+"BES",1138,1089,"BES","France","Europe",2227
+"YBK",87,93,"YBK","Canada","North America",180
+"LWY",156,154,"LWY","Malaysia","Asia",310
+"LMN",53,53,"LMN","Malaysia","Asia",106
+"YYT",3221,3116,"YYT","Canada","North America",6337
+"LGL",12,12,"LGL","Malaysia","Asia",24
+"FRW",66,66,"FRW","Botswana","Africa",132
+"LKH",15,15,"LKH","Malaysia","Asia",30
+"YCS",42,83,"YCS","Canada","North America",125
+"ATC",40,40,"ATC","Bahamas","Caribbean",80
+"CJB",575,573,"CJB","India","Asia",1148
+"SHO",49,49,"SHO","Swaziland","Africa",98
+"ABS",77,75,"ABS","Egypt","Africa",152
+"YFO",50,50,"YFO","Canada","North America",100
+"CAZ",14,14,"CAZ","Australia","Australasia",28
+"YGX",15,15,"YGX","Canada","North America",30
+"YTH",290,384,"YTH","Canada","North America",674
+"YUT",14,55,"YUT","Canada","North America",69
+"RBY",81,25,"RBY","United States","North America",106
+"YUS",44,33,"YUS","China","Asia",77
+"GOQ",35,48,"GOQ","China","Asia",83
+"ABA",112,111,"ABA","Russian Federation","Asia",223
+"ASM",81,78,"ASM","Eritrea","Africa",159
+"SAH",487,492,"SAH","Yemen","Middle East",979
+"TCG",31,33,"TCG","China","Asia",64
+"EBL",1831,1864,"EBL","Iraq","Middle East",3695
+"MUH",6,10,"MUH","Egypt","Africa",16
+"MQJ",28,28,"MQJ","Russian Federation","Asia",56
+"XDV",38,27,"XDV","Canada","North America",65
+"OLZ",52,43,"OLZ","Russian Federation","Asia",95
+"ALP",46,42,"ALP","Syria","Middle East",88
+"CLY",597,569,"CLY","France","Europe",1166
+"CCP",2331,2263,"CCP","Chile","South America",4594
+"DYN",64,61,"DYN","China","Asia",125
+"ARB",276,276,"ARB","United States","North America",552
+"JXS",90,106,"JXS","China","Asia",196
+"XEG",452,435,"XEG","Canada","North America",887
+"SEK",44,44,"SEK","Russian Federation","Asia",88
+"NGO",5156,4568,"NGO","Japan","Asia",9724
+"WKJ",73,69,"WKJ","Japan","Asia",142
+"IAA",15,18,"IAA","Russian Federation","Asia",33
+"JNX",91,91,"JNX","Greece","Europe",182
+"YNB",839,826,"YNB","Saudi Arabia","Middle East",1665
+"FUJ",208,245,"FUJ","Japan","Asia",453
+"UAH",82,47,"UAH","French Polynesia","Australasia",129
+"MNS",8,7,"MNS","Zambia","Africa",15
+"MLO",92,92,"MLO","Greece","Europe",184
+"BAL",320,320,"BAL","Turkey","Europe",640
+"MUK",8,8,"MUK","Cook Islands","Australasia",16
+"CIP",28,28,"CIP","Zambia","Africa",56
+"USR",32,32,"USR","Russian Federation","Asia",64
+"AUU",37,35,"AUU","Australia","Australasia",72
+"LVI",555,572,"LVI","Zambia","Africa",1127
+"MYW",22,22,"MYW","Tanzania","Africa",44
+"SLI",62,60,"SLI","Zambia","Africa",122
+"YYQ",220,48,"YYQ","Canada","North America",268
+"UIP",129,142,"UIP","France","Europe",271
+"YTZ",7766,8538,"YTZ","Canada","North America",16304
+"MSR",271,271,"MSR","Turkey","Europe",542
+"DNZ",828,830,"DNZ","Turkey","Europe",1658
+"DED",81,184,"DED","India","Asia",265
+"LYB",135,17,"LYB","Cayman Islands","Caribbean",152
+"VAS",542,544,"VAS","Turkey","Europe",1086
+"HDM",20,18,"HDM","Iran","Middle East",38
+"ALW",105,151,"ALW","United States","North America",256
+"MZH",197,195,"MZH","Turkey","Europe",392
+"LOE",42,43,"LOE","Thailand","Asia",85
+"LAR",121,193,"LAR","United States","North America",314
+"FMA",235,45,"FMA","Argentina","South America",280
+"SVK",169,33,"SVK","Belize","Central America",202
+"YNY",25,25,"YNY","South Korea","Asia",50
+"WFI",11,0,"WFI","Madagascar","Africa",11
+"KDU",67,22,"KDU","Pakistan","Asia",89
+"ENI",17,20,"ENI","Philippines","Asia",37
+"BKZ",26,39,"BKZ","Tanzania","Africa",65
+"VIE",43903,43766,"VIE","Austria","Europe",87669
+"SDK",168,167,"SDK","Malaysia","Asia",335
+"GET",232,149,"GET","Australia","Australasia",381
+"OAG",133,125,"OAG","Australia","Australasia",258
+"DLY",30,30,"DLY","Vanuatu","Australasia",60
+"HDS",62,70,"HDS","South Africa","Africa",132
+"ADE",256,243,"ADE","Yemen","Middle East",499
+"MWZ",184,155,"MWZ","Tanzania","Africa",339
+"DIN",39,36,"DIN","Vietnam","Asia",75
+"LXG",20,21,"LXG","Laos","Asia",41
+"BJX",3061,3304,"BJX","Mexico","North America",6365
+"SJZ",72,140,"SJZ","Portugal","Europe",212
+"SMA",118,78,"SMA","Portugal","Europe",196
+"BOS",42595,55479,"BOS","United States","North America",98074
+"KSF",82,83,"KSF","Germany","Europe",165
+"ULZ",15,15,"ULZ","Mongolia","Asia",30
+"XPJ",49,29,"XPJ","France","Europe",78
+"GYU",21,27,"GYU","China","Asia",48
+"ZYN",50,73,"ZYN","France","Europe",123
+"OER",267,344,"OER","Sweden","Europe",611
+"LLF",18,18,"LLF","China","Asia",36
+"OND",61,61,"OND","Namibia","Africa",122
+"AJN",106,113,"AJN","Comoros","Africa",219
+"WVB",181,185,"WVB","Namibia","Africa",366
+"YAB",60,60,"YAB","Canada","North America",120
+"BEW",160,198,"BEW","Mozambique","Africa",358
+"GHB",128,89,"GHB","Bahamas","Caribbean",217
+"IGD",103,102,"IGD","Turkey","Europe",205
+"JRF",74,85,"JRF","United States","North America",159
+"CRA",116,120,"CRA","Romania","Europe",236
+"GAF",16,16,"GAF","Tunisia","Africa",32
+"GIZ",524,584,"GIZ","Saudi Arabia","Middle East",1108
+"JBQ",81,90,"JBQ","Dominican Republic","Caribbean",171
+"INB",67,68,"INB","Belize","Central America",135
+"JHM",164,180,"JHM","United States","North America",344
+"SON",362,372,"SON","Vanuatu","Australasia",734
+"HAC",58,60,"HAC","Japan","Asia",118
+"ECN",2449,2474,"ECN","Cyprus","Europe",4923
+"FLR",2977,2881,"FLR","Italy","Europe",5858
+"CGD",232,235,"CGD","China","Asia",467
+"LNB",19,19,"LNB","Vanuatu","Australasia",38
+"AUY",30,29,"AUY","Vanuatu","Australasia",59
+"IPA",55,55,"IPA","Vanuatu","Australasia",110
+"NUS",124,124,"NUS","Vanuatu","Australasia",248
+"TGH",13,13,"TGH","Vanuatu","Australasia",26
+"TRU",1368,1389,"TRU","Peru","South America",2757
+"SLH",54,46,"SLH","Vanuatu","Australasia",100
+"MWF",12,12,"MWF","Vanuatu","Australasia",24
+"ZGU",52,6,"ZGU","Vanuatu","Australasia",58
+"SWJ",16,12,"SWJ","Vanuatu","Australasia",28
+"ULK",175,175,"ULK","Russian Federation","Asia",350
+"PSA",4069,5167,"PSA","Italy","Europe",9236
+"TOH",15,29,"TOH","Vanuatu","Australasia",44
+"ROW",189,95,"ROW","United States","North America",284
+"EAE",23,23,"EAE","Vanuatu","Australasia",46
+"WLH",38,38,"WLH","Vanuatu","Australasia",76
+"XZV",1,1,"XZV","France","Europe",2
+"TCR",21,21,"TCR","India","Asia",42
+"GGR",3,3,"GGR","Somalia","Africa",6
+"TKJ",36,36,"TKJ","United States","North America",72
+"BNI",124,128,"BNI","Nigeria","Africa",252
+"QKL",307,347,"QKL","Germany","Europe",654
+"YVZ",67,67,"YVZ","Canada","North America",134
+"KND",34,0,"KND","Democratic Republic of the Congo","Africa",34
+"QOW",152,152,"QOW","Nigeria","Africa",304
+"BTJ",100,121,"BTJ","Indonesia","Asia",221
+"SCE",1463,919,"SCE","United States","North America",2382
+"BKQ",32,32,"BKQ","Australia","Australasia",64
+"SKO",49,48,"SKO","Nigeria","Africa",97
+"MJI",96,104,"MJI","Libya","Africa",200
+"GDX",105,147,"GDX","Russian Federation","Asia",252
+"MBE",18,19,"MBE","Japan","Asia",37
+"LAX",118398,132237,"LAX","United States","North America",250635
+"NTQ",38,36,"NTQ","Japan","Asia",74
+"PHX",55556,43018,"PHX","United States","North America",98574
+"WRL",54,66,"WRL","United States","North America",120
+"IWJ",64,64,"IWJ","Japan","Asia",128
+"MBX",11,4,"MBX","Slovenia","Europe",15
+"OIR",9,10,"OIR","Japan","Asia",19
+"GMZ",46,46,"GMZ","Spain","Europe",92
+"JFR",51,48,"JFR","Greenland","North America",99
+"BYO",33,33,"BYO","Brazil","South America",66
+"KRK",5216,4491,"KRK","Poland","Europe",9707
+"ANV",32,32,"ANV","United States","North America",64
+"LUA",29,24,"LUA","Nepal","Asia",53
+"HIA",89,87,"HIA","China","Asia",176
+"LWN",27,28,"LWN","Armenia","Asia",55
+"DIL",103,96,"DIL","East Timor","Australasia",199
+"LPL",4386,4691,"LPL","United Kingdom","Europe",9077
+"KIT",54,82,"KIT","Greece","Europe",136
+"HLZ",1375,1326,"HLZ","New Zealand","Australasia",2701
+"EBB",1129,1118,"EBB","Uganda","Africa",2247
+"ROT",814,812,"ROT","New Zealand","Australasia",1626
+"CIJ",50,82,"CIJ","Bolivia","South America",132
+"MKZ",19,19,"MKZ","Malaysia","Asia",38
+"FGI",204,223,"FGI","Western Samoa","Australasia",427
+"BUT",27,25,"BUT","Bhutan","Asia",52
+"GPA",63,65,"GPA","Greece","Europe",128
+"KLV",92,91,"KLV","Czech Republic","Europe",183
+"KWM",75,36,"KWM","Australia","Australasia",111
+"ECP",1464,971,"ECP","United States","North America",2435
+"PRY",37,36,"PRY","South Africa","Africa",73
+"LEI",1703,1569,"LEI","Spain","Europe",3272
+"YAZ",61,55,"YAZ","Canada","North America",116
+"HTN",392,422,"HTN","China","Asia",814
+"YVC",56,47,"YVC","Canada","North America",103
+"OOL",4241,4258,"OOL","Australia","Australasia",8499
+"IOM",1204,1205,"IOM","United Kingdom","Europe",2409
+"MFU",187,200,"MFU","Zambia","Africa",387
+"YHU",39,62,"YHU","Canada","North America",101
+"YMN",44,44,"YMN","Canada","North America",88
+"YCL",25,25,"YCL","Canada","North America",50
+"KIW",12,12,"KIW","Zambia","Africa",24
+"TTN",555,568,"TTN","United States","North America",1123
+"NAV",481,478,"NAV","Turkey","Europe",959
+"LIF",100,103,"LIF","New Caledonia","Australasia",203
+"ODE",4,2,"ODE","Denmark","Europe",6
+"BYM",17,17,"BYM","Cuba","Caribbean",34
+"OGU",350,356,"OGU","Turkey","Europe",706
+"EDO",315,311,"EDO","Turkey","Europe",626
+"TID",16,6,"TID","Algeria","Africa",22
+"ZUM",51,1,"ZUM","Canada","North America",52
+"BQJ",61,59,"BQJ","Russian Federation","Asia",120
+"SYS",36,36,"SYS","Russian Federation","Asia",72
+"HEA",104,98,"HEA","Afghanistan","Asia",202
+"THS",60,58,"THS","Thailand","Asia",118
+"KDY",9,9,"KDY","Russian Federation","Asia",18
+"SUY",30,28,"SUY","Russian Federation","Asia",58
+"MOZ",69,124,"MOZ","French Polynesia","Australasia",193
+"PZH",10,11,"PZH","Pakistan","Asia",21
+"GWD",47,40,"GWD","Pakistan","Asia",87
+"TUK",104,64,"TUK","Pakistan","Asia",168
+"PJG",28,17,"PJG","Pakistan","Asia",45
+"RIB",11,31,"RIB","Bolivia","South America",42
+"ALB",2820,5646,"ALB","United States","North America",8466
+"SHD",88,30,"SHD","United States","North America",118
+"ILG",38,41,"ILG","United States","North America",79
+"RSD",134,81,"RSD","Bahamas","Caribbean",215
+"VAI",11,32,"VAI","Papua New Guinea","Australasia",43
+"EVE",1406,1225,"EVE","Norway","Europe",2631
+"IFO",121,106,"IFO","Ukraine","Europe",227
+"MAS",65,75,"MAS","Papua New Guinea","Australasia",140
+"KIE",18,18,"KIE","Papua New Guinea","Australasia",36
+"MBT",10,10,"MBT","Philippines","Asia",20
+"BJT",12,12,"BJT","Sri Lanka","Asia",24
+"EIN",4681,4193,"EIN","Netherlands","Europe",8874
+"KDM",36,44,"KDM","Maldives","Asia",80
+"WAG",253,217,"WAG","New Zealand","Australasia",470
+"IFU",20,16,"IFU","Maldives","Asia",36
+"RDZ",242,179,"RDZ","France","Europe",421
+"GTE",77,64,"GTE","Australia","Australasia",141
+"HAQ",44,61,"HAQ","Maldives","Asia",105
+"GAN",38,50,"GAN","Maldives","Asia",88
+"YDA",47,47,"YDA","Canada","North America",94
+"ADU",220,213,"ADU","Iran","Middle East",433
+"YAK",144,0,"YAK","United States","North America",144
+"ACZ",12,12,"ACZ","Iran","Middle East",24
+"SZE",19,5,"SZE","Ethiopia","Africa",24
+"MVR",1,20,"MVR","Cameroon","Africa",21
+"DJN",12,12,"DJN","United States","North America",24
+"KHY",12,12,"KHY","Iran","Middle East",24
+"NHV",51,337,"NHV","French Polynesia","Australasia",388
+"AXA",187,187,"AXA","Anguilla","Caribbean",374
+"BDB",399,392,"BDB","Australia","Australasia",791
+"MRZ",131,125,"MRZ","Australia","Australasia",256
+"KGI",389,362,"KGI","Australia","Australasia",751
+"CBR",4405,4333,"CBR","Australia","Australasia",8738
+"MOV",489,525,"MOV","Australia","Australasia",1014
+"PBO",264,215,"PBO","Australia","Australasia",479
+"SXF",8090,7669,"SXF","Germany","Europe",15759
+"KTA",935,935,"KTA","Australia","Australasia",1870
+"GLT",690,645,"GLT","Australia","Australasia",1335
+"OHS",21,21,"OHS","Oman","Middle East",42
+"VIG",64,62,"VIG","Venezuela","South America",126
+"SCV",10,10,"SCV","Romania","Europe",20
+"ZPR",35,20,"ZPR","Germany","Europe",55
+"ZUH",1827,1334,"ZUH","China","Asia",3161
+"MUN",56,60,"MUN","Venezuela","South America",116
+"PQQ",508,446,"PQQ","Australia","Australasia",954
+"XSB",55,45,"XSB","United Arab Emirates","Middle East",100
+"UTT",78,79,"UTT","South Africa","Africa",157
+"TJU",116,112,"TJU","Tajikistan","Asia",228
+"TEN",145,104,"TEN","China","Asia",249
+"ASS",8,8,"ASS","South Africa","Africa",16
+"KMA",8,8,"KMA","Papua New Guinea","Australasia",16
+"WSZ",76,76,"WSZ","New Zealand","Australasia",152
+"SZK",268,265,"SZK","South Africa","Africa",533
+"GSS",3,3,"GSS","South Africa","Africa",6
+"LDZ",17,22,"LDZ","South Africa","Africa",39
+"PPQ",252,306,"PPQ","New Zealand","Australasia",558
+"KIM",387,371,"KIM","South Africa","Africa",758
+"YNS",16,16,"YNS","Canada","North America",32
+"TET",199,143,"TET","Mozambique","Africa",342
+"PHW",55,60,"PHW","South Africa","Africa",115
+"DLE",205,187,"DLE","France","Europe",392
+"PHE",821,730,"PHE","Australia","Australasia",1551
+"MZR",69,61,"MZR","Afghanistan","Asia",130
+"XBJ",124,81,"XBJ","Iran","Middle East",205
+"MQP",575,560,"MQP","South Africa","Africa",1135
+"ULX",12,12,"ULX","South Africa","Africa",24
+"EGN",18,21,"EGN","Sudan","Africa",39
+"WUU",7,7,"WUU","South Sudan","Africa",14
+"FUT",343,342,"FUT","Wallis and Futuna Islands","Australasia",685
+"ZPB",43,34,"ZPB","Canada","North America",77
+"BKC",53,53,"BKC","United States","North America",106
+"SBH",1610,1614,"SBH","Guadeloupe","Caribbean",3224
+"EBD",14,14,"EBD","Sudan","Africa",28
+"IXG",27,30,"IXG","India","Asia",57
+"FLS",88,90,"FLS","Australia","Australasia",178
+"ZEM",67,0,"ZEM","Canada","North America",67
+"XYX",477,81,"XYX","Sweden","Europe",558
+"PAT",280,202,"PAT","India","Asia",482
+"PKG",1,0,"PKG","Malaysia","Asia",1
+"ABM",66,66,"ABM","Australia","Australasia",132
+"WMB",35,35,"WMB","Australia","Australasia",70
+"PLO",385,394,"PLO","Australia","Australasia",779
+"CTG",4402,4636,"CTG","Colombia","South America",9038
+"CEG",76,77,"CEG","United Kingdom","Europe",153
+"CVU",27,32,"CVU","Portugal","Europe",59
+"GDZ",80,80,"GDZ","Russian Federation","Europe",160
+"NOZ",73,68,"NOZ","Russian Federation","Asia",141
+"IRG",44,7,"IRG","Australia","Australasia",51
+"XFW",40,40,"XFW","Germany","Europe",80
+"AQI",133,130,"AQI","Saudi Arabia","Middle East",263
+"BHH",383,390,"BHH","Saudi Arabia","Middle East",773
+"ZTB",36,0,"ZTB","Canada","North America",36
+"MSA",24,52,"MSA","Canada","North America",76
+"KMC",7,7,"KMC","Saudi Arabia","Middle East",14
+"ULH",57,67,"ULH","Saudi Arabia","Middle East",124
+"EJH",47,50,"EJH","Saudi Arabia","Middle East",97
+"CRZ",55,55,"CRZ","Turkmenistan","Asia",110
+"RAH",64,56,"RAH","Saudi Arabia","Middle East",120
+"URY",200,196,"URY","Saudi Arabia","Middle East",396
+"DUS",33248,32476,"DUS","Germany","Europe",65724
+"ZKE",132,0,"ZKE","Canada","North America",132
+"YMO",104,86,"YMO","Canada","North America",190
+"ADF",178,178,"ADF","Turkey","Europe",356
+"LCA",4884,4526,"LCA","Cyprus","Europe",9410
+"BGG",101,101,"BGG","Turkey","Europe",202
+"YJB",830,785,"YJB","Spain","Europe",1615
+"MVL",25,16,"MVL","United States","North America",41
+"GOB",4,1,"GOB","Ethiopia","Africa",5
+"TCA",16,0,"TCA","Australia","Australasia",16
+"NOP",80,80,"NOP","Turkey","Europe",160
+"KCO",51,51,"KCO","Turkey","Europe",102
+"KNX",175,53,"KNX","Australia","Australasia",228
+"CAK",2314,3264,"CAK","United States","North America",5578
+"NAJ",62,12,"NAJ","Azerbaijan","Asia",74
+"YHY",190,167,"YHY","Canada","North America",357
+"USQ",26,26,"USQ","Turkey","Europe",52
+"AUQ",71,143,"AUQ","French Polynesia","Australasia",214
+"MNG",117,2,"MNG","Australia","Australasia",119
+"MIM",143,140,"MIM","Australia","Australasia",283
+"TRG",939,978,"TRG","New Zealand","Australasia",1917
+"GKW",1,1,"GKW","China","Asia",2
+"TIH",165,0,"TIH","French Polynesia","Australasia",165
+"TLJ",14,0,"TLJ","United States","North America",14
+"MNC",15,14,"MNC","Mozambique","Africa",29
+"IDR",600,616,"IDR","India","Asia",1216
+"NLD",292,287,"NLD","Mexico","North America",579
+"LWE",12,12,"LWE","Indonesia","Asia",24
+"HRL",752,1050,"HRL","United States","North America",1802
+"LRV",36,36,"LRV","Venezuela","South America",72
+"QJZ",171,148,"QJZ","France","Europe",319
+"HNH",209,224,"HNH","United States","North America",433
+"YST",33,38,"YST","Canada","North America",71
+"QXG",152,129,"QXG","France","Europe",281
+"XRF",44,58,"XRF","France","Europe",102
+"XIZ",37,107,"XIZ","France","Europe",144
+"RKZ",9,8,"RKZ","China","Asia",17
+"RFD",472,482,"RFD","United States","North America",954
+"XHK",42,55,"XHK","France","Europe",97
+"PHC",480,470,"PHC","Nigeria","Africa",950
+"ACV",310,509,"ACV","United States","North America",819
+"ZUJ",82,76,"ZUJ","China","Asia",158
+"GEA",346,355,"GEA","New Caledonia","Australasia",701
+"MFE",2744,2179,"MFE","United States","North America",4923
+"ZLN",119,124,"ZLN","France","Europe",243
+"XSH",94,76,"XSH","France","Europe",170
+"KDL",67,67,"KDL","Estonia","Europe",134
+"MEE",69,66,"MEE","New Caledonia","Australasia",135
+"QXB",23,32,"QXB","France","Europe",55
+"SZA",27,12,"SZA","Angola","Africa",39
+"ISB",2272,2451,"ISB","Pakistan","Asia",4723
+"HJJ",76,74,"HJJ","China","Asia",150
+"VSA",3013,2535,"VSA","Mexico","North America",5548
+"DSE",8,19,"DSE","Ethiopia","Africa",27
+"JMS",152,1,"JMS","United States","North America",153
+"CMX",83,194,"CMX","United States","North America",277
+"EAU",73,245,"EAU","United States","North America",318
+"JIK",34,34,"JIK","Greece","Europe",68
+"IEG",5,5,"IEG","Poland","Europe",10
+"NYW",30,23,"NYW","Myanmar","Asia",53
+"TCX",3,3,"TCX","Iran","Middle East",6
+"AVA",69,69,"AVA","China","Asia",138
+"SZG",3125,2933,"SZG","Austria","Europe",6058
+"UTN",257,249,"UTN","South Africa","Africa",506
+"PNI",45,114,"PNI","Micronesia","Australasia",159
+"YAP",95,16,"YAP","Micronesia","Australasia",111
+"RDD",82,138,"RDD","United States","North America",220
+"DOD",8,8,"DOD","Tanzania","Africa",16
+"OAX",1591,1465,"OAX","Mexico","North America",3056
+"CLD",60,193,"CLD","United States","North America",253
+"MNU",14,14,"MNU","Myanmar","Asia",28
+"ADB",7894,7900,"ADB","Turkey","Europe",15794
+"KOJ",2296,2174,"KOJ","Japan","Asia",4470
+"KMV",26,22,"KMV","Myanmar","Asia",48
+"EBJ",164,170,"EBJ","Denmark","Europe",334
+"SUT",4,4,"SUT","Tanzania","Africa",8
+"EZV",48,50,"EZV","Russian Federation","Asia",98
+"DWO",10,14,"DWO","Sri Lanka","Asia",24
+"GRV",83,85,"GRV","Russian Federation","Europe",168
+"KGP",9,9,"KGP","Russian Federation","Asia",18
+"KRO",26,26,"KRO","Russian Federation","Asia",52
+"QXZ",15,15,"QXZ","Austria","Europe",30
+"IGA",40,39,"IGA","Bahamas","Caribbean",79
+"EYK",93,85,"EYK","Russian Federation","Asia",178
+"SGX",7,7,"SGX","Tanzania","Africa",14
+"URS",33,30,"URS","Russian Federation","Europe",63
+"PYH",9,9,"PYH","Venezuela","South America",18
+"RNW",307,384,"RNW","United Kingdom","Europe",691
+"BNS",13,13,"BNS","Venezuela","South America",26
+"GGM",7,7,"GGM","Kenya","Africa",14
+"YRI",5,5,"YRI","Canada","North America",10
+"SOB",52,51,"SOB","Hungary","Europe",103
+"CZE",8,8,"CZE","Venezuela","South America",16
+"FOA",34,34,"FOA","United Kingdom","Europe",68
+"GLO",59,59,"GLO","United Kingdom","Europe",118
+"KWK",63,70,"KWK","United States","North America",133
+"BLK",113,111,"BLK","United Kingdom","Europe",224
+"ALH",81,69,"ALH","Australia","Australasia",150
+"ORK",1277,1346,"ORK","Ireland","Europe",2623
+"BHY",295,384,"BHY","China","Asia",679
+"ONS",42,42,"ONS","Australia","Australasia",84
+"HIS",64,64,"HIS","Australia","Australasia",128
+"PEK",35154,35893,"PEK","China","Asia",71047
+"KUH",279,296,"KUH","Japan","Asia",575
+"FVM",11,11,"FVM","Maldives","Asia",22
+"FRG",6,6,"FRG","United States","North America",12
+"HOG",963,947,"HOG","Cuba","Caribbean",1910
+"BKW",28,37,"BKW","United States","North America",65
+"REX",1309,1218,"REX","Mexico","North America",2527
+"XCH",42,40,"XCH","Christmas Island","Australasia",82
+"VVI",1805,1211,"VVI","Bolivia","South America",3016
+"REL",458,182,"REL","Argentina","South America",640
+"AMQ",160,221,"AMQ","Indonesia","Asia",381
+"CMA",32,32,"CMA","Australia","Australasia",64
+"KTM",1903,1892,"KTM","Nepal","Asia",3795
+"CUM",8,8,"CUM","Venezuela","South America",16
+"VKG",37,22,"VKG","Vietnam","Asia",59
+"UAP",191,27,"UAP","French Polynesia","Australasia",218
+"WAT",96,95,"WAT","Ireland","Europe",191
+"CED",70,66,"CED","Australia","Australasia",136
+"BOB",199,465,"BOB","French Polynesia","Australasia",664
+"RFP",774,49,"RFP","French Polynesia","Australasia",823
+"RKA",18,0,"RKA","French Polynesia","Australasia",18
+"LFQ",5,3,"LFQ","China","Asia",8
+"ARN",53149,53534,"ARN","Sweden","Europe",106683
+"TXL",33111,33663,"TXL","Germany","Europe",66774
+"RGI",151,141,"RGI","French Polynesia","Australasia",292
+"SUK",23,23,"SUK","Russian Federation","Asia",46
+"RCY",12,12,"RCY","Bahamas","Caribbean",24
+"AGB",45,45,"AGB","Germany","Europe",90
+"HSD",3,3,"HSD","China","Asia",6
+"MAU",24,84,"MAU","French Polynesia","Australasia",108
+"TKX",21,29,"TKX","French Polynesia","Australasia",50
+"QKU",7,37,"QKU","Germany","Europe",44
+"LZC",55,56,"LZC","Mexico","North America",111
+"ZSB",697,280,"ZSB","Austria","Europe",977
+"ILR",34,34,"ILR","Nigeria","Africa",68
+"WUH",6449,4161,"WUH","China","Asia",10610
+"JOS",36,34,"JOS","Nigeria","Africa",70
+"PAZ",259,252,"PAZ","Mexico","North America",511
+"SVI",7,1,"SVI","Colombia","South America",8
+"SUV",736,798,"SUV","Fiji","Australasia",1534
+"TZL",173,173,"TZL","Bosnia and Herzegovina","Europe",346
+"HLP",328,326,"HLP","Indonesia","Asia",654
+"RET",114,1,"RET","Norway","Europe",115
+"RCM",10,12,"RCM","Australia","Australasia",22
+"INI",28,28,"INI","Serbia","Europe",56
+"KME",17,17,"KME","Rwanda","Africa",34
+"YBE",8,8,"YBE","Canada","North America",16
+"HAA",1,1,"HAA","Norway","Europe",2
+"YIF",18,27,"YIF","Canada","North America",45
+"BVG",44,44,"BVG","Norway","Europe",88
+"LPM",25,25,"LPM","Vanuatu","Australasia",50
+"FRO",829,825,"FRO","Norway","Europe",1654
+"MEH",138,139,"MEH","Norway","Europe",277
+"HVG",129,129,"HVG","Norway","Europe",258
+"ZYI",336,228,"ZYI","China","Asia",564
+"YLH",55,47,"YLH","Canada","North America",102
+"SGF",3301,2143,"SGF","United States","North America",5444
+"YGJ",289,292,"YGJ","Japan","Asia",581
+"YYF",163,154,"YYF","Canada","North America",317
+"TKS",340,377,"TKS","Japan","Asia",717
+"YSO",2,97,"YSO","Canada","North America",99
+"YRG",31,31,"YRG","Canada","North America",62
+"EZE",5609,8536,"EZE","Argentina","South America",14145
+"ZRJ",59,0,"ZRJ","Canada","North America",59
+"GIB",467,427,"GIB","Gibraltar","Europe",894
+"KIF",45,46,"KIF","Canada","North America",91
+"WNN",44,39,"WNN","Canada","North America",83
+"KEW",46,46,"KEW","Canada","North America",92
+"CDP",1,1,"CDP","India","Asia",2
+"UMS",9,9,"UMS","Russian Federation","Asia",18
+"YPM",92,94,"YPM","Canada","North America",186
+"SWT",17,9,"SWT","Russian Federation","Asia",26
+"YKQ",66,66,"YKQ","Canada","North America",132
+"GST",216,200,"GST","United States","North America",416
+"YMT",28,28,"YMT","Canada","North America",56
+"YAJ",21,19,"YAJ","Canada","North America",40
+"YAC",20,21,"YAC","Canada","North America",41
+"AGN",72,72,"AGN","United States","North America",144
+"AVN",41,42,"AVN","France","Europe",83
+"UPN",80,80,"UPN","Mexico","North America",160
+"XLB",43,31,"XLB","Canada","North America",74
+"XSI",24,24,"XSI","Canada","North America",48
+"YOH",82,82,"YOH","Canada","North America",164
+"DEA",38,33,"DEA","Pakistan","Asia",71
+"YYD",162,169,"YYD","Canada","North America",331
+"YRS",84,96,"YRS","Canada","North America",180
+"YCR",24,12,"YCR","Canada","North America",36
+"YBT",19,19,"YBT","Canada","North America",38
+"YDN",24,24,"YDN","Canada","North America",48
+"RBQ",139,134,"RBQ","Bolivia","South America",273
+"UYU",130,131,"UYU","Bolivia","South America",261
+"VIO",84,84,"VIO","Spain","Europe",168
+"YZV",788,450,"YZV","Canada","North America",1238
+"DDC",33,124,"DDC","United States","North America",157
+"ZTM",49,49,"ZTM","Canada","North America",98
+"ZAC",12,12,"ZAC","Canada","North America",24
+"LBL",116,49,"LBL","United States","North America",165
+"RNG",3,3,"RNG","United States","North America",6
+"BUC",14,14,"BUC","Australia","Australasia",28
+"VOZ",237,240,"VOZ","Russian Federation","Europe",477
+"PIR",180,28,"PIR","United States","North America",208
+"FMN",95,76,"FMN","United States","North America",171
+"TVF",78,32,"TVF","United States","North America",110
+"BHQ",122,162,"BHQ","Australia","Australasia",284
+"PUB",118,54,"PUB","United States","North America",172
+"ULP",9,10,"ULP","Australia","Australasia",19
+"MQL",429,333,"MQL","Australia","Australasia",762
+"CPD",49,47,"CPD","Australia","Australasia",96
+"LSY",144,139,"LSY","Australia","Australasia",283
+"GFN",135,141,"GFN","Australia","Australasia",276
+"NTN",14,33,"NTN","Australia","Australasia",47
+"WIN",18,0,"WIN","Australia","Australasia",18
+"TIP",592,576,"TIP","Libya","Africa",1168
+"HGD",22,22,"HGD","Australia","Australasia",44
+"MGB",266,255,"MGB","Australia","Australasia",521
+"YZR",156,152,"YZR","Canada","North America",308
+"DRK",62,67,"DRK","Costa Rica","Central America",129
+"NLK",66,61,"NLK","Norfolk Island","Australasia",127
+"YFJ",24,24,"YFJ","Canada","North America",48
+"FYG",44,48,"FYG","China","Asia",92
+"SIS",69,72,"SIS","South Africa","Africa",141
+"RII",4,16,"RII","Spain","Europe",20
+"YKT",26,26,"YKT","Canada","North America",52
+"YLE",24,24,"YLE","Canada","North America",48
+"CNQ",57,26,"CNQ","Argentina","South America",83
+"CHT",49,49,"CHT","New Zealand","Australasia",98
+"LNS",127,108,"LNS","United States","North America",235
+"SJJ",1530,1572,"SJJ","Bosnia and Herzegovina","Europe",3102
+"YEK",116,133,"YEK","Canada","North America",249
+"ADK",61,63,"ADK","United States","North America",124
+"OHD",31,37,"OHD","Macedonia","Europe",68
+"ESL",12,13,"ESL","Russian Federation","Europe",25
+"PRH",14,14,"PRH","Thailand","Asia",28
+"YOC",21,20,"YOC","Canada","North America",41
+"UNN",24,24,"UNN","Thailand","Asia",48
+"TDG",26,26,"TDG","Philippines","Asia",52
+"SLC",55490,35948,"SLC","United States","North America",91438
+"FUN",34,34,"FUN","Tuvalu","Australasia",68
+"LGQ",24,24,"LGQ","Ecuador","South America",48
+"RMI",122,113,"RMI","Italy","Europe",235
+"MBI",32,32,"MBI","Tanzania","Africa",64
+"BDO",470,476,"BDO","Indonesia","Asia",946
+"JJG",20,18,"JJG","Brazil","South America",38
+"YTL",53,94,"YTL","Canada","North America",147
+"QJI",27,0,"QJI","Greenland","North America",27
+"NRE",3,3,"NRE","Indonesia","Asia",6
+"BPX",30,36,"BPX","China","Asia",66
+"EJN",7,15,"EJN","China","Asia",22
+"OGD",77,77,"OGD","United States","North America",154
+"PRI",333,403,"PRI","Seychelles","Africa",736
+"TVX",41,74,"TVX","China","Asia",115

@@ -1,0 +1,224 @@
+"countryName","departureCount","arrivalCount","totalCount"
+"United States",2898513,2899534,5798047
+"United Kingdom",310567,332644,643211
+"Germany",295395,297758,593153
+"China",292845,289569,582414
+"Spain",289820,280606,570426
+"Canada",266609,256994,523603
+"Mexico",182573,185492,368065
+"France",174725,173407,348132
+"Italy",167390,166147,333537
+"Australia",163591,163350,326941
+"Turkey",159157,158316,317473
+"Brazil",139158,137841,276999
+"Norway",125018,125066,250084
+"Sweden",114927,114692,229619
+"Japan",98870,95788,194658
+"Russian Federation",77551,77815,155366
+"Saudi Arabia",73797,73074,146871
+"Colombia",72734,72863,145597
+"Switzerland",72173,72378,144551
+"New Zealand",60266,60671,120937
+"Portugal",55466,55275,110741
+"Austria",55040,54442,109482
+"Chile",54848,54153,109001
+"India",54080,54077,108157
+"Peru",53300,53410,106710
+"South Africa",53074,53330,106404
+"Netherlands",47851,47960,95811
+"Denmark",47937,47828,95765
+"Argentina",41633,46545,88178
+"United Arab Emirates",42277,42113,84390
+"Greece",42652,39976,82628
+"Belgium",40374,41978,82352
+"Morocco",36421,35244,71665
+"Poland",36515,32818,69333
+"South Korea",32725,32319,65044
+"Hong Kong",32543,31495,64038
+"Taiwan",25559,36652,62211
+"Thailand",29809,29185,58994
+"Egypt",29681,28757,58438
+"Finland",29314,28859,58173
+"Indonesia",29050,28706,57756
+"Vietnam",27903,27478,55381
+"Ireland",20974,30591,51565
+"Iran",23505,23549,47054
+"Israel",22923,23068,45991
+"Malaysia",22070,21965,44035
+"Qatar",21888,21730,43618
+"Philippines",18899,18803,37702
+"Singapore",16246,16339,32585
+"Czech Republic",15825,15434,31259
+"Jordan",14953,15225,30178
+"Panama",15012,14730,29742
+"Algeria",13811,13821,27632
+"Romania",14069,13385,27454
+"Tunisia",12899,12753,25652
+"Dominican Republic",12730,11433,24163
+"Pakistan",11654,12041,23695
+"Kazakhstan",11372,11367,22739
+"Croatia",10891,10820,21711
+"Latvia",11124,10151,21275
+"Ukraine",10545,10475,21020
+"Greenland",10340,10262,20602
+"Cuba",10330,9676,20006
+"Costa Rica",10342,9320,19662
+"Hungary",9985,9629,19614
+"Oman",9685,9793,19478
+"Sri Lanka",9329,9493,18822
+"Cyprus",9652,9105,18757
+"Bulgaria",9370,9090,18460
+"Kuwait",8272,8211,16483
+"Serbia",7911,7900,15811
+"Bahamas",7806,7314,15120
+"Bahrain",7510,7478,14988
+"Ecuador",7386,7578,14964
+"Iceland",6670,6871,13541
+"Iraq",6760,6769,13529
+"Kenya",6847,6583,13430
+"Nigeria",6478,6661,13139
+"Lebanon",6290,6426,12716
+"Malta",5862,5493,11355
+"Macau",5628,5582,11210
+"El Salvador",5327,5379,10706
+"Jamaica",5353,5287,10640
+"Uzbekistan",4945,5049,9994
+"Lithuania",5209,4647,9856
+"Mauritius",4946,4904,9850
+"Luxembourg",4819,4974,9793
+"Myanmar",4833,4695,9528
+"Slovenia",4763,4738,9501
+"Ethiopia",4567,4902,9469
+"Fiji",4621,4721,9342
+"Venezuela",4567,4489,9056
+"Estonia",4499,4525,9024
+"Bolivia",4409,4155,8564
+"Guadeloupe",4394,4000,8394
+"French Polynesia",4059,4010,8069
+"Belize",3846,4001,7847
+"Tanzania",3888,3797,7685
+"Papua New Guinea",3732,3729,7461
+"Bangladesh",3709,3652,7361
+"Cape Verde",3722,3422,7144
+"Honduras",3859,3169,7028
+"Cambodia",3320,3140,6460
+"Sint Maarten",3624,2732,6356
+"Belarus",3165,3177,6342
+"Madagascar",3159,3118,6277
+"Azerbaijan",3194,3076,6270
+"Zambia",3149,3067,6216
+"Guatemala",2964,2937,5901
+"Reunion",2941,2888,5829
+"Aruba",2674,2872,5546
+"Maldives",2668,2636,5304
+"Uruguay",2919,2320,5239
+"Trinidad and Tobago",3078,2090,5168
+"Albania",2538,2458,4996
+"Slovakia",2628,2241,4869
+"Georgia",2391,2356,4747
+"Nepal",2314,2326,4640
+"Vanuatu",2295,2270,4565
+"Sudan",2197,2194,4391
+"Nicaragua",2128,2197,4325
+"Senegal",2239,2057,4296
+"Turks and Caicos Islands",2402,1856,4258
+"Ghana",2110,2103,4213
+"Montenegro",2103,2061,4164
+"Kyrgyzstan",2054,2025,4079
+"Mozambique",2036,2025,4061
+"Bosnia and Herzegovina",1794,1832,3626
+"Cayman Islands",1687,1867,3554
+"Moldova",1732,1718,3450
+"Cameroon",1775,1580,3355
+"Namibia",1681,1614,3295
+"Curacao",1623,1628,3251
+"Zimbabwe",1586,1653,3239
+"Macedonia",1566,1562,3128
+"Angola",1549,1492,3041
+"Tajikistan",1540,1490,3030
+"Martinique",1421,1596,3017
+"Libya",1445,1399,2844
+"Armenia",1416,1361,2777
+"Democratic Republic of the Congo",1396,1359,2755
+"Solomon Islands",1383,1370,2753
+"Seychelles",1357,1388,2745
+"New Caledonia",1371,1353,2724
+"Barbados",1322,1390,2712
+"Monaco",1248,1261,2509
+"Antigua and Barbuda",1137,1349,2486
+"Haiti",1315,1144,2459
+"Uganda",1202,1173,2375
+"Congo",1244,1107,2351
+"Brunei Darussalam",1141,1079,2220
+"Paraguay",1151,986,2137
+"Laos",1093,1026,2119
+"Botswana",1049,1012,2061
+"Saint Lucia",1259,787,2046
+"Ivory Coast (Cote d'Ivoire)",987,1020,2007
+"Turkmenistan",977,986,1963
+"British Virgin Islands",947,1010,1957
+"Afghanistan",972,981,1953
+"Mongolia",879,921,1800
+"Yemen",916,867,1783
+"Western Samoa",852,841,1693
+"Bonaire, Saint Eustatius & Saba",756,851,1607
+"Cook Islands",763,776,1539
+"Wallis and Futuna Islands",768,767,1535
+"Gabon",844,659,1503
+"Malawi",714,764,1478
+"Bermuda",626,751,1377
+"Mayotte",632,665,1297
+"Burkina Faso",719,575,1294
+"Mali",645,604,1249
+"Palau",625,504,1129
+"Rwanda",682,447,1129
+"Niger",616,498,1114
+"Mauritania",627,486,1113
+"Togo",557,545,1102
+"Saint Kitts and Nevis",563,518,1081
+"Benin",515,535,1050
+"Guyana",286,637,923
+"Djibouti",481,431,912
+"Gambia",481,428,909
+"Comoros",391,508,899
+"Gibraltar",467,427,894
+"Equatorial Guinea",439,390,829
+"Somalia",378,400,778
+"Tonga",384,377,761
+"Guinea",363,393,756
+"Grenada and South Grenadines",384,358,742
+"South Sudan",389,350,739
+"Chad",341,335,676
+"Bhutan",330,308,638
+"Guinea Bissau",315,284,599
+"Dominica",280,269,549
+"Micronesia",329,211,540
+"Western Sahara",256,250,506
+"Syria",232,221,453
+"Liberia",289,148,437
+"Suriname",203,232,435
+"Sierra Leone",198,189,387
+"Anguilla",187,187,374
+"Puerto Rico",187,166,353
+"Kiribati",176,124,300
+"Burundi",97,173,270
+"Marshall Islands",133,133,266
+"Central African Republic",117,143,260
+"French Guiana",123,130,253
+"Saint Pierre and Miquelon",125,123,248
+"Sao Tome and Principe",121,114,235
+"East Timor",103,96,199
+"Eritrea",81,78,159
+"North Korea",69,69,138
+"Norfolk Island",66,61,127
+"Montserrat",65,57,122
+"Lesotho",59,61,120
+"Saint Vincent and Grenadines",84,28,112
+"Saint Helena",53,53,106
+"Swaziland",49,49,98
+"Christmas Island",42,40,82
+"Nauru",33,35,68
+"Tuvalu",34,34,68
+"Niue",31,34,65
+"Falkland Islands",26,27,53
+"Cocos (Keeling) Islands",22,23,45
