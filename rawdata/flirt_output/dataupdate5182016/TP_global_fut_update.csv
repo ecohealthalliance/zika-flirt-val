@@ -1,0 +1,270 @@
+Origin,"Origin Name","Origin City","Origin State","Origin Country",Destination,"Destination Name","Destination City","Destination State","Destination Country","Direct Flights","Total Seats"
+BOG,"El Dorado Intl",Bogota,,Colombia,MDE,"Jose Marie Cordova",Medellin,,Colombia,963,2029344
+BOG,"El Dorado Intl",Bogota,,Colombia,CLO,"Alfonso B Aragon International",Cali,,Colombia,900,1700692
+BOG,"El Dorado Intl",Bogota,,Colombia,CTG,"Rafael Nunez International",Cartagena,,Colombia,669,1499311
+BOG,"El Dorado Intl",Bogota,,Colombia,BAQ,"Ernesto Cortissoz International",Barranquilla,,Colombia,542,1189250
+CCS,"Simon Bolivar International",Caracas,,Venezuela,PMV,"Del Caribe International",Porlamar,,Venezuela,125,837987
+BOG,"El Dorado Intl",Bogota,,Colombia,BGA,"Palonegro International",Bucaramanga,,Colombia,347,720642
+BOG,"El Dorado Intl",Bogota,,Colombia,SMR,"Simon Bolivar Intl","Santa Marta",,Colombia,251,697118
+BOG,"El Dorado Intl",Bogota,,Colombia,ADZ,"Gustavo R. Pinilla Int","San Andres Island",,Colombia,141,673971
+BOG,"El Dorado Intl",Bogota,,Colombia,LIM,"Jorge Chavez Intl",Lima,,Peru,95,672628
+BOG,"El Dorado Intl",Bogota,,Colombia,PEI,"Matecana International",Pereira,,Colombia,342,605741
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MAR,"La Chinita International",Maracaibo,,Venezuela,65,594223
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,POA,"Salgado Filho Intl","Porto Alegre",RS,Brazil,121,557083
+BOG,"El Dorado Intl",Bogota,,Colombia,CUC,"Camilo Daza",Cucuta,,Colombia,242,551966
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CWB,"Afonso Pena International",Curitiba,PR,Brazil,117,508663
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,SSA,"Luis E. Magalhaes Intl",Salvador,BA,Brazil,120,490564
+BOG,"El Dorado Intl",Bogota,,Colombia,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,151,450449
+CCS,"Simon Bolivar International",Caracas,,Venezuela,PZO,"Manuel Carlos Piar","Puerto Ordaz",,Venezuela,54,423599
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,SCL,"Arturo M Benitez",Santiago,,Chile,168,408574
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CNF,"Tancredo Never International","Belo Horizonte",MG,Brazil,110,398364
+BOG,"El Dorado Intl",Bogota,,Colombia,MTR,"Los Garzones",Monteria,,Colombia,148,392655
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,FOR,"Pinto Martins International",Fortaleza,CE,Brazil,99,382435
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,SDU,"Santos Dumont","Rio de Janeiro-Santos",RJ,Brazil,85,367444
+BOG,"El Dorado Intl",Bogota,,Colombia,CCS,"Simon Bolivar International",Caracas,,Venezuela,37,364986
+CCS,"Simon Bolivar International",Caracas,,Venezuela,BOG,"El Dorado Intl",Bogota,,Colombia,36,356990
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,GIG,"Galeao-A.C.Jobim Intl","Rio De Janeiro",RJ,Brazil,73,350879
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BSB,"J. Kubitschek Intl",Brasilia,DF,Brazil,82,345741
+BOG,"El Dorado Intl",Bogota,,Colombia,SCL,"Arturo M Benitez",Santiago,,Chile,35,342211
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,REC,"Guararapes International",Recife,PE,Brazil,91,341355
+CCS,"Simon Bolivar International",Caracas,,Venezuela,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,66,333134
+CCS,"Simon Bolivar International",Caracas,,Venezuela,BLA,"J.A. Anzoategui Intl",Barcelona,,Venezuela,55,332605
+CCS,"Simon Bolivar International",Caracas,,Venezuela,BRM,"Jacinto Lara Intl",Barquisimeto,,Venezuela,32,298737
+BOG,"El Dorado Intl",Bogota,,Colombia,VUP,"Alfonso Lopez Pumarejo",Valledupar,,Colombia,86,297721
+BOG,"El Dorado Intl",Bogota,,Colombia,AXM,"El Eden International",Armenia,,Colombia,131,285104
+CCS,"Simon Bolivar International",Caracas,,Venezuela,AUA,"Reina Beatrix",Aruba,,Aruba,35,283015
+BOG,"El Dorado Intl",Bogota,,Colombia,MZL,"La Nubia",Manizales,,Colombia,82,278204
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MIA,"Miami International",Miami,FL,"United States",58,274403
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,FLN,"Hercilio Luz International",Florianopolis,SC,Brazil,52,268782
+BOG,"El Dorado Intl",Bogota,,Colombia,EYP,"El Alcaravan",Yopal,,Colombia,82,267818
+BOG,"El Dorado Intl",Bogota,,Colombia,NVA,"Benito Salas",Neiva,,Colombia,123,266874
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",GUA,"La Aurora International","Guatemala City",,Guatemala,89,266296
+CCS,"Simon Bolivar International",Caracas,,Venezuela,VIG,"Juan P. Perez Alfonso","El Vigia",,Venezuela,34,244669
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CDG,"Charles De Gaulle","Paris-De Gaulle",,France,30,237513
+BOG,"El Dorado Intl",Bogota,,Colombia,CUN,"Cancun International",Cancun,,Mexico,41,231602
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,VIX,"E. de Aguiar Salles",Vitoria,ES,Brazil,53,231408
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",LIM,"Jorge Chavez Intl",Lima,,Peru,28,231297
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MUN,"Jose T. Monagas International",Maturin,,Venezuela,32,228940
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,EZE,"Ministro Pistarini","Buenos Aires",BA,Argentina,56,220070
+BOG,"El Dorado Intl",Bogota,,Colombia,MIA,"Miami International",Miami,FL,"United States",46,216390
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MCZ,"Zumbi dos Palmares Int",Maceio,AL,Brazil,51,216245
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AEP,"Jorge Newbery","Buenos Aires-Newbery",BA,Argentina,224,213014
+BOG,"El Dorado Intl",Bogota,,Colombia,PSO,"Antonio Narino",Pasto,,Colombia,104,211504
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,22,205840
+BOG,"El Dorado Intl",Bogota,,Colombia,MEX,"Benito Juarez Intl","Mexico City",,Mexico,143,203880
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",SJO,"Juan Santamaria Intl","San Jose",,"Costa Rica",106,201826
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CGB,"Marechal Rondon Intl",Cuiaba,MT,Brazil,35,196431
+BOG,"El Dorado Intl",Bogota,,Colombia,GYE,"Jose Joaquin de Olmedo",Guayaquil,,Ecuador,38,193620
+BOG,"El Dorado Intl",Bogota,,Colombia,UIO,"Mariscal Sucre Intl",Quito,,Ecuador,102,191993
+CCS,"Simon Bolivar International",Caracas,,Venezuela,STD,"Buenaventura Vivas","Santo Domingo",,Venezuela,37,185451
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",72,183585
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,GYN,"Santa Genoveva",Goiania,GO,Brazil,53,183092
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,NAT,"Natal International",Natal,RN,Brazil,34,171808
+BOG,"El Dorado Intl",Bogota,,Colombia,GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,47,170016
+BOG,"El Dorado Intl",Bogota,,Colombia,LET,"Alfredo V. Cobb Intl",Leticia,,Colombia,37,166427
+BOG,"El Dorado Intl",Bogota,,Colombia,EOH,"Enrique Olaya Herrera",Medellin,,Colombia,76,159845
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BEL,"Val de Cans Intl",Belem,PA,Brazil,30,157169
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",PTY,"Tocumen Intl, Panama R","Panama City",,Panama,58,155202
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BOG,"El Dorado Intl",Bogota,,Colombia,40,154704
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IGU,"Cataratas International","Foz do Iguacu",PR,Brazil,28,152185
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",TGU,"Toncontin Intl",Tegucigalpa,,Honduras,35,151400
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,FRA,"Frankfurt International Airport",Frankfurt,,Germany,7,143974
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MAO,"Eduardo Gomes Intl",Manaus,AM,Brazil,29,139256
+BOG,"El Dorado Intl",Bogota,,Colombia,SJO,"Juan Santamaria Intl","San Jose",,"Costa Rica",14,134400
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,47,133634
+BOG,"El Dorado Intl",Bogota,,Colombia,IBE,Perales,Ibague,,Colombia,63,131896
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LHR,Heathrow,London-Heathrow,EN,"United Kingdom",29,131010
+BOG,"El Dorado Intl",Bogota,,Colombia,PUJ,"Punta Cana International","Punta Cana",,"Dominican Republic",42,129251
+CCS,"Simon Bolivar International",Caracas,,Venezuela,SDQ,"Las Americas International","Santo Domingo",,"Dominican Republic",10,125507
+BOG,"El Dorado Intl",Bogota,,Colombia,SAL,"El Salvador Intl","San Salvador",,"El Salvador",38,124572
+BOG,"El Dorado Intl",Bogota,,Colombia,RCH,"Almirante Padilla",Riohacha,,Colombia,51,124280
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",BOG,"El Dorado Intl",Bogota,,Colombia,39,122824
+BOG,"El Dorado Intl",Bogota,,Colombia,MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,21,122378
+CCS,"Simon Bolivar International",Caracas,,Venezuela,LIM,"Jorge Chavez Intl",Lima,,Peru,20,117931
+BOG,"El Dorado Intl",Bogota,,Colombia,SDQ,"Las Americas International","Santo Domingo",,"Dominican Republic",18,115740
+BOG,"El Dorado Intl",Bogota,,Colombia,FLA,"Gustavo A. Paredes",Florencia,,Colombia,29,115396
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CGR,"Campo Grande International","Campo Grande",MS,Brazil,25,112453
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,32,112059
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",65,111747
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AJU,"Santa Maria",Aracaju,SE,Brazil,23,111011
+BOG,"El Dorado Intl",Bogota,,Colombia,PPN,"Guillermo L. Valencia",Popayan,,Colombia,28,110628
+BOG,"El Dorado Intl",Bogota,,Colombia,EJA,Yariguies,Barrancabermeja,,Colombia,35,109300
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MEX,"Benito Juarez Intl","Mexico City",,Mexico,93,108794
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",MGA,"Augusto C Sandino Intl",Managua,,Nicaragua,53,106224
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LIM,"Jorge Chavez Intl",Lima,,Peru,43,105150
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,TGU,"Toncontin Intl",Tegucigalpa,,Honduras,37,104224
+BOG,"El Dorado Intl",Bogota,,Colombia,EZE,"Ministro Pistarini","Buenos Aires",BA,Argentina,23,102870
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MVD,Carrasco,Montevideo,,Uruguay,41,100307
+CCS,"Simon Bolivar International",Caracas,,Venezuela,LSP,"Josefa Camejo International","Las Piedras",,Venezuela,16,99759
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,NVT,"Victor Konder Intl",Navegantes,SC,Brazil,21,98836
+CCS,"Simon Bolivar International",Caracas,,Venezuela,EZE,"Ministro Pistarini","Buenos Aires",BA,Argentina,35,94466
+BOG,"El Dorado Intl",Bogota,,Colombia,FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",23,93868
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,SAL,"El Salvador Intl","San Salvador",,"El Salvador",45,92796
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MIA,"Miami International",Miami,FL,"United States",36,91923
+BOG,"El Dorado Intl",Bogota,,Colombia,VVC,Vanguardia,Villavicencio,,Colombia,36,91813
+CCS,"Simon Bolivar International",Caracas,,Venezuela,POS,"Piarco International","Port of Spain",,"Trinidad and Tobago",8,91544
+BOG,"El Dorado Intl",Bogota,,Colombia,UIB,"El Carano",Quibdo,,Colombia,48,88300
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,MIA,"Miami International",Miami,FL,"United States",47,86926
+BOG,"El Dorado Intl",Bogota,,Colombia,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",20,84006
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ASU,"Silvio Pettirossi Intl",Asuncion,,Paraguay,39,83665
+CCS,"Simon Bolivar International",Caracas,,Venezuela,CUR,"Hato International",Curacao,,Curacao,40,83570
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",MIA,"Miami International",Miami,FL,"United States",48,82398
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JPA,"Castro Pinto International","Joao Pessoa",PB,Brazil,28,81237
+BOG,"El Dorado Intl",Bogota,,Colombia,MCO,"Orlando Intl",Orlando,FL,"United States",19,81210
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LAX,"Los Angeles Intl","Los Angeles",CA,"United States",9,76148
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,GUA,"La Aurora International","Guatemala City",,Guatemala,22,76022
+BOG,"El Dorado Intl",Bogota,,Colombia,BLB,"Panama Pacifico",Balboa,,Panama,9,74285
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,RTB,"Juan Manuel Galvez",Roatan,,Honduras,35,74172
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",MEX,"Benito Juarez Intl","Mexico City",,Mexico,35,73896
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,YYZ,"Lester B. Pearson Intl",Toronto,ON,Canada,15,73642
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,RAO,"Leite Lopes","Ribeirao Preto",SP,Brazil,19,73280
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,SLZ,"Cunha Machado Intl","Sao Luiz",MA,Brazil,34,72617
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BPS,"Porto Seguro","Porto Seguro",BA,Brazil,27,72400
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,28,71520
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LIS,Lisboa,Lisbon,,Portugal,37,70994
+BOG,"El Dorado Intl",Bogota,,Colombia,AUC,"Santiago Perez Quiroz",Arauca,,Colombia,50,70614
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",LAX,"Los Angeles Intl","Los Angeles",CA,"United States",24,66717
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,DOH,"Hamad International Airport",Doha,,Qatar,5,66045
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MCO,"Orlando Intl",Orlando,FL,"United States",22,63736
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,DXB,"Dubai International",Dubai,,"United Arab Emirates",3,61725
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MXP,Malpensa,Milan-Malpensa,,Italy,30,61663
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IST,Ataturk,Istanbul,,Turkey,7,61455
+BOG,"El Dorado Intl",Bogota,,Colombia,PUU,"Tres de Mayo","Puerto Asis",,Colombia,42,60229
+BOG,"El Dorado Intl",Bogota,,Colombia,GUA,"La Aurora International","Guatemala City",,Guatemala,23,59790
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MGF,"Silvio Name Jr.",Maringa,PR,Brazil,12,59514
+CCS,"Simon Bolivar International",Caracas,,Venezuela,CUM,"Antonio Jose de Sucre",Cumana,,Venezuela,5,59211
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",MDE,"Jose Marie Cordova",Medellin,,Colombia,11,59022
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,DFW,"Dallas/Ft Worth Intl","Dallas/Fort Worth",TX,"United States",10,55650
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,FCO,Fiumicino,"Rome-Da Vinci",,Italy,7,53033
+CCS,"Simon Bolivar International",Caracas,,Venezuela,PUJ,"Punta Cana International","Punta Cana",,"Dominican Republic",14,52747
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",IAD,"Dulles International",Washington-Dulles,VA,"United States",18,51430
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,UDI,"Cesar Bombonato",Uberlandia,MG,Brazil,9,50908
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JNB,"O.R. Tambo International Airport",Johannesburg,,"South Africa",70,49537
+BOG,"El Dorado Intl",Bogota,,Colombia,LHR,Heathrow,London-Heathrow,EN,"United Kingdom",18,48684
+BOG,"El Dorado Intl",Bogota,,Colombia,VLN,"Arturo Michelena Intl",Valencia,,Venezuela,6,47376
+CCS,"Simon Bolivar International",Caracas,,Venezuela,CDG,"Charles De Gaulle","Paris-De Gaulle",,France,23,47024
+BOG,"El Dorado Intl",Bogota,,Colombia,SJU,"Luis Munoz Marin Int","San Juan",PR,"United States",22,45840
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JOI,"Lauro Carneiro Loyola",Joinville,SC,Brazil,18,45236
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LDB,"Jose Richa",Londrina,PR,Brazil,16,45033
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",RTB,"Juan Manuel Galvez",Roatan,,Honduras,8,44268
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",DFW,"Dallas/Ft Worth Intl","Dallas/Fort Worth",TX,"United States",26,43322
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,THE,"Petronio Portella",Teresina,PI,Brazil,13,43077
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",UIO,"Mariscal Sucre Intl",Quito,,Ecuador,12,42750
+BOG,"El Dorado Intl",Bogota,,Colombia,HAV,"Jose Marti Intl",Havana,,Cuba,41,42629
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",GYE,"Jose Joaquin de Olmedo",Guayaquil,,Ecuador,8,42504
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,PTY,"Tocumen Intl, Panama R","Panama City",,Panama,28,42016
+CCS,"Simon Bolivar International",Caracas,,Venezuela,LRV,"Los Roques","Los Roques",,Venezuela,25,41807
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",35,41755
+CCS,"Simon Bolivar International",Caracas,,Venezuela,GYE,"Jose Joaquin de Olmedo",Guayaquil,,Ecuador,15,40650
+BOG,"El Dorado Intl",Bogota,,Colombia,LAX,"Los Angeles Intl","Los Angeles",CA,"United States",17,39368
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CAC,"A.Mendes da Silva",Cascavel,PR,Brazil,8,39058
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",7,38982
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",BZE,"Belize International","Belize City",,Belize,14,38394
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PPB,"Presidente Prudente","Presidente Prudente",SP,Brazil,4,38226
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,VVI,"Viru Viru Intl","Santa Cruz-Viru Viru",,Bolivia,3,37614
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",CLO,"Alfonso B Aragon International",Cali,,Colombia,12,36576
+BOG,"El Dorado Intl",Bogota,,Colombia,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",22,35578
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JTC,"Moussa Nakhl Tobias",Bauru,SP,Brazil,5,35448
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",27,35394
+CCS,"Simon Bolivar International",Caracas,,Venezuela,BNS,"Barinas Civil",Barinas,,Venezuela,7,33827
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MUC,"Franz Josef Strauss International",Munich,,Germany,12,33245
+BOG,"El Dorado Intl",Bogota,,Colombia,CDG,"Charles De Gaulle","Paris-De Gaulle",,France,8,33000
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AMS,Schiphol,Amsterdam,,Netherlands,3,32760
+BOG,"El Dorado Intl",Bogota,,Colombia,BCN,Barcelona,Barcelona,,Spain,14,32556
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",YYZ,"Lester B. Pearson Intl",Toronto,ON,Canada,15,32010
+BOG,"El Dorado Intl",Bogota,,Colombia,VGZ,Villagarzon,Villagarzon,,Colombia,7,31393
+BOG,"El Dorado Intl",Bogota,,Colombia,PCR,"German Olano","Puerto Carreno",,Colombia,30,30832
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,COR,"Pajas Blancas",Cordoba,CD,Argentina,7,30726
+BOG,"El Dorado Intl",Bogota,,Colombia,CUR,"Hato International",Curacao,,Curacao,33,30580
+BOG,"El Dorado Intl",Bogota,,Colombia,CZU,"Las Brujas",Corozal,,Colombia,21,29698
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CMN,"Mohammed V",Casablanca,,Morocco,11,28800
+CCS,"Simon Bolivar International",Caracas,,Venezuela,HAV,"Jose Marti Intl",Havana,,Cuba,17,28608
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MEX,"Benito Juarez Intl","Mexico City",,Mexico,35,28127
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ZRH,Zurich,Zurich,,Switzerland,7,28032
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BCN,Barcelona,Barcelona,,Spain,6,27646
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,EWR,"Newark Intl",Newark,NJ,"United States",5,27346
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AUH,"Abu Dhabi Intl","Abu Dhabi",,"United Arab Emirates",3,27320
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ROS,"Islas Malvinas",Rosario,SF,Argentina,8,26814
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",11,25534
+BOG,"El Dorado Intl",Bogota,,Colombia,AUA,"Reina Beatrix",Aruba,,Aruba,21,25168
+CCS,"Simon Bolivar International",Caracas,,Venezuela,SOM,"San Tome","San Tome",,Venezuela,6,24752
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",LIR,"D. Oduber Quiros Intl",Liberia,,"Costa Rica",9,24616
+BOG,"El Dorado Intl",Bogota,,Colombia,BUN,"Gerardo Tobar Lopez",Buenaventura,,Colombia,7,23075
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,JDO,"O. Bezerra de Menezes","Juazeiro Do Norte",CE,Brazil,2,23046
+BOG,"El Dorado Intl",Bogota,,Colombia,FRA,"Frankfurt International Airport",Frankfurt,,Germany,3,22676
+BOG,"El Dorado Intl",Bogota,,Colombia,LPB,"El Alto International","La Paz",,Bolivia,8,22320
+BOG,"El Dorado Intl",Bogota,,Colombia,IAD,"Dulles International",Washington-Dulles,VA,"United States",8,22320
+BOG,"El Dorado Intl",Bogota,,Colombia,YYZ,"Lester B. Pearson Intl",Toronto,ON,Canada,7,22095
+CCS,"Simon Bolivar International",Caracas,,Venezuela,PYH,"Cacique Aramare","Puerto Ayacucho",,Venezuela,6,21944
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,DTW,"Metropolitan Wayne County",Detroit,MI,"United States",12,21828
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IAD,"Dulles International",Washington-Dulles,VA,"United States",5,21435
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ORD,"O'Hare International",Chicago-O'Hare,IL,"United States",4,21149
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",26,20542
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PUJ,"Punta Cana International","Punta Cana",,"Dominican Republic",9,20355
+BOG,"El Dorado Intl",Bogota,,Colombia,TCO,"La Florida",Tumaco,,Colombia,14,19843
+CCS,"Simon Bolivar International",Caracas,,Venezuela,CZE,"Jose Leonardo Chirinos",Coro,,Venezuela,6,19794
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",12,19589
+BOG,"El Dorado Intl",Bogota,,Colombia,SJE,"Jorge E. Gonzalez T.","San Jose Del Guaviar",,Colombia,17,18873
+BOG,"El Dorado Intl",Bogota,,Colombia,PDA,Obando,"Puerto Inirida",,Colombia,21,18756
+CCS,"Simon Bolivar International",Caracas,,Venezuela,GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,8,18681
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,SJP,"Eribelto Manoel Reino","Sao Jose do Rio Preto",SP,Brazil,3,18291
+BOG,"El Dorado Intl",Bogota,,Colombia,EWR,"Newark Intl",Newark,NJ,"United States",8,18276
+BOG,"El Dorado Intl",Bogota,,Colombia,APO,"Carepa-A.R. Betancourt",Apartado,,Colombia,7,17797
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",FLL,"Ft Lauderdale Intl","Fort Lauderdale",FL,"United States",7,17690
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CCS,"Simon Bolivar International",Caracas,,Venezuela,6,17115
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IOS,"Jorge Amado",Ilheus,BA,Brazil,2,17110
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",HAV,"Jose Marti Intl",Havana,,Cuba,11,16734
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",MAD,"Adolfo Suarez-Barajas",Madrid,,Spain,15,16729
+CCS,"Simon Bolivar International",Caracas,,Venezuela,FRA,"Frankfurt International Airport",Frankfurt,,Germany,4,16704
+BOG,"El Dorado Intl",Bogota,,Colombia,RVE,"Los Colonizadores",Saravena,,Colombia,12,16672
+BOG,"El Dorado Intl",Bogota,,Colombia,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",32,16189
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",SFO,"San Francisco Intl","San Francisco",CA,"United States",8,15960
+CCS,"Simon Bolivar International",Caracas,,Venezuela,FCO,Fiumicino,"Rome-Da Vinci",,Italy,4,15799
+CCS,"Simon Bolivar International",Caracas,,Venezuela,IAH,"George Bush Intercontinental",Houston-Intercontinental,TX,"United States",8,15779
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PLU,Pampulha,"Belo Horizonte",MG,Brazil,3,14770
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,LAD,"4 De Fevereiro",Luanda,,Angola,1,14045
+CCS,"Simon Bolivar International",Caracas,,Venezuela,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",6,13962
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",41,13860
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,DOU,"F. de Matos Pereira",Dourados,MS,Brazil,4,13266
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,VDC,"P. Otacilio Figueiredo","Vitoria da Conquista",BA,Brazil,3,13065
+BOG,"El Dorado Intl",Bogota,,Colombia,PTX,"Pitalito Airport",Pitalito,,Colombia,14,12472
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AGT,"Guarani International Airport","Ciudad Del Este",,Paraguay,7,12252
+BOG,"El Dorado Intl",Bogota,,Colombia,GIG,"Galeao-A.C.Jobim Intl","Rio De Janeiro",RJ,Brazil,2,11520
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,IZA,"Presidente I. Franco","Juiz de Fora",MG,Brazil,4,11060
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,MEX,"Benito Juarez Intl","Mexico City",,Mexico,11,10875
+BOG,"El Dorado Intl",Bogota,,Colombia,BGI,"Grantley Adams International",Bridgetown,,Barbados,4,10400
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PFB,"Lauro Kurtz","Passo Fundo",RS,Brazil,5,9960
+CCS,"Simon Bolivar International",Caracas,,Venezuela,LFR,"La Fria","La Fria",,Venezuela,2,9559
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,ADD,"Bole International","Addis Ababa",,Ethiopia,3,9450
+CCS,"Simon Bolivar International",Caracas,,Venezuela,SCL,"Arturo M Benitez",Santiago,,Chile,9,8770
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,LCE,"La Ceiba Intl","La Ceiba",,Honduras,6,8604
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CUN,"Cancun International",Cancun,,Mexico,5,8551
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",ORD,"O'Hare International",Chicago-O'Hare,IL,"United States",10,8250
+BOG,"El Dorado Intl",Bogota,,Colombia,DFW,"Dallas/Ft Worth Intl","Dallas/Fort Worth",TX,"United States",9,8112
+BOG,"El Dorado Intl",Bogota,,Colombia,LMC,"La Macarena","La Macarena",,Colombia,8,8064
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,MDZ,"El Plumerillo",Mendoza,MD,Argentina,2,7176
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,OPO,Porto,Porto,,Portugal,4,7153
+CCS,"Simon Bolivar International",Caracas,,Venezuela,SFD,"Las Flecheras","San Fernando Apur",,Venezuela,6,7084
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,JFK,"John F Kennedy Intl","New York-JFK",NY,"United States",4,7020
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PVH,"J.T. de Oliveira Intl","Porto Velho",RO,Brazil,2,6396
+CCS,"Simon Bolivar International",Caracas,,Venezuela,LIS,Lisboa,Lisbon,,Portugal,8,6268
+SAL,"El Salvador Intl","San Salvador",,"El Salvador",EWR,"Newark Intl",Newark,NJ,"United States",15,5597
+CCS,"Simon Bolivar International",Caracas,,Venezuela,MGA,"Augusto C Sandino Intl",Managua,,Nicaragua,4,5408
+CCS,"Simon Bolivar International",Caracas,,Venezuela,ATL,"Hartsfield-Jackson ATL",Atlanta,GA,"United States",14,5279
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,CBB,"Jorge Wilstermann Intl",Cochabamba,,Bolivia,1,5265
+BOG,"El Dorado Intl",Bogota,,Colombia,MVP,"Fabio A. Leon Bentley",Mitu,,Colombia,12,4788
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,UBA,"M. de Almeida Franco",Uberaba,MG,Brazil,1,4422
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,PDP,"Punta Del Este-Arpt","Punta Del Este",,Uruguay,3,4350
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,UIO,"Mariscal Sucre Intl",Quito,,Ecuador,1,3645
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,EWR,"Newark Intl",Newark,NJ,"United States",4,3587
+CCS,"Simon Bolivar International",Caracas,,Venezuela,OPO,Porto,Porto,,Portugal,3,3376
+BOG,"El Dorado Intl",Bogota,,Colombia,FOR,"Pinto Martins International",Fortaleza,CE,Brazil,2,3300
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,BZE,"Belize International","Belize City",,Belize,14,2964
+BOG,"El Dorado Intl",Bogota,,Colombia,RNG,Rangely,Rangely,CO,"United States",1,2650
+SAP,"Ramon V. Morales Intl","San Pedro Sula",,Honduras,HAV,"Jose Marti Intl",Havana,,Cuba,6,2590
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,BGI,"Grantley Adams International",Bridgetown,,Barbados,1,2301
+GRU,"Guarulhos Intl","Sao Paulo-Guarulhos",SP,Brazil,AUA,"Reina Beatrix",Aruba,,Aruba,1,2301
+CCS,"Simon Bolivar International",Caracas,,Venezuela,FNC,"Madeira Airport",Madeira,,Portugal,3,1006
+CCS,"Simon Bolivar International",Caracas,,Venezuela,CUN,"Cancun International",Cancun,,Mexico,1,708
+CCS,"Simon Bolivar International",Caracas,,Venezuela,VLV,"Antonio N. Briceno",Valera,,Venezuela,1,561
+"No data",,,,,,,,,,,
