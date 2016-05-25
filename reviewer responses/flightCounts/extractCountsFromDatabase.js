@@ -16,8 +16,8 @@ show collections
 // scheduled on each day.
 
 var startDate = new Date(2016, 0, 1)
-// var endDate = new Date(2016, 0, 5)
-var endDate = new Date(2016, 5, 30)
+var endDate = new Date(2016, 0, 3)
+// var endDate = new Date(2016, 5, 30)
 
 // This array maps the output of getDay to Innovata's days. They start
 // numbering with 1 on Monday through 7 on Sunday.
@@ -40,10 +40,10 @@ function dayMap(date) {
 // dates are after the current date, and which occur on that day of the week.
 // This will take a while to run.
 
-var query = {}
-query["effectiveDate"] = {$lte: startDate}
-query["discontinuedDate"] = {$gte: startDate}
-query[dayMap(startDate)] = true
+// var query = {}
+// query["effectiveDate"] = {$lte: startDate}
+// query["discontinuedDate"] = {$gte: startDate}
+// query[dayMap(startDate)] = true
 
 var flightCountsByDate = []
 var iterDate = startDate
@@ -54,8 +54,9 @@ while (iterDate <= endDate) {
     query["discontinuedDate"] = {$gte: iterDate}
     query[dayMap(iterDate)] = true
     var CountOfFlightsOnDate = db.legs.find(query).count()
-    flightCountsByDate.push({date: iterDate, count: CountOfFlightsOnDate})
-    printjson({date: iterDate, count: CountOfFlightsOnDate})
+    flightCountsByDate.push({date: iterDate.toISOString(), count: CountOfFlightsOnDate})
+    printjson({date: iterDate.toISOString(), count: CountOfFlightsOnDate})
+    // print(JSON.stringify(flightCountsByDate, null, 4))
     iterDate.setDate(iterDate.getDate() + 1)
 }
 // printjson(flightCountsByDate) // Don't use this, because it leaves ISODate unquoted which throws a syntax error.
